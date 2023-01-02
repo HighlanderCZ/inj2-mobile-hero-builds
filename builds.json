@@ -2,23 +2,23 @@
    "heroes": [
       {
          "name": "Character",
-         "abbreviatons": ["ch", "chr"],
+         "abbreviations": ["ch", "chr"],
          "description": "",
          "image": null,
-         "passives": {
-            "passive_1": {
+         "passives": [
+            {
                "name": "Passive 1",
                "description": "Passive description"
             },
-            "passive_2": {
+            {
                "name": "Passive 2",
                "description": "Passive description"
             },
-            "passive_3": {
+            {
                "name": "Passive 3",
                "description": "Passive description"
             }
-         },
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build",
