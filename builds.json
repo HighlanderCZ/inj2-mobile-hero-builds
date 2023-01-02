@@ -1,9 +1,9 @@
 {
    "heroes": [
       {
-         "name": "Character",
-         "abbreviations": ["ch", "chr"],
-         "description": "",
+         "name": "Template",
+         "abbreviations": ["tpl", "tmpl"],
+         "description": "This is a template object.",
          "image": null,
          "passives": [
             {
@@ -21,9 +21,9 @@
          ],
          "builds": [
             {
-               "name": "Damage Dealer Build",
-               "description": "Build Description",
-               "author": "Build author",
+               "name": "Template Build",
+               "description": "Template build description",
+               "author": "Jane Doe",
                "hero_level": 1,
                "gear_level": 1,
                "gear": "15x ATK",
