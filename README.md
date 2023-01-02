@@ -8,4 +8,4 @@ An open source repository of all character builds for Injustice 2 Mobile. Free f
 
 ## License
 
-GNU General Public License (GPL)
+[GNU General Public License v3.0 (GPL)](LICENSE.md)
