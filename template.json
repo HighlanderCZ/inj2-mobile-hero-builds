@@ -1,0 +1,44 @@
+{
+   "name": "Template",
+   "abbreviations": ["tpl", "tmpl"],
+   "description": "This is a template object.",
+   "image": null,
+   "passives": [
+      {
+         "name": "Passive 1",
+         "description": "Passive description"
+      },
+      {
+         "name": "Passive 2",
+         "description": "Passive description"
+      },
+      {
+         "name": "Passive 3",
+         "description": "Passive description"
+      }
+   ],
+   "builds": [
+      {
+         "name": "Template Build",
+         "description": "Template build description",
+         "author": "Jane Doe",
+         "hero_level": 1,
+         "gear_level": 1,
+         "gear": "15x ATK",
+         "talents": "7x DEF",
+         "stats": {
+            "attack": 1,
+            "health": 1,
+            "defense": 1,
+            "blocking": 1,
+            "cad": 1,
+            "cac": 1,
+            "lac": 1,
+            "fac": 1,
+            "stun_resistance": 1,
+            "dot_resistance": 1,
+            "crit_resistance": 1
+         }
+      }
+   ]
+}
