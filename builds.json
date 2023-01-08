@@ -3,12 +3,17 @@
       {
          "name": "Atlantean Armor Aquaman",
          "abbreviations": ["aaa", "aaam"],
-         "description": "Work in progress",
+         "description": "Atlantean Armor Aquaman heals his whole team upon using any of his abilites. The amount of HP restored is based on his Attack stat, therefore it's beneficial to build him as a damage dealer with high Attack.",
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
          "image": "https://static.wikia.nocookie.net/injustice-2-mobile2242/images/1/15/DoDmTmLV4AEjaXg.jpg/revision/latest?cb=20190610154346",
-         "passives": [],
+         "passives": [
+            {
+               "name": "The Waterbearer",
+               "description": "[150% of Attack] Healing for 7 seconds after any Ability."
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
