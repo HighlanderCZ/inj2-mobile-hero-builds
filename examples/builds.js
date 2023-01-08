@@ -7,15 +7,16 @@ export const getBuild = async (abbreviation) => {
    const response = await fetch(endpoint);
 
    if (!response.ok) {
+      // Something went wrong with the network request
       throw new Error(`An error has occured while fetching data: ${response.status}`);
    }
 
    const data = await response.json();
+   // Find the first hero that matches our abbreviation
    const hero = data.heroes.find((hero) => hero.abbreviations.includes(abbreviation));
 
    if (hero) {
       const embeds = [];
-      const heroEmbed = new MessageEmbed();
       const colors = {
          silver: 0xd0e0e3,
          gold: 0xffd34d,
@@ -26,6 +27,8 @@ export const getBuild = async (abbreviation) => {
          ? colors[hero.rank.toLowerCase()]
          : colors.undetermined;
 
+      // First, create an embed with general information on the hero
+      const heroEmbed = new MessageEmbed();
       heroEmbed.setTitle(hero.name).setDescription(hero.description);
       heroEmbed.setColor(heroColor);
 
@@ -61,6 +64,7 @@ export const getBuild = async (abbreviation) => {
       embeds.push(heroEmbed);
 
       hero.builds.forEach((build) => {
+         // Each build gets its own embed
          const buildEmbed = new MessageEmbed();
 
          buildEmbed.setTitle(build.name).setDescription(build.description);
