@@ -79,6 +79,10 @@ export const getBuild = async (abbreviation) => {
             buildEmbed.setAuthor(author);
          }
 
+         if (build.footnote && build.footnote.length > 0) {
+            buildEmbed.setFooter({ text: build.footnote });
+         }
+
          buildEmbed.addField('Gear', build.gear);
          buildEmbed.addField('Talents', build.talents);
 
