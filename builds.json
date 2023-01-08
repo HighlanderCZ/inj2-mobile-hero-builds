@@ -1,3 +1,37 @@
 {
-   "heroes": []
+   "heroes": [
+      {
+         "name": "Atlantean Armor Aquaman",
+         "abbreviations": ["aaa", "aaam"],
+         "description": "Work in progress",
+         "class": "Might",
+         "rank": "Gold",
+         "image": null,
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build",
+               "description": "Work in progress",
+               "author": "edj1013 (Legion of Doom)",
+               "hero_level": 70,
+               "gear_level": 60,
+               "gear": "8x ATK, 3x DEF, 2x CAD, 2x CAC",
+               "talents": "4x CAD, 2x CAC",
+               "stats": {
+                  "attack": 4472,
+                  "health": 20028,
+                  "defense": "75%",
+                  "blocking": "-",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": 0,
+                  "dot_resistance": 0,
+                  "crit_resistance": 0
+               }
+            }
+         ]
+      }
+   ]
 }
