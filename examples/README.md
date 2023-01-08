@@ -20,6 +20,7 @@ client.on('messageCreate', (message) => {
 
       if (match) {
          // If it matches, call the getBuild function with the abbreviation as its lone argument
+         // We use match[1] because of how .match() works; match[0] is the entire messsage
          getBuild(match[1])
             .then((result) => {
                // If successful, getBuild returns an array of MessageEmbed objects
