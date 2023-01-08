@@ -1,26 +1,25 @@
 import { MessageEmbed } from 'discord.js';
 
-export const getBuilds = async (abbreviation) => {
+export const getBuild = async (abbreviation) => {
    const response = await fetch(
-      'https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json'
+      //"https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json"
+      'https://inj2.striky.cz/builds.json'
    );
 
    if (!response.ok) {
-      const message = `An error has occured: ${response.status}`;
-      throw new Error(message);
+      throw new Error(`An error has occured while fetching data: ${response.status}`);
    }
 
    const data = await response.json();
    const hero = data.heroes.find((hero) => hero.abbreviations.includes(abbreviation));
 
    if (hero) {
-      // Found hero
       const embeds = [];
       const heroEmbed = new MessageEmbed();
       const colors = {
-         silver: 'silver',
-         gold: 'gold',
-         legendary: 'purple',
+         silver: 0xd0e0e3,
+         gold: 0xffd34d,
+         legendary: 0xbf48ac,
       };
       const heroColor = colors[hero.rank.toLowerCase()];
 
@@ -37,7 +36,7 @@ export const getBuilds = async (abbreviation) => {
       });
 
       if (hero.image) {
-         hero.setImage(hero.image);
+         heroEmbed.setImage(hero.image);
       }
 
       if (hero.passives.length > 0) {
@@ -48,7 +47,7 @@ export const getBuilds = async (abbreviation) => {
 
       embeds.push(heroEmbed);
 
-      hero.build.forEach((build) => {
+      hero.builds.forEach((build) => {
          const buildEmbed = new MessageEmbed();
 
          buildEmbed.setTitle(build.name).setDescription(build.description);
@@ -67,12 +66,8 @@ export const getBuilds = async (abbreviation) => {
          embeds.push(buildEmbed);
       });
 
-      // Do something with embeds
+      return embeds;
    } else {
-      // Not found
+      throw new Error(`No builds exists for '${abbreviation}'.`);
    }
 };
-
-getBuilds().catch((error) => {
-   error.message;
-});
