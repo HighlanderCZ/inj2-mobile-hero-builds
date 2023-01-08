@@ -6,11 +6,11 @@
          "description": "Work in progress",
          "class": "Might",
          "rank": "Gold",
-         "image": null,
+         "image": "https://static.wikia.nocookie.net/injustice-2-mobile2242/images/1/15/DoDmTmLV4AEjaXg.jpg/revision/latest?cb=20190610154346",
          "passives": [],
          "builds": [
             {
-               "name": "Damage Dealer Build",
+               "name": "Damage Dealer Build (G60)",
                "description": "Work in progress",
                "author": "edj1013 (Legion of Doom)",
                "hero_level": 70,
