@@ -2,6 +2,8 @@
    "name": "Template",
    "abbreviations": ["tpl", "tmpl"],
    "description": "This is a template object.",
+   "class": "Class",
+   "rank": "Rank",
    "image": null,
    "passives": [
       {
