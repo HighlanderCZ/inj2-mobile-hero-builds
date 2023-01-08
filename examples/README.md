@@ -33,6 +33,8 @@ client.on('messageCreate', (message) => {
                // yet, etc.
                message.channel.send(`Unable to get build: ${error.message}`);
             });
+      } else {
+         message.channel.send(`Command isn't in the required format; try '**!build jsgl'`);
       }
    }
 });
