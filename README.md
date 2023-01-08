@@ -6,7 +6,7 @@ An open source repository of all character builds for Injustice 2 Mobile. Free f
 
 ## Credits
 
--  [Legion of Doom Discord](https://discord.gg/eXmxRWa2) and **edj1013**
+-  [Legion of Doom Discord](https://discord.gg/eXmxRWa2) and **@ejd1013**
 -  [Injustice 2 Mobile Wiki](https://injustice-2-mobile.fandom.com/wiki/Injustice_2_Mobile_Wiki)
 
 ## License
