@@ -81,7 +81,22 @@ export const getBuild = async (abbreviation) => {
 
          buildEmbed.addField('Gear', build.gear);
          buildEmbed.addField('Talents', build.talents);
-         buildEmbed.addField('Stats', build.talents);
+
+         const stats = [
+            `Attack: ${build.stats.attack}`,
+            `Health: ${build.stats.health}`,
+            `Defense: ${build.stats.defense}`,
+            `Blocking: ${build.stats.blocking}`,
+            `CAD: ${build.stats.cad}`,
+            `CAC: ${build.stats.cac}`,
+            `LAC: ${build.stats.lac}`,
+            `FAC: ${build.stats.fac}`,
+            `Stun resistance: ${build.stats.stun_resistance}`,
+            `DoT resistance: ${build.stats.dot_resistance}`,
+            `Crit resistance: ${build.stats.crit_resistance}`,
+         ];
+
+         buildEmbed.addField('Stats', stats.join('\n'));
 
          embeds.push(buildEmbed);
       });
