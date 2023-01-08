@@ -30,9 +30,34 @@
                   "cac": "75%",
                   "lac": "1%",
                   "fac": "1%",
-                  "stun_resistance": 0,
-                  "dot_resistance": 0,
-                  "crit_resistance": 0
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            },
+            {
+               "name": "Damage Dealer Build (G70)",
+               "description": "Work in progress",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "12x ATK, 1x CAC, 2x CAD",
+               "talents": "3x CAD, 3x CAC",
+               "stats": {
+                  "attack": 6002,
+                  "health": 21028,
+                  "defense": "34%",
+                  "blocking": "-",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
                }
             }
          ]
