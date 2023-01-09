@@ -66,6 +66,43 @@
                }
             }
          ]
+      },
+      {
+         "name": "Ace Green Arrow",
+         "abbreviations": ["aga"],
+         "description": "This is a template object.",
+         "footnote": "",
+         "class": "Class",
+         "rank": "Rank",
+         "image": null,
+         "passives": [],
+         "builds": [
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 60,
+               "gear": "13x HLTH, 2x DEF",
+               "talents": "4x RES, 2x DEF",
+               "stats": {
+                  "attack": 3077,
+                  "health": 52528,
+                  "defense": "75%",
+                  "blocking": "--",
+                  "cad": "150%",
+                  "cac": "32%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
       }
    ]
 }
