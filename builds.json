@@ -1676,6 +1676,489 @@
                }
             }
          ]
+      },
+      {
+         "name": "Flora Poison Ivy",
+         "abbreviations": ["fpi"],
+         "description": "",
+         "footnote": "",
+         "class": "Meta",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/flora_poison_ivy.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Balanced Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "10x ATK, 3x HLTH, 2x DEF",
+               "talents": "4x RES, 2x DEF",
+               "stats": {
+                  "attack": 5527,
+                  "health": 26102,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "21%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            },
+            {
+               "name": "Damage Dealer Build (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "12x ATK, 2x CAD, 1x CAC",
+               "talents": "3x CAC, 3x CAD",
+               "stats": {
+                  "attack": 6557,
+                  "health": 19602,
+                  "defense": "24%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "21%",
+                  "fac": "1%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Firestorm",
+         "abbreviations": ["fs"],
+         "description": "",
+         "footnote": "",
+         "class": "Arcane",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/firestorm.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "13x HLTH, 2x DEF",
+               "talents": "4x RES, 2x DEF",
+               "stats": {
+                  "attack": 2945,
+                  "health": 53920,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Golden Armor Wonder Woman",
+         "abbreviations": ["gaww"],
+         "description": "",
+         "footnote": "",
+         "class": "Arcane",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/golden_armor_wonder_woman.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "12x ATK, 3x CAC",
+               "talents": "6x CAD",
+               "stats": {
+                  "attack": 6859,
+                  "health": 32486,
+                  "defense": "44%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "10%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Collector of Worlds Superman",
+         "abbreviations": ["cows", "cowsm"],
+         "description": "",
+         "footnote": "",
+         "class": "Tech",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/collector_of_worlds_superman.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "2x CAD, 1x CAC, 12x ATK",
+               "talents": "3x CAD, 2x CAC, 1x AP",
+               "stats": {
+                  "attack": 7504,
+                  "health": 28027,
+                  "defense": "34%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            },
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "13x HLTH, 2x DEF",
+               "talents": "4x RES, 2x DEF",
+               "stats": {
+                  "attack": 3974,
+                  "health": 59740,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "22%",
+                  "cac": "22%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Grid",
+         "abbreviations": ["grd"],
+         "description": "",
+         "footnote": "",
+         "class": "Tech",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/grid.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "13x HLTH, 2x DEF",
+               "talents": "3x RES, 2x DEF",
+               "stats": {
+                  "attack": 2801,
+                  "health": 56464,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Hellboy",
+         "abbreviations": ["hb"],
+         "description": "",
+         "footnote": "",
+         "class": "Arcane",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/hellboy.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "11x ATK, 2x CAD, 2x CAC",
+               "talents": "4x CAD, 2x CAC",
+               "stats": {
+                  "attack": 5537,
+                  "health": 22248,
+                  "defense": "31%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "10%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            },
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "9x HLTH, 1x DEF, 5x FAC",
+               "talents": "3x RES, 3x DEF",
+               "stats": {
+                  "attack": 2787,
+                  "health": 44748,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "1%",
+                  "fac": "75%",
+                  "stun_resistance": "70%",
+                  "dot_resistance": "60%",
+                  "crit_resistance": "60%"
+               }
+            },
+            {
+               "name": "Balanced Build (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "8x ATK, 1x CAC, 3x CAD, 2x FAC, 1x DEF",
+               "talents": "3x CAC, 1x CAD, 2x DEF",
+               "stats": {
+                  "attack": 5157,
+                  "health": 22428,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "294%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "35%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Heartbreaker Harley Quinn",
+         "abbreviations": ["hbhq"],
+         "description": "",
+         "footnote": "",
+         "class": "Agility",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/heartbreaker_harley_quinn.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "6x ATK, 4x FAC, 4x CAD, 1x CAC",
+               "talents": "4x AP, 2x CAC",
+               "stats": {
+                  "attack": 4831,
+                  "health": 26896,
+                  "defense": "24%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "75%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "10%"
+               }
+            },
+            {
+               "name": "Damage Dealer Alternative Build #1 (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "7x ATK, 3x FAC, 4x CAD, 1x CAC",
+               "talents": "4x AP, 2x CAC",
+               "stats": {
+                  "attack": 5121,
+                  "health": 26896,
+                  "defense": "24%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "66%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "10%"
+               }
+            },
+            {
+               "name": "Damage Dealer Alternative Build #2 (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "8x ATK, 4x CAD, 3x FAC",
+               "talents": "3x AP, 3x CAC",
+               "stats": {
+                  "attack": 5411,
+                  "health": 26896,
+                  "defense": "24%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "66%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Horrific Scarecrow",
+         "abbreviations": ["hsc"],
+         "description": "",
+         "footnote": "",
+         "class": "Meta",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/horrific_scarecrow.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "13x HLTH, 2x DEF",
+               "talents": "4x RES, 2x DEF",
+               "stats": {
+                  "attack": 3103,
+                  "health": 53416,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Hush",
+         "abbreviations": ["hsh"],
+         "description": "",
+         "footnote": "",
+         "class": "Agility",
+         "rank": "Gold",
+         "image": "https://place.holder/assets/images/hush.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70, 7⭐)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "8x ATK, 3x CAD, 4x FAC",
+               "talents": "1x CAD, 3x CAC, 2x DEF (7th talent open and not included)",
+               "stats": {
+                  "attack": 6009,
+                  "health": 27642,
+                  "defense": "53%",
+                  "blocking": "?",
+                  "cad": "294%",
+                  "cac": "61%",
+                  "lac": "1%",
+                  "fac": "69%",
+                  "stun_resistance": "30%",
+                  "dot_resistance": "20%",
+                  "crit_resistance": "20%"
+               }
+            }
+         ]
       }
    ]
 }
