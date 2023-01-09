@@ -7,7 +7,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
-         "image": "atlantean_armor_aquaman.jpeg",
+         "image": "https://place.holder/assets/images/atlantean_armor_aquaman.jpeg",
          "passives": [
             {
                "name": "The Waterbearer",
@@ -74,7 +74,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
-         "image": "ace_green_arrow.jpeg",
+         "image": "https://place.holder/assets/images/ace_green_arrow.jpeg",
          "passives": [],
          "builds": [
             {
@@ -173,7 +173,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
-         "image": "armored_superman.jpeg",
+         "image": "https://place.holder/assets/images/armored_superman.jpeg",
          "passives": [],
          "builds": [
             {
@@ -235,7 +235,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
-         "image": "atrocitus.jpeg",
+         "image": "https://place.holder/assets/images/atrocitus.jpeg",
          "passives": [],
          "builds": [
             {
@@ -297,7 +297,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
-         "image": "black_adam.jpeg",
+         "image": "https://place.holder/assets/images/black_adam.jpeg",
          "passives": [],
          "builds": [
             {
@@ -334,7 +334,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
-         "image": "ruler_of_kahndaq_black_adam.jpeg",
+         "image": "https://place.holder/assets/images/ruler_of_kahndaq_black_adam.jpeg",
          "passives": [],
          "builds": [
             {
@@ -371,7 +371,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
-         "image": "blue_beetle.jpeg",
+         "image": "https://place.holder/assets/images/blue_beetle.jpeg",
          "passives": [],
          "builds": [
             {
@@ -433,7 +433,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
-         "image": "blademaster_robin.jpeg",
+         "image": "https://place.holder/assets/images/blademaster_robin.jpeg",
          "passives": [],
          "builds": [
             {
@@ -470,7 +470,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
-         "image": "bn_batman.jpeg",
+         "image": "https://place.holder/assets/images/bn_batman.jpeg",
          "passives": [],
          "builds": [
             {
@@ -557,7 +557,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
-         "image": "bn_catwoman.jpeg",
+         "image": "https://place.holder/assets/images/bn_catwoman.jpeg",
          "passives": [],
          "builds": [
             {
@@ -619,7 +619,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Legendary",
-         "image": "bn_gorilla_grodd.jpeg",
+         "image": "https://place.holder/assets/images/bn_gorilla_grodd.jpeg",
          "passives": [],
          "builds": [
             {
@@ -681,7 +681,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
-         "image": "bn_harley_quinn.jpeg",
+         "image": "https://place.holder/assets/images/bn_harley_quinn.jpeg",
          "passives": [],
          "builds": [
             {
@@ -718,7 +718,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
-         "image": "bn_lord_joker.jpeg",
+         "image": "https://place.holder/assets/images/bn_lord_joker.jpeg",
          "passives": [],
          "builds": [
             {
@@ -755,7 +755,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
-         "image": "bn_robin.jpeg",
+         "image": "https://place.holder/assets/images/bn_robin.jpeg",
          "passives": [],
          "builds": [
             {
@@ -817,7 +817,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Legendary",
-         "image": "brainiac.jpeg",
+         "image": "https://place.holder/assets/images/brainiac.jpeg",
          "passives": [],
          "builds": [
             {
@@ -854,7 +854,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Legendary",
-         "image": "batman_who_laughs.jpeg",
+         "image": "https://place.holder/assets/images/batman_who_laughs.jpeg",
          "passives": [],
          "builds": [
             {
@@ -916,7 +916,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
-         "image": "batwoman_the_drowned.jpeg",
+         "image": "https://place.holder/assets/images/batwoman_the_drowned.jpeg",
          "passives": [],
          "builds": [
             {
