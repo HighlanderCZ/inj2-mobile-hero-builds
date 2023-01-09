@@ -1,6 +1,6 @@
 # Injustice 2 Mobile - Hero builds
 
-## EXAMPLES
+## Examples
 
 `builds.js` contains a working implementation for Discord.js:
 
