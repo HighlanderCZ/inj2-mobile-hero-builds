@@ -12,6 +12,7 @@ export const getBuild = async (abbreviation) => {
    }
 
    const data = await response.json();
+
    // Find the first hero that matches our abbreviation
    const hero = data.heroes.find((hero) => hero.abbreviations.includes(abbreviation));
 
