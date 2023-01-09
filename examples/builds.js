@@ -58,7 +58,7 @@ const createEmbeds = (hero) => {
          buildEmbed.setDescription(build.description);
       }
 
-      if (build.author) {
+      if (build.author && build.author.length > 0) {
          buildEmbed.setAuthor({
             name: `Courtesy of ${build.author}`,
          });
