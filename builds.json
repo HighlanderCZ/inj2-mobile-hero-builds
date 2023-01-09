@@ -70,10 +70,10 @@
       {
          "name": "Ace Green Arrow",
          "abbreviations": ["aga"],
-         "description": "This is a template object.",
+         "description": "",
          "footnote": "",
-         "class": "Class",
-         "rank": "Rank",
+         "class": "Tech",
+         "rank": "Gold",
          "image": null,
          "passives": [],
          "builds": [
@@ -95,6 +95,68 @@
                   "blocking": "--",
                   "cad": "150%",
                   "cac": "32%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Arkham Knight Batman",
+         "abbreviations": ["akbm"],
+         "description": "",
+         "footnote": "",
+         "class": "Agility",
+         "rank": "Legendary",
+         "image": null,
+         "passives": [],
+         "builds": [
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 60,
+               "gear": "15x HLTH",
+               "talents": "4x RES, 2x DEF (or 2x BE)",
+               "stats": {
+                  "attack": 3746,
+                  "health": 65688,
+                  "defense": "21%",
+                  "blocking": "--",
+                  "cad": "175%",
+                  "cac": "34%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            },
+            {
+               "name": "Damage Dealer Build (G70",
+               "description": "",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "11x ATK, 1x CAC, 3x CAD",
+               "talents": "4x RES, 2x CAC",
+               "stats": {
+                  "attack": 6986,
+                  "health": 27652,
+                  "defense": "24%",
+                  "blocking": "--",
+                  "cad": "295%",
+                  "cac": "75%",
                   "lac": "1%",
                   "fac": "1%",
                   "stun_resistance": "75%",
