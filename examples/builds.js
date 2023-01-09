@@ -29,8 +29,12 @@ export const getBuild = async (abbreviation) => {
 
       // First, create an embed with general information on the hero
       const heroEmbed = new MessageEmbed();
-      heroEmbed.setTitle(hero.name).setDescription(hero.description);
+      heroEmbed.setTitle(hero.name);
       heroEmbed.setColor(heroColor);
+
+      if (hero.description && hero.description.length > 0) {
+         heroEmbed.setDescription(hero.description);
+      }
 
       if (hero.footnote && hero.footnote.length > 0) {
          heroEmbed.setFooter({ text: hero.footnote });
@@ -67,8 +71,12 @@ export const getBuild = async (abbreviation) => {
          // Each build gets its own embed
          const buildEmbed = new MessageEmbed();
 
-         buildEmbed.setTitle(build.name).setDescription(build.description);
+         buildEmbed.setTitle(build.name);
          buildEmbed.setColor(heroColor);
+
+         if (build.description && build.description.length > 0) {
+            buildEmbed.setDescription(build.description);
+         }
 
          if (build.author) {
             const author = {

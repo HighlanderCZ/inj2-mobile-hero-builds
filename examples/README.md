@@ -15,7 +15,7 @@ client.on('messageCreate', (message) => {
    // Only execute if the message is from a real user and starts with the command we want to watch for
    if (message.content.startsWith('!build') && !message.author.bot) {
       // Check if the message follows the desired format: '!build name'
-      const regex = /!build\s{1}(w+)/;
+      const regex = /!build\s{1}(\w+)/;
       const match = message.content.match(regex);
 
       if (match) {
