@@ -94,14 +94,8 @@ export const getBuild = async (abbreviation) => {
 
    if (!cachedResponse) {
       // Nothing in cache, let's fetch the data
-      const token = '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';
-      const endpoint =
-         'https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json?token=GHSAT0AAAAAAB4UZPZFPFJZ5YCN2SEKHKWSY524GQA';
-      const response = await fetch(endpoint, {
-         headers: {
-            authorization: `token ${token}`,
-         },
-      });
+      const endpoint = 'https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json';
+      const response = await fetch(endpoint);
 
       if (!response.ok) {
          throw new Error(`An error has occured: ${response.status}`);
