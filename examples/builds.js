@@ -113,6 +113,6 @@ export const getBuild = async (abbreviation) => {
    if (hero) {
       return createEmbeds(hero);
    } else {
-      throw new Error(`No builds exists for '${abbreviation}'.`);
+      throw new Error(`No builds exist for '${abbreviation}'.`);
    }
 };
