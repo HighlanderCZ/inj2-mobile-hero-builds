@@ -507,7 +507,7 @@
                "footnote": "",
                "hero_level": 70,
                "gear_level": 60,
-               "gear": "8x ATK, 4x CAD, 3x LETH",
+               "gear": "8x ATK, 4x CAD, 3x LAC",
                "talents": "4x CAC, 1x CAD, 1x LAC",
                "stats": {
                   "attack": 5452,
@@ -569,7 +569,7 @@
                "footnote": "",
                "hero_level": 70,
                "gear_level": 70,
-               "gear": "5x ATK, 4x FAC, 2x CAD, 1x CAC, 3x LETH",
+               "gear": "5x ATK, 4x FAC, 2x CAD, 1x CAC, 3x LAC",
                "talents": "3x CAD, 2x CAC, 1x LAC",
                "stats": {
                   "attack": 4476,
@@ -595,7 +595,7 @@
                "hero_level": 70,
                "gear_level": 70,
                "gear": "8x ATK, 4x FAC, 2x CAD, 1x CAC",
-               "talents": "3x CAD, 2x CAC, 1x LETH",
+               "talents": "3x CAD, 2x CAC, 1x LAC",
                "stats": {
                   "attack": 5346,
                   "health": 25252,
@@ -631,7 +631,7 @@
                "footnote": "",
                "hero_level": 70,
                "gear_level": 70,
-               "gear": "5x ATK, 4x FAC, 3x LETH, 2x CAD, 1x CAC",
+               "gear": "5x ATK, 4x FAC, 3x LAC, 2x CAD, 1x CAC",
                "talents": "3x CAD, 3x CAC",
                "stats": {
                   "attack": 4673,
@@ -730,7 +730,7 @@
                "footnote": "",
                "hero_level": 70,
                "gear_level": 70,
-               "gear": "6x ATK, 4x FAC, 3x LETH, 2x CAD",
+               "gear": "6x ATK, 4x FAC, 3x LAC, 2x CAD",
                "talents": "4x CAC, 2x CAD",
                "stats": {
                   "attack": 5131,
@@ -767,7 +767,7 @@
                "footnote": "",
                "hero_level": 70,
                "gear_level": 70,
-               "gear": "9x ATK, 2x LETH, 2x CAD, 2x CAC",
+               "gear": "9x ATK, 2x LAC, 2x CAD, 2x CAC",
                "talents": "1x CAC, 3x CAD, 2x LAC",
                "stats": {
                   "attack": 5586,
@@ -806,6 +806,167 @@
                   "stun_resistance": "0%",
                   "dot_resistance": "0%",
                   "crit_resistance": "10%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Brainiac",
+         "abbreviations": ["brn", "bnc"],
+         "description": "",
+         "footnote": "",
+         "class": "Tech",
+         "rank": "Legendary",
+         "image": "brainiac.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Tank Build (G70)",
+               "description": "",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "11x HLTH, 1x LAC, 3x DEF",
+               "talents": "4x RES, 2x LAC",
+               "stats": {
+                  "attack": 3523,
+                  "health": 58400,
+                  "defense": "75%",
+                  "blocking": "--",
+                  "cad": "150%",
+                  "cac": "25%",
+                  "lac": "56%",
+                  "fac": "11%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "The Batman Who Laughs",
+         "abbreviations": ["bwl"],
+         "description": "",
+         "footnote": "",
+         "class": "Agility",
+         "rank": "Legendary",
+         "image": "batman_who_laughs.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70, 7⭐)",
+               "description": "",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "9x ATK, 2x DEF, 4x FAC",
+               "talents": "2x AP, 3x CAD, 1x CAC, Legendary CAD",
+               "stats": {
+                  "attack": 7521,
+                  "health": 35867,
+                  "defense": "68%",
+                  "blocking": "--",
+                  "cad": "297%",
+                  "cac": "58%",
+                  "lac": "1%",
+                  "fac": "69%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "10%",
+                  "crit_resistance": "0%"
+               }
+            },
+            {
+               "name": "Damage Dealer Alternate Build (G70, 7⭐)",
+               "description": "",
+               "author": "Devo and edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "7x ATK, 4x FAC, 2x CAD, 1x CAC, 1x DEF",
+               "talents": "2x DEF, 2x CAD, 1x CAC, 1x RES, Legendary RES",
+               "stats": {
+                  "attack": 6941,
+                  "health": 35867,
+                  "defense": "75%",
+                  "blocking": "--",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "69%",
+                  "stun_resistance": "60%",
+                  "dot_resistance": "70%",
+                  "crit_resistance": "60%"
+               }
+            }
+         ]
+      },
+      {
+         "name": "Batwoman The Drowned",
+         "abbreviations": ["bwtd", "bwd"],
+         "description": "",
+         "footnote": "",
+         "class": "Might",
+         "rank": "Gold",
+         "image": "batwoman_the_drowned.jpeg",
+         "passives": [],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70, 7⭐)",
+               "description": "",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "9x ATK, 2x DEF, 2x CAD, 2x CAC",
+               "talents": "3x CAD, 1x CAC, 1x DEF, 1x RES, 7th RES",
+               "stats": {
+                  "attack": 7521,
+                  "health": "28091 (may be slightly off)",
+                  "defense": "75%",
+                  "blocking": "--",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "60%",
+                  "dot_resistance": "60%",
+                  "crit_resistance": "60%"
+               }
+            },
+            {
+               "name": "Lethal Build w/ Dark Metal Cards (G70, 7⭐)",
+               "description": "DMC is assumed to be level 10 with 3 Lethal Attack Damage bonuses",
+               "author": "edj1013 via Legion of Doom",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 70,
+               "gear": "7x ATK, 3x LAC, 2x DEF, 2x CAD, 1x CAC",
+               "talents": "3x CAD, 2x CAC, 1x LAC, Legendary LAC",
+               "stats": {
+                  "attack": "?,???",
+                  "health": "??,???",
+                  "defense": "73%",
+                  "blocking": "--",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "60%",
+                  "fac": "0%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
                }
             }
          ]
