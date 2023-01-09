@@ -35,7 +35,7 @@ client.on('messageCreate', (message) => {
             });
       } else {
          // We don't have a match, give the user a hint on how to use the command
-         message.channel.send(`Command isn't in the required format; try '**!build jsgl'`);
+         message.channel.send(`Command isn't in the required format; try '**!build jsgl**'`);
       }
    }
 });
