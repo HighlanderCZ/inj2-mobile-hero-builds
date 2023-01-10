@@ -917,7 +917,36 @@
          "class": "Might",
          "rank": "Gold",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batwoman_the_drowned.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Dead Water Infection",
+               "description": "The Drowned infects the opponent with successful Basic and Swipe Attacks, reducing their healing effectiveness. Batwoman increases damage from Metal teammates' attacks and Hazard DoT from all teammates per each Infection stack on the active opponent. Each 4th applied stack produces Crisis Energy.",
+               "effects": [
+                  "+4 seconds of Infection on successful Basic and Swipe attacks.",
+                  "Infection: Opponent's Healing effectiveness decreases by 5%. Stack up to 15.",
+                  "For each Infection stack on the current opponent, all Hazard DoT ticks deal 9% more damage and all Damage from Metal characters is increased by 19%",
+                  "Each 4th applied Infection stack grants 1.25 Crisis Bar"
+               ]
+            },
+            {
+               "name": "Ultimate Hydrokinesis",
+               "description": "When the level of Crisis Energy reaches its maximum, The Drowned uses her devastating hydrokinetic powers to resurrect Metal teammate and flood an entire level with her Ultimate Hazard.",
+               "effects": [
+                  "700% of The Drowned's Attack stat as Hazard DoT for 16 seconds",
+                  "Resurrect 1 Metal teammate per activation. Max 4 resurrections per match",
+                  "Resurrect Metal teammate with 86% health"
+               ]
+            },
+            {
+               "name": "Crisis Engineering",
+               "description": "The Drowned can power up her Specials by spending Crisis Energy on them in addition to Power. By tapping the Special button for the 2nd time, her Specials will also create a Hazard DoT.",
+               "effects": [
+                  "140% Attack as Hazard DoT on Special 1 for 7 seconds",
+                  "180% Attack as Hazard DoT and 6% Max Health restored per second for all teammates on Special 2 for 8 seconds",
+                  "220% Attack as Hazard DoT and disable all opponent's Specials on Special 3 for 9 seconds"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",

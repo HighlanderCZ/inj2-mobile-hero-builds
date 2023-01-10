@@ -47,7 +47,7 @@ const createEmbeds = (hero) => {
          let description = passive.description;
 
          if (passive.effects && passive.effects.length > 0) {
-            description += `\n -${passive.effects.join('\n -')}`;
+            description += `\n \u2022 ${passive.effects.join('\n \u2022 ')}`;
          }
 
          heroEmbed.addField(passive.name, description);
