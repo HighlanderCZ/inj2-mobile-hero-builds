@@ -7,6 +7,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/atlantean_armor_aquaman.jpeg",
          "passives": [
             {
@@ -74,6 +75,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ace_green_arrow.jpeg",
          "passives": [],
          "builds": [
@@ -111,6 +113,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/arkham_knight_batman.jpeg",
          "passives": [],
          "builds": [
@@ -173,6 +176,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/armored_superman.jpeg",
          "passives": [],
          "builds": [
@@ -235,6 +239,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/atrocitus.jpeg",
          "passives": [],
          "builds": [
@@ -297,6 +302,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_adam.jpeg",
          "passives": [],
          "builds": [
@@ -334,6 +340,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
+         "team": "Flawed Justice",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ruler_of_kahndaq_black_adam.jpeg",
          "passives": [],
          "builds": [
@@ -371,6 +378,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/blue_beetle.jpeg",
          "passives": [],
          "builds": [
@@ -433,6 +441,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/blademaster_robin.jpeg",
          "passives": [],
          "builds": [
@@ -470,6 +479,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_batman.jpeg",
          "passives": [],
          "builds": [
@@ -557,6 +567,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_catwoman.jpeg",
          "passives": [],
          "builds": [
@@ -619,6 +630,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Legendary",
+         "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_gorilla_grodd.jpeg",
          "passives": [],
          "builds": [
@@ -681,6 +693,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_harley_quinn.jpeg",
          "passives": [],
          "builds": [
@@ -718,6 +731,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_lord_joker.jpeg",
          "passives": [],
          "builds": [
@@ -755,6 +769,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_robin.jpeg",
          "passives": [],
          "builds": [
@@ -817,6 +832,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/brainiac.jpeg",
          "passives": [],
          "builds": [
@@ -854,6 +870,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Legendary",
+         "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batman_who_laughs.jpeg",
          "passives": [],
          "builds": [
@@ -916,6 +933,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batwoman_the_drowned.jpeg",
          "passives": [
             {
@@ -1007,6 +1025,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_batman.jpeg",
          "passives": [],
          "builds": [
@@ -1044,6 +1063,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/captain_cold.jpeg",
          "passives": [],
          "builds": [
@@ -1106,6 +1126,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/cheetah.jpeg",
          "passives": [],
          "builds": [
@@ -1193,6 +1214,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_wonder_woman.jpeg",
          "passives": [],
          "builds": [
@@ -1255,6 +1277,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/doctor_fate.jpeg",
          "passives": [],
          "builds": [
@@ -1292,6 +1315,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/darkseid.jpeg",
          "passives": [
             {
@@ -1395,6 +1419,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/dark_supergirl.jpeg",
          "passives": [],
          "builds": [
@@ -1457,6 +1482,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/deathstroke.jpeg",
          "passives": [],
          "builds": [
@@ -1494,6 +1520,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/enraged_bane.jpeg",
          "passives": [],
          "builds": [
@@ -1531,6 +1558,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/emerald_green_lantern.jpeg",
          "passives": [],
          "builds": [
@@ -1593,6 +1621,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/entangling_poison_ivy.jpeg",
          "passives": [],
          "builds": [
@@ -1630,6 +1659,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/energized_starfire.jpeg",
          "passives": [],
          "builds": [
@@ -1692,6 +1722,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/elder_swamp_thing.jpeg",
          "passives": [],
          "builds": [
@@ -1729,6 +1760,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/flora_poison_ivy.jpeg",
          "passives": [],
          "builds": [
@@ -1791,6 +1823,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/firestorm.jpeg",
          "passives": [],
          "builds": [
@@ -1828,6 +1861,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/golden_armor_wonder_woman.jpeg",
          "passives": [],
          "builds": [
@@ -1865,6 +1899,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/collector_of_worlds_superman.jpeg",
          "passives": [],
          "builds": [
@@ -1927,6 +1962,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/grid.jpeg",
          "passives": [],
          "builds": [
@@ -1964,6 +2000,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hellboy.jpeg",
          "passives": [],
          "builds": [
@@ -2051,8 +2088,28 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/heartbreaker_harley_quinn.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "It's Not Me, It's You",
+               "description": "Teammates targeted by Stun attacks gain a chance to reflect them, stunning the attacker instead. Harley also increases Hero XP earnings for all combatants within the same Roster.",
+               "effects": ["75% for the team to Reflect stuns", "+18% XP bonus"]
+            },
+            {
+               "name": "Let Your Guard Down",
+               "description": "Heartbreaker Harley Quinn reduces the opposing team's Stun resistance and DoT resistance.",
+               "effects": ["-70% opposing team's Stun resistance", "-75% opposing team's DoT resistance"]
+            },
+            {
+               "name": "Straight to the Heart",
+               "description": "Until she is knocked out, Heartbreaker Harley Quinn and her teammates deal increased damage on opponents while they are stunned. Critical Hits against Harley and League of Anarchy teammates are greatly reduced in damage.",
+               "effects": [
+                  "+300% damage against stunned opponents",
+                  "120% Critical damage multiplier reduction for League of Anarchy team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -2138,6 +2195,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/horrific_scarecrow.jpeg",
          "passives": [],
          "builds": [
@@ -2175,6 +2233,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hush.jpeg",
          "passives": [],
          "builds": [
@@ -2212,6 +2271,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_aquaman.jpeg",
          "passives": [],
          "builds": [
@@ -2249,6 +2309,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_batman.jpeg",
          "passives": [],
          "builds": [
@@ -2336,6 +2397,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_cyborg.jpeg",
          "passives": [],
          "builds": [
@@ -2373,6 +2435,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_flash.jpeg",
          "passives": [],
          "builds": [
@@ -2410,6 +2473,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Legendary",
+         "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_superman.jpeg",
          "passives": [],
          "builds": [
@@ -2472,6 +2536,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jon_stewart_green_lantern.jpeg",
          "passives": [],
          "builds": [
@@ -2509,6 +2574,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/knightmare_batman.jpeg",
          "passives": [],
          "builds": [
@@ -2546,6 +2612,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/king_of_atlantis_aquaman.jpeg",
          "passives": [],
          "builds": [
@@ -2608,6 +2675,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/last_laugh_joker.jpeg",
          "passives": [],
          "builds": [
@@ -2670,6 +2738,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mr_freeze.jpeg",
          "passives": [],
          "builds": [
@@ -2707,6 +2776,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/martian_manhunter.jpeg",
          "passives": [],
          "builds": [
@@ -2769,6 +2839,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/master_thief_catwoman.jpeg",
          "passives": [],
          "builds": [
@@ -2806,6 +2877,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_armored_supergirl.jpeg",
          "passives": [],
          "builds": [
@@ -2843,6 +2915,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_black_lightning.jpeg",
          "passives": [],
          "builds": [
@@ -2905,6 +2978,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_batwoman.jpeg",
          "passives": [],
          "builds": [
@@ -2942,6 +3016,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_captain_cold.jpeg",
          "passives": [],
          "builds": [
@@ -3004,6 +3079,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_flash.jpeg",
          "passives": [],
          "builds": [
@@ -3041,6 +3117,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_green_arrow.jpeg",
          "passives": [],
          "builds": [
@@ -3103,6 +3180,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_supergirl.jpeg",
          "passives": [],
          "builds": [
@@ -3165,6 +3243,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_white_canary.jpeg",
          "passives": [],
          "builds": [
@@ -3202,6 +3281,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mythic_wonder_woman.jpeg",
          "passives": [],
          "builds": [
@@ -3239,6 +3319,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/nightwing.jpeg",
          "passives": [],
          "builds": [
@@ -3301,6 +3382,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/predator_batman.jpeg",
          "passives": [],
          "builds": [
@@ -3363,6 +3445,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/power_girl.jpeg",
          "passives": [],
          "builds": [
@@ -3425,6 +3508,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/supergirl.jpeg",
          "passives": [],
          "builds": [
@@ -3462,6 +3546,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/raiden.jpeg",
          "passives": [],
          "builds": [
@@ -3524,8 +3609,25 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/raven.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Darkness Fall",
+               "description": "",
+               "effects": []
+            },
+            {
+               "name": "Demonic Rage",
+               "description": "",
+               "effects": []
+            },
+            {
+               "name": "Dark Energy",
+               "description": "Using dark magic, Raven enhances her team's Power Generation buffs.",
+               "effects": ["Enhances team Power Generation buffs by 100%"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -3586,6 +3688,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/reverse_flash.jpeg",
          "passives": [],
          "builds": [
@@ -3623,6 +3726,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/red_hood.jpeg",
          "passives": [],
          "builds": [
@@ -3685,6 +3789,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Legendary",
+         "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/robin_king.jpeg",
          "passives": [],
          "builds": [
@@ -3722,6 +3827,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/silver_banshee.jpeg",
          "passives": [],
          "builds": [
@@ -3759,6 +3865,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/sonic_black_canary.jpeg",
          "passives": [],
          "builds": [
@@ -3796,6 +3903,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/speedforce_flash.jpeg",
          "passives": [],
          "builds": [
@@ -3833,6 +3941,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/shazam.jpeg",
          "passives": [],
          "builds": [
@@ -3870,6 +3979,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/soulstealer_doctor_fate.jpeg",
          "passives": [],
          "builds": [
@@ -3907,6 +4017,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
+         "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_enchantress.jpeg",
          "passives": [],
          "builds": [
@@ -3969,6 +4080,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Legendary",
+         "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_harley_quinn.jpeg",
          "passives": [],
          "builds": [
@@ -4031,6 +4143,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/aquaman.jpeg",
          "passives": [],
          "builds": [
@@ -4068,6 +4181,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/amazon_wonder_woman.jpeg",
          "passives": [],
          "builds": [
@@ -4105,6 +4219,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bane.jpeg",
          "passives": [],
          "builds": [
@@ -4167,6 +4282,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_canary.jpeg",
          "passives": [],
          "builds": [
@@ -4204,6 +4320,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batman.jpeg",
          "passives": [],
          "builds": [
@@ -4266,6 +4383,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/cyborg.jpeg",
          "passives": [],
          "builds": [
@@ -4303,6 +4421,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/catwoman.jpeg",
          "passives": [],
          "builds": [
@@ -4340,6 +4459,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/deadshot.jpeg",
          "passives": [],
          "builds": [
@@ -4377,6 +4497,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/flash.jpeg",
          "passives": [],
          "builds": [
@@ -4414,6 +4535,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/green_arrow.jpeg",
          "passives": [],
          "builds": [
@@ -4451,6 +4573,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/gorilla_grodd.jpeg",
          "passives": [],
          "builds": [
@@ -4488,6 +4611,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/green_lantern.jpeg",
          "passives": [],
          "builds": [
@@ -4525,6 +4649,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/harley_quinn.jpeg",
          "passives": [],
          "builds": [
@@ -4562,6 +4687,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/robin.jpeg",
          "passives": [],
          "builds": [
@@ -4599,6 +4725,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/scarecrow.jpeg",
          "passives": [],
          "builds": [
@@ -4636,6 +4763,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/superman.jpeg",
          "passives": [],
          "builds": [
@@ -4673,6 +4801,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/swamp_thing.jpeg",
          "passives": [],
          "builds": [
@@ -4710,6 +4839,7 @@
          "footnote": "",
          "class": "Agility",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/joker.jpeg",
          "passives": [],
          "builds": [
@@ -4772,6 +4902,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Silver",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/wonder_woman.jpeg",
          "passives": [],
          "builds": [
@@ -4809,6 +4940,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/primal_swamp_thing.jpeg",
          "passives": [],
          "builds": [
@@ -4871,6 +5003,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/subzero.jpeg",
          "passives": [],
          "builds": [
@@ -4908,6 +5041,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/telekinetic_gorilla_grodd.jpeg",
          "passives": [],
          "builds": [
@@ -4945,6 +5079,7 @@
          "footnote": "",
          "class": "Meta",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/vixen.jpeg",
          "passives": [],
          "builds": [
@@ -5007,6 +5142,7 @@
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/warrior_queen_wonder_woman.jpeg",
          "passives": [],
          "builds": [
@@ -5044,6 +5180,7 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
+         "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/zatanna.jpeg",
          "passives": [],
          "builds": [
@@ -5081,6 +5218,7 @@
          "footnote": "",
          "class": "Tech",
          "rank": "Legendary",
+         "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_manta.jpeg",
          "passives": [],
          "builds": [
@@ -5110,6 +5248,18 @@
                }
             }
          ]
+      },
+      {
+         "name": "Hawkman",
+         "abbreviations": ["hwk"],
+         "description": "Nothing here yet, stay tuned",
+         "footnote": "",
+         "class": "Might",
+         "rank": "Gold",
+         "team": "Flawed Justice",
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hawkman.jpeg",
+         "passives": [],
+         "builds": []
       }
    ]
 }
