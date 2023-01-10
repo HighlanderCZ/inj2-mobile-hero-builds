@@ -5258,7 +5258,26 @@
          "rank": "Gold",
          "team": "Flawed Justice",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hawkman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Tactician",
+               "description": "Carter Hall increases his Fast Attack chance for each Flawed Justice teammate in the battle. Also, Hawkman has a chance to armor-pierce on Fast Attack.",
+               "effects": [
+                  "65% chance to armor-pierce on Fast attack",
+                  "+20% Fast attack chance for each Flawed Justice teammate in the battle"
+               ]
+            },
+            {
+               "name": "Weapon Mastery",
+               "description": "Hawkman and his Flawed Justice teammates have increased combo damage bonus for Specials.",
+               "effects": ["175% Combo Meter damage bonus for Specials"]
+            },
+            {
+               "name": "Saving Wings",
+               "description": "Hawkman can save teammates from a knock-out. He is tagging in and restores part of their max health. Also, he and his teammates are immune to tag-out interruptions. Can't save from Supermove.",
+               "effects": ["36% Health restored", "35 seconds cooldown", "Immune to tag-out interruptions"]
+            }
+         ],
          "builds": [
             {
                "name": "Hybrid Build (G70)",
