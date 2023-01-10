@@ -5259,7 +5259,33 @@
          "team": "Flawed Justice",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hawkman.jpeg",
          "passives": [],
-         "builds": []
+         "builds": [
+            {
+               "name": "Hybrid Build (G70)",
+               "description": "",
+               "author": "captainturtle",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "5x ATK, 2x FAC, 3x CAD, 3x CAC, 2x DEF",
+               "talents": "4x AP, 1x CAD, 1x RES",
+               "stats": {
+                  "attack": 4477,
+                  "health": 26137,
+                  "defense": "73%",
+                  "blocking": "25%",
+                  "cad": "282%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "50%",
+                  "stun_resistance": "12%",
+                  "dot_resistance": "12%",
+                  "crit_resistance": "12%"
+               }
+            }
+         ]
       }
    ]
 }

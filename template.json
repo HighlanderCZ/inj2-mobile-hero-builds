@@ -6,6 +6,7 @@
    "class": "Class",
    "rank": "Rank",
    "image": null,
+   "team": null,
    "passives": [
       {
          "name": "Passive 1",
