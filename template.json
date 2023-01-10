@@ -9,15 +9,18 @@
    "passives": [
       {
          "name": "Passive 1",
-         "description": "Passive description"
+         "description": "Passive description",
+         "effects": []
       },
       {
          "name": "Passive 2",
-         "description": "Passive description"
+         "description": "Passive description",
+         "effects": []
       },
       {
          "name": "Passive 3",
-         "description": "Passive description"
+         "description": "Passive description",
+         "effects": []
       }
    ],
    "builds": [

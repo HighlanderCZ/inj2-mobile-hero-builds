@@ -1264,7 +1264,23 @@
          "class": "Arcane",
          "rank": "Legendary",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/darkseid.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Parademons",
+               "description": "Improves Health and Defense of summoned Parademons and increases how many Parademons can bee summoned per battle. Parademon stats are a percentage of Darkseid's stats.",
+               "effects": ["100% Parademon Defense", "60% Parademon Health", "3 Parademons per battle"]
+            },
+            {
+               "name": "Sacrifices Are Necessary",
+               "description": "Teammates who lose more than 15% of max health over 1 second gain an absorption barrier for 6 seconds with a 5 second cooldown. When any hero, including a summoned Parademon, is knocked out, Darkseid regenerates Health and gains Attack for the rest of the battle. Effects stack.",
+               "effects": ["30% Health absorbed", "30% Attack absorbed", "Barrier for 500% of current Health"]
+            },
+            {
+               "name": "Apokolips Bombardment",
+               "description": "When tagged out, Darkseid commands Apokolips to bombard the battlefield. Apokolips deals damage and can interrupt opponent Special Attacks and bypass shields.",
+               "effects": ["100% chance of firing", "80% damage", "8 second intervals"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",

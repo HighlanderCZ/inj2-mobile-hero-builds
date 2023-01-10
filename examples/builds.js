@@ -41,8 +41,16 @@ const createEmbeds = (hero) => {
    }
 
    if (hero.passives.length > 0) {
+      heroEmbed.addField('Passives', '\u200b');
+
       hero.passives.forEach((passive) => {
-         heroEmbed.addField(passive.name, passive.description);
+         let description = passive.description;
+
+         if (passive.effects && passive.effects.length > 0) {
+            description += `\n -${passive.effects.join('\n -')}`;
+         }
+
+         heroEmbed.addField(passive.name, description);
       });
    }
 
