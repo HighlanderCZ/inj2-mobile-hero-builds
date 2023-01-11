@@ -115,7 +115,20 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/arkham_knight_batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "WayneTech",
+               "description": "Batman and his teammates deal increased hazard damage. Tech and Agility heroes gain increased defense and health when they enter combat."
+            },
+            {
+               "name": "Fear Multi-takedown",
+               "description": "Batman or any teammate regenerates health and power when knocking out an opponent."
+            },
+            {
+               "name": "Freeflow Counter",
+               "description": "The Arkham Knight can interrupt and counterattack Specials from Metahuman opponents, leaving them stunned for a few seconds."
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -481,7 +494,12 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Aikido",
+               "description": "When Batman is hit by a critical attack or armor-piercing attack, he automatically crits or armor-pierces on all his attacks for a limited time."
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -569,7 +587,23 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_catwoman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Blinding Strikes",
+               "description": "Each of Catwoman's Special Abilities temporarily Blind her opponent against Batman Ninja teammates.",
+               "effects": []
+            },
+            {
+               "name": "9 Lives",
+               "description": "When at low health, Batman Ninja teammates temporarily become immortal, preventing them from being knocked out.",
+               "effects": ["9 seconds of Immortal whenever health drops below 15%"]
+            },
+            {
+               "name": "Are you kitten me?",
+               "description": "Whenever Batman Ninja teammates successfully block a whole opponent Special, they gain part of its power cost. Additionally, if block is performed by Catwoman, her Special 3 is triggered for free.",
+               "effects": []
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -632,7 +666,23 @@
          "rank": "Legendary",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_gorilla_grodd.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Crippling Blow",
+               "description": "Batman Ninja teammates deal increased damage and temporarily lower opponent's damage and Defense on every 5th Basic and Swipe Attack.",
+               "effects": []
+            },
+            {
+               "name": "Dramatic Reversal",
+               "description": "When at 30% Health, Gorilla Grodd temporarily boosts his Lethal Attack chance and heals himselft for percentage of Basic and Swipe damage dealt.",
+               "effects": []
+            },
+            {
+               "name": "Master Plan",
+               "description": "Whenever Gorilla Grodd, Batman Ninja teammates or Legendary allies land an unblocked Lethal Attack, they gain power.",
+               "effects": []
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -695,7 +745,12 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_harley_quinn.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Eternal Foe",
+               "description": "If Batman is on the opponent's team, Lord Joker revives up to two heroes from knockout."
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -771,7 +826,20 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_robin.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Combo Kid",
+               "description": "For Batman Ninja teammates, at battle start and on each tag-in Robin adds bonus hits to the Combo Meter. Batman Ninja teammates' Combo Meter cannot be lowered completely."
+            },
+            {
+               "name": "Ninja Lethality",
+               "description": "Each Lethal attack landed by Robin or Batman Ninja Teammates temporarily increases their lethal attack damage. Effects stack."
+            },
+            {
+               "name": "Monkey Style Swordplay",
+               "description": "When Robin and Batman Ninja teammates are hit with a Basic Attack that misses, they temporarily gain Lethal Attack Chance. Effects stack."
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -2576,7 +2644,12 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/knightmare_batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Reinforced Constructs",
+               "description": "All teammate hazards deal increased damage. Teammates take less damage from hazards and are immune to hazard secondary effects (including disabled, stun, and hindrances to power). All Green Lantern teammates gain increased attack."
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G70)",
