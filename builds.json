@@ -2530,7 +2530,7 @@
          ]
       },
       {
-         "name": "Jon Stewart Green Lantern",
+         "name": "John Stewart Green Lantern",
          "abbreviations": ["jsgl"],
          "description": "",
          "footnote": "",
@@ -3614,13 +3614,21 @@
          "passives": [
             {
                "name": "Darkness Fall",
-               "description": "",
-               "effects": []
+               "description": "Successful Specials used by Raven give active debuffs to an opponent, and inflict Darkness, increasing all incoming damage. Upon activating Supermove, Raven increases her attack for each stack of Darkness on the active opponent for the duration of the battle.",
+               "effects": [
+                  "25 seconds of Darkness on successful Special",
+                  "Darkness: All incoming attacks targeting this hero deal 120% more Damage. Stacks up to 5",
+                  "+40% Attack per Darkness stack upon Deadly Sin activation"
+               ]
             },
             {
                "name": "Demonic Rage",
-               "description": "",
-               "effects": []
+               "description": "Raven unleashes her demonic nature when her health drops too low. She absorbs all the Darkness back from the active opponent, dealing damage to them and healing herself for each consumed stack.",
+               "effects": [
+                  "Demonic Rage triggers at 30% of max Health",
+                  "100% of Attack stat inflicted as damage",
+                  "40% max Health healed"
+               ]
             },
             {
                "name": "Dark Energy",
