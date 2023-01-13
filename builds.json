@@ -3843,7 +3843,16 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/raiden.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Chain Lightning",
+               "description": "Team starts with additional power per Arcane teammate. Elder Shock Special Ability will strike tagged-out opponents, dealing variable amounts of damage.",
+               "effects": [
+                  "Elder Shock Special Damage jumps to tagged-out opponents: 5,144 Damage on 1st strike, 6,547 Damage on 2nd strike (unclear where the game is pulling those numbers from)",
+                  "+1.2 starting Power bars per Arcane teammates"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Balanced Build (G60)",
@@ -4037,7 +4046,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/red_hood.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Time Extension",
+               "description": "Back from the dead via the Lazarus Pit, Red Hood can add time back to a battle's timer and boosts his team's resistances by performing his Gotham's Outlaw Supermove.",
+               "effects": ["30 seconds added to battle's timer", "40% boost to team's resistances"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4138,7 +4153,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/silver_banshee.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Torment's Grasp",
+               "description": "When Silver Banshee's Special Abilities damage an opponent affected by Torment, they deal increased damage and have a chance to disable their highest upgraded Special Ability. If an opponent's highest upgraded Special Ability is already disabled, this Passive chooses the next highest to become disabled instead. All Arcane teammtes' Special 2 and Special 3 benefit from Torment's Grasp.",
+               "effects": ["90% chance to disable", "10% chance to ignore incoming DoT"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -4214,7 +4235,16 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/speedforce_flash.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Lightning Reflexes",
+               "description": "The Flash's incredible speed allows him to ignore damage during Rush Attacks and Evade. He also increases the chance of Fast Attacks for his teammates.",
+               "effects": [
+                  "Ignore damage while attacking with Rush Attacks and Evade",
+                  "+30% Fast Attack chance for team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G60)",
@@ -4252,7 +4282,27 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/shazam.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Courage of Achilles",
+               "description": "Arcane and Might heroes on Shazam's team gain increased Attack for the entire battle.",
+               "effects": ["+100% Attack for Arcane and Might teammates"]
+            },
+            {
+               "name": "Retribution of Zeus",
+               "description": "If Shazam successfully blocks a Special Attack, he may disable that Special Attack and may activate his own Special, Roaring Strike.",
+               "effects": [
+                  "60% chance to disable",
+                  "16 seconds disable duration",
+                  "20% chance to activate Roaring Strike"
+               ]
+            },
+            {
+               "name": "Stamina of Atlas",
+               "description": "Critical hits against Shazam and his entire team are greatly reduced in damage.",
+               "effects": ["+100% Critical Damage multiplier reduction for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G70)",
@@ -4290,7 +4340,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/soulstealer_doctor_fate.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Reversal of Fate",
+               "description": "Upon activating his Amulet of Anubis Supermove, Doctor Fate has a chance to swap his Health with this opponent. May be ineffective in Challenge and Raid Boss battles.",
+               "effects": ["100% chance to swap Health with opponent"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4619,7 +4675,16 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/aquaman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Super Friends",
+               "description": "Aquaman's entire team gains bonuses when Might or Metahuman heroes are on his team: Team Stun resistance from Might, Team Defense from Metahuman.",
+               "effects": [
+                  "+30% team's Stun resistance per Might teammmates",
+                  "+20% Defense for team per Metahuman teammates"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -4657,7 +4722,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/amazon_wonder_woman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Amazon Royalty",
+               "description": "Princess Diana of Themyscira grants extra Health in the battle to all females within the same roster.",
+               "effects": ["+5% Health for female teammates if this hero is in your roster"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4695,7 +4766,16 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bane.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Ultimate Brawler",
+               "description": "Bane and his teammates gain increased Critical Attack chance and non-Ability damage.",
+               "effects": [
+                  "+30% team's Damage for Basic, Tag, and Swipe Attacks",
+                  "+30% Critical Attack chance for team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4758,7 +4838,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_canary.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Fast Strikes",
+               "description": "Black Canary's Fast Attack hits deal extra damage. Any Green Arrow teammate gains an increased Critical chance.",
+               "effects": ["+150% Fast Attack damage", "+25% Critical Attack chance for Green Arrow teammates"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4796,7 +4882,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Ambush",
+               "description": "Batman's teammates gain the element of surprise and hight Critical Attack chance.",
+               "effects": ["+20% Critical Attack chance for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -4859,7 +4951,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/cyborg.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Regeneration",
+               "description": "Cyborg's battle systems adjust when tagged out to regenerate Health. He also boosts team Health.",
+               "effects": ["+2% Health regenerated per second while tagged out", "+10% Health for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4897,7 +4995,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/catwoman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Cat Burglar",
+               "description": "Carpe Diem. Catwoman seizes the day and receives more Credits from completing Operations.",
+               "effects": ["+10% bonus Credits in Operations"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4935,7 +5039,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/deadshot.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Sharpshooter",
+               "description": "Deadshot deals extra damage based on his opponent's distance. His team also gets a Critical Attack chance boos.",
+               "effects": ["+25% Damage based on opponent distance", "+10% Critical Attack chance for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4973,7 +5083,16 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/flash.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Blur",
+               "description": "On tag-in, The Flash taps into the Speed Force and speed boosts his attacks. He also boosts his team's Fast Attack.",
+               "effects": [
+                  "+0.5% Fast Attack chance for 5 seconds on tag-in (WTF?)",
+                  "+20% Fast Attack chance for the team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G70)",
@@ -5011,7 +5130,16 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/green_arrow.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Exploding Arrows",
+               "description": "Whenever Special Abilities Electric Arrow or Stinger deal Critical damage, additional dagame is dealt to the entire opposing team. Black Canary teammates gain increased Fast Attack.",
+               "effects": [
+                  "+30% Damage on all opponents for Special 1 and Special 2 critical",
+                  "+25% Fast Attack chance for Black Canary teammates"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5049,7 +5177,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/gorilla_grodd.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Berserk",
+               "description": "When Gorilla Grodd's Health gets low, he goes into a primal fury.",
+               "effects": ["+50% Damage below 40% Health"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5087,7 +5221,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/green_lantern.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Green Barrier",
+               "description": "At the start of the match Green Lantern's teammates gain an Absorption shield",
+               "effects": ["Team Absorption shield (25% of max Health)"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5125,7 +5265,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/harley_quinn.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Hyenas",
+               "description": "Her Hyenas, Bud and Lou, assist Harley in combat and team attack is boosted.",
+               "effects": ["+100% Damage of Swipe Attacks", "+10% Attack for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5163,7 +5309,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/robin.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Combo Master",
+               "description": "Robin has a chance for his non-Ability attacks to count twice towards the Combo meter, increasing the potential damage bonus received upon activating Abilities.",
+               "effects": ["35% chance for Basic Attacks to count as 2 Combo meter hits"]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G60)",
@@ -5201,7 +5353,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/scarecrow.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Hook and Chain",
+               "description": "If an opponent tries to tag-out, there is a chance Scarecrow hooks the opponent and Stuns them.",
+               "effects": ["75% chance Scarecrow stops a tag-out, Stunning opponent for 3 seconds"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5239,7 +5397,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/superman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Invulnerable",
+               "description": "Superman has a chance to ignore Basic and Ranged attacks. He also increases his team's Defense.",
+               "effects": ["50% chance to ignore damage for Basic and Ranged attacks", "+10% Defense for the team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5277,7 +5441,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/swamp_thing.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Wild Growth",
+               "description": "After each Ability use, Swamp Thing creates wild growths from which he can heal himself.",
+               "effects": ["Apply 4,657 Healing after any Ability (not sure what that number is based on)"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5315,7 +5485,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/joker.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Joke's on You",
+               "description": "When The Joker is defeated, his team gains Power and a poison bomb detonates, leaving the opponent stunned for a brief time.",
+               "effects": ["3 Power bars", "9 seconds Stun duration"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5378,7 +5554,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/wonder_woman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Amazon",
+               "description": "Wonder Woman gains Fury when facing male opponents and boosts team attack",
+               "effects": ["+25% Damage when facing a male opponent", "+10% Attack for the team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5416,7 +5598,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/primal_swamp_thing.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Force of Nature",
+               "description": "When knocked out, a cloned body emerges from the ground in which Swamp Thing may continue to fight. Max once per battle.",
+               "effects": ["13,302 Health regenerated on revival (not sure what it's based on)"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5479,7 +5667,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/subzero.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Klone Kombatant",
+               "description": "Upon the use of Sub-Zero's Special 3, Klone Toss, a clone of his current opponent is created to fight for him in battle, that has no Supermove or Passives. May be ineffective in Raid Boss battles.",
+               "effects": ["30% Ice clone Health", "90% Ice clone Attack"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5517,7 +5711,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/telekinetic_gorilla_grodd.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Telekinesis",
+               "description": "If an opponent tries to tag out, there is a chance Gorilla Grodd will use his Telekinesis to stop the tag.",
+               "effects": ["50% chance to prevent tag-out", "[200% of TKGG's Attack] Damage"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5634,7 +5834,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/warrior_queen_wonder_woman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Amazon Warriors",
+               "description": "If a teammate is KO'd, an Amazon Warrior will replace them. Max once per battle.",
+               "effects": ["[50% Attack of WQWW] Attack Amazon Warrior"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5739,7 +5945,26 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_manta.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Open Wounds",
+               "description": "Special Abilities used by Black Manta or Legendary teammmates inflict DoT for a percentage of Black Manta's Attack and temporarily block healing.",
+               "effects": [
+                  "24 seconds of Heal Block on opponent",
+                  "+300% of Black Manta's Attack stat is applied as DoT for 24 seconds"
+               ]
+            },
+            {
+               "name": "Revenge Mission",
+               "description": "With each consecutive Basic, Swipe, or Fast Attack, Black Manta's next attack against the same opponent gets stronger. This stacking effect expires when either a different hero is hit or after a short duration of not landing any Basic or Swipe attacks. Bonus damage is tripled against Aquaman opponents. This effect stacks up to 100 times.",
+               "effects": ["+12% Damage per Basic, Swipe, or Fast Attack for 9 seconds"]
+            },
+            {
+               "name": "Black Manta Suit",
+               "description": "Black Manta gets increased Health at the start of battle. Additionally, whenever Black Manta or Legendary teammamates perform successful blocks, their damage reduction from Blocking increases temporarily. This effect stacks.",
+               "effects": ["+300% Health", "+18% Damage reduction from Blocking for 18 seconds"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
