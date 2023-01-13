@@ -440,7 +440,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/blue_beetle.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Power Blades",
+               "description": "After using any Special Ability, Blue Beetle is boosted with shielding or Basic and Swipe Attacks that deal additional damage and effects. Only 1 effect active at one time.",
+               "effects": ["+100% Basic Attack damage after using any Special Ability"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -503,7 +509,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/blademaster_robin.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Perfect Son",
+               "description": "Robin starts his Combo Meter with extra hits, increasing the bonus damage dealt from Abilities",
+               "effects": ["7 hits minimum on Combo meter"]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G60)",
@@ -794,8 +806,12 @@
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_harley_quinn.jpeg",
          "passives": [
             {
-               "name": "Eternal Foe",
-               "description": "If Batman is on the opponent's team, Lord Joker revives up to two heroes from knockout."
+               "name": "Ninja Sidekick",
+               "description": "If Harley is in your roster, all Batman Ninja heroes gain an additional percentage of Harley's base Attack and Health, without Gear, Talents, or Passive effects. Bonus activates in combat.",
+               "effects": [
+                  "+30% of this hero's base Health gained for Batman Ninja team if this hero is in your roster",
+                  "+30% of this hero's base Attack gained for Batman Ninja team if this hero is in your roster"
+               ]
             }
          ],
          "builds": [
@@ -835,7 +851,13 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_lord_joker.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Eternal Foe",
+               "description": "If Batman is on the opponent's team, Lord Joker revives up to two heroes from knockout.",
+               "effects": ["35% Health restored to KO'd heroes"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -1250,7 +1272,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/captain_cold.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Absolute Zero",
+               "description": "When he is the active combatant, Captain Cold has a chance to disable opponent's Special 1 or 2. He also grants his entire team Critical attack resistance.",
+               "effects": ["+50% Critical attack resistance", "100% chance to disable a Special"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
