@@ -54,6 +54,10 @@ const createEmbeds = (hero) => {
       });
    }
 
+   if (hero.footnote && hero.footnote.length > 0) {
+      heroEmbed.setFooter({ text: hero.footnote });
+   }
+
    embeds.push(heroEmbed);
 
    hero.builds.forEach((build) => {

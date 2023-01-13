@@ -77,7 +77,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ace_green_arrow.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Power Lock Arrow",
+               "description": "As he tags out, Green Arrow fires an arrow that temporarily stops his opponent's Power generation.",
+               "effects": ["6 seconds of Power Lock on opponent"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -191,7 +197,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/armored_superman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Kryptonian Armor",
+               "description": "Superman boosts team defense and ignores damage from the first Special Ability of every battle. Maybe ineffective in Raid Boss battles.",
+               "effects": ["Ignore damage from opponent's first Special", "+20% Defense for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -254,7 +266,15 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/atrocitus.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Dex-Starr",
+               "description": "Dex-Starr is ordered to assist on battle start and whenever a new teammate tags in. Buff on active teammate may be a Reflect shield, Lethal chance increase, or Power steal.",
+               "effects": [
+                  "Random chance of: 12 seconds Reflect shield / 9 seconds Lethal chance boost / Steal 3 Power bars"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -317,7 +337,18 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_adam.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Power of Aton",
+               "description": "Black Adam's Specials can manipulate power.",
+               "effects": [
+                  "Immune to increases to Power cost of Abilities",
+                  "75% chance to Stun on tag-in",
+                  "10% Power boost on Special 1, per use. Stack up to 5 times",
+                  "7 Power bars may be stolen on use of Special 3"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -355,7 +386,23 @@
          "rank": "Legendary",
          "team": "Flawed Justice",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ruler_of_kahndaq_black_adam.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "",
+               "description": "",
+               "effects": []
+            },
+            {
+               "name": "",
+               "description": "",
+               "effects": []
+            },
+            {
+               "name": "",
+               "description": "",
+               "effects": []
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",
@@ -591,7 +638,7 @@
             {
                "name": "Blinding Strikes",
                "description": "Each of Catwoman's Special Abilities temporarily Blind her opponent against Batman Ninja teammates.",
-               "effects": []
+               "effects": ["50% chance for opponent's to miss against Batman Ninja teammates for 12 seconds"]
             },
             {
                "name": "9 Lives",
@@ -600,8 +647,8 @@
             },
             {
                "name": "Are you kitten me?",
-               "description": "Whenever Batman Ninja teammates successfully block a whole opponent Special, they gain part of its power cost. Additionally, if block is performed by Catwoman, her Special 3 is triggered for free.",
-               "effects": []
+               "description": "Whenever Batman Ninja teammates successfully block a whole opponent Special, they gain part of its power cost. Additionally, if block is performed by Catwoman, her Special 3 is triggered at no cost.",
+               "effects": ["60% of Power cost gained as Power bars"]
             }
          ],
          "builds": [
@@ -902,7 +949,23 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/brainiac.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Force Field",
+               "description": "Damage from Basic, Swipe, and Tag attacks directed at Brainiac, his teammates and summons cannot get higher than a certain percentage of their max Health. Brainiac has to be alive for this effect to take place.",
+               "effects": ["Damage from Basic, Swipe, and Tag attacks cannot get higher than 2% of max Health"]
+            },
+            {
+               "name": "Living Metal",
+               "description": "Brainiac grants himself, all Legendary heroes, and Summoned teammates increased Attack and Health. They also receive an additional percentage of Brainiac's Lethal attack chance and Lethal attack damage.",
+               "effects": ["+100% Attack", "+100% Health", "+170% Lethal attack damage", "+170% Lethal attack chance"]
+            },
+            {
+               "name": "12th Level Intellect",
+               "description": "Brainiac hacks KO'd opponents and makes them fight for him in battle. Brainiac does not need to be tagged in for this effect, but cannot be KO'd. Hacked heroes are granted all Living Metal bonuses.",
+               "effects": ["50% hacked hero's Health"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G70)",
@@ -1931,7 +1994,23 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/golden_armor_wonder_woman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Athena's Power",
+               "description": "Wonder Woman grants her team an increase to Attack and Defense each time they lose more than 50% of their total Health. This buff stacks up to 3 times and lasts for the entirety of the match.",
+               "effects": ["+50% Attack", "+30% Defense", "Up to 3 stacks"]
+            },
+            {
+               "name": "Divine Protection",
+               "description": "Wonder Woman has increased DoT resistance.",
+               "effects": ["+85% Damage over time resistance"]
+            },
+            {
+               "name": "Offensive Guard",
+               "description": "Diana has a chance to increase her team's Combo meter when she successfully blocks incoming attacks.",
+               "effects": ["+100% chance for each blocked attack to increase Combo meter by 3"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -2379,7 +2458,16 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Tactial Batsuit",
+               "description": "Upon use of his Grounded Special Ability, Batman gains Armor-pierce on all his Special Abilities for a limited time. All Justice League teammates gain a shield that ignores damage from one Special Ability per battle.",
+               "effects": [
+                  "Using Special 1 gives Batman Armor-pierce on Special Abilities for 5 seconds",
+                  "Ignore damage from opponent's first Special Ability for Justice League team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -2543,7 +2631,26 @@
          "rank": "Legendary",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_superman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Batman versus Superman",
+               "description": "Superman gains bonus Attack or Health when Batman or Wonder Woman are on either team during battle. These bonuses stack and also apply to Batman and Wonder Woman teammates.",
+               "effects": [
+                  "+180% Attack per Batman teammate or opponent",
+                  "+180% Health per Wonder Woman teammate or opponent"
+               ]
+            },
+            {
+               "name": "Do You Bleed?",
+               "description": "All Legendary and Justice League teammates gain improved Defense, including Justice League Superman.",
+               "effects": ["+48% Defense for Justice League and Legendary teammates"]
+            },
+            {
+               "name": "Protector",
+               "description": "Superman protects his active teammates from opponent's Special Abilities, tagging in and interrupting the Ability with a powerful slam.",
+               "effects": ["[300% of Attack stat] Damage", "30 seconds cooldown"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G70)",
@@ -2687,7 +2794,27 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/king_of_atlantis_aquaman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Building Tsunami",
+               "description": "When Aquaman uses a Special Ability, he gains a damage increasing buff for the rest of the match. Buff stacks to a maximum of 600%. Only active in Raid mode.",
+               "effects": [
+                  "50% Damage buff on Special 1",
+                  "100% Damage buff on Special 2",
+                  "100% Damage buff on Special 3"
+               ]
+            },
+            {
+               "name": "Ocean's Retribution",
+               "description": "Aquaman's Supermove temporarily disables the opponent's Supermove and also drains Power.",
+               "effects": ["Supermove disables opponent's Supermove for 60 seconds", "Supermove drains 3 Power bars"]
+            },
+            {
+               "name": "Wolf Pack",
+               "description": "",
+               "effects": ["", ""]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Crit Build (G70)",
@@ -2851,7 +2978,27 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/martian_manhunter.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Martian Arts",
+               "description": "Martian Manhunter has an increased Fast Attack chance and gets additional Fast Attack hits from each Negative effect currently applied to his opponent. The number of Fast Attack hits can be increased up to a maximum of 5.",
+               "effects": [
+                  "+35% Fast Attack chance",
+                  "+1 Fast Attack hit per Negative effect on the opponent",
+                  "5 Fast Attack hits max cap"
+               ]
+            },
+            {
+               "name": "Telepathic Might",
+               "description": "J'onn J'onzz increases the duration of all debuffs that his team applies to their opponent's.",
+               "effects": ["+50% duration of debuffs, applied to opponents by Martian Manhunter or his teammates"]
+            },
+            {
+               "name": "Inhuman Physiology",
+               "description": "Martian Manhunter has amazing regenerative capabilites that are activated when he is tagged out.",
+               "effects": ["4% Health regenerated per second while tagged out"]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G70)",
@@ -3356,7 +3503,13 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mythic_wonder_woman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "God Killer Sword",
+               "description": "As she defeats her opponents, Wonder Woman absorbs a portion of their Attack, dealing increased damage for a limited time.",
+               "effects": ["50% or opponent's Attack absorbed for 20 seconds"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -3457,7 +3610,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/predator_batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Batwing Airstrike",
+               "description": "On tag-in the Batwing strikes all opponents with a barrage of cannon fire. May be ineffective in Raid Boss battles.",
+               "effects": ["15% health reduction"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer / Combo Builder Build (G70)",
@@ -3520,7 +3679,16 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/power_girl.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Solar Energy Absorption",
+               "description": "All teammates' Abilities require less Power (does not stack with similar passive Abilities). In addition, Power Girl's attack slowly increases during a battle, even if tagged out.",
+               "effects": [
+                  "-2 to team's Power bar cost for Special Abilities",
+                  "+1% Damage every 10 seconds to a maximum of +36%"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -3771,7 +3939,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/reverse_flash.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Reverse Time",
+               "description": "On tag-in, The Reverse Flash has a chance to swap Power with his opponent. Max three times per battle.",
+               "effects": ["70% chance to swap Power with opponent on tag-in"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4092,6 +4266,116 @@
          ]
       },
       {
+         "name": "Suicide Squad Deadshot",
+         "abbreviations": ["ssds", "ssdt"],
+         "description": "",
+         "footnote": "",
+         "class": "Tech",
+         "rank": "Gold",
+         "team": "Suicide Squad",
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_deadshot.jpeg",
+         "passives": [
+            {
+               "name": "Sniper",
+               "description": "Deadshot deals extra damage with a high chance for Lethal hits based on his opponent's distance.",
+               "effects": [
+                  "+100% Damage based on opponent's distance",
+                  "+40% Lethal Attack chance based on opponent distance"
+               ]
+            },
+            {
+               "name": "Suppressive Fire",
+               "description": "Deadshot's Ranged Attack has a chance to temporarily disable his opponent's movement. Also, his Specials may disable the corresponding Specials of the active opponent for a limited time.",
+               "effects": [
+                  "+65% chance to disabled opponent's movement for 4 seconds",
+                  "+85% chance to disabled opponent's Special for 10 seconds"
+               ]
+            },
+            {
+               "name": "Assassin",
+               "description": "Each time Suicide Squad teammates perform a Special Ability, Deadshot fires his weapon from off screen.",
+               "effects": ["+30% of Special 1 damage"]
+            }
+         ],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "https://discord.gg/Je3Sx3x",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "9x ATK, 3x DEF, 2x CAD, 1x CAC",
+               "talents": "2x CAC, 4x CAD",
+               "stats": {
+                  "attack": 5517,
+                  "health": 23001,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "300%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            },
+            {
+               "name": "Damage Dealer Alternative Non-Crit Build (G70, 7⭐)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "3x DEF, 2x FAC, 5x ATK, 5x HLTH",
+               "talents": "5x RES, 1x LAC; 7th talent: ATK",
+               "stats": {
+                  "attack": 5698,
+                  "health": 244867,
+                  "defense": "75%",
+                  "blocking": "25%",
+                  "cad": "150%",
+                  "cac": "25%",
+                  "lac": "23%",
+                  "fac": "35%",
+                  "stun_resistance": "68%",
+                  "dot_resistance": "68%",
+                  "crit_resistance": "61%"
+               }
+            },
+            {
+               "name": "Tank Build (G60)",
+               "description": "",
+               "author": "edj1013, Legion of Doom",
+               "author_icon": "",
+               "author_url": "https://discord.gg/Je3Sx3x",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "13x HLTH, 2x DEF",
+               "talents": "4x RES, 2x DEF",
+               "stats": {
+                  "attack": 3027,
+                  "health": 55544,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "75%",
+                  "dot_resistance": "75%",
+                  "crit_resistance": "70%"
+               }
+            }
+         ]
+      },
+      {
          "name": "Suicide Squad Enchantress",
          "abbreviations": ["sse"],
          "description": "",
@@ -4100,7 +4384,30 @@
          "rank": "Legendary",
          "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_enchantress.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Mortal Host",
+               "description": "Enchantress helps her mortal host when her Health drops too low. When under this buff, Enchantress deals increased damage and auto-Crit on Special Attack, ignoring Critical resistance. When triggered at 25% of max Health for the first time, Enchantress additionally gains extra Power.",
+               "effects": [
+                  "Most Host triggers at 60% and 25% of max Health",
+                  "20 seconds Mortal Host duration",
+                  "+100% Damage under Mortal Host buff at 60% of max Health",
+                  "+200% Damage under Mortal Host buff at 25% of max Health",
+                  "Successful Specials auto-Crit when under Mortal Host",
+                  "+3 Power bars, when triggering Mortal Host at 25% of max Health for the first time"
+               ]
+            },
+            {
+               "name": "Outwordly Nature",
+               "description": "Each time Enchantress or her Suicide Squad teammates resist a Critical Attack, they get healed over 10 seconds for a percentage of their max Health. This effect does not stack.",
+               "effects": ["30% max Health healed over time when resisting Critical Attack"]
+            },
+            {
+               "name": "Unlimited Power",
+               "description": "As she defeats her opponents, Wonder Woman absorbs a portion of their Attack, dealing increased damage for a limited time.",
+               "effects": ["50% or opponent's Attack absorbed for 20 seconds"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -4163,7 +4470,39 @@
          "rank": "Legendary",
          "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_harley_quinn.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "The Suicide Squad",
+               "description": "Harley gains bonuses from Deadshot, Harley Quinn, and Enchantress teammates. She is immune to Critical Attacks and grants her team increased Critical Attack resistance. Suicide Squad teammates additionally gain Power cost reduction.",
+               "effects": [
+                  "+50% Critical Attack chance from teammate Deadshot",
+                  "+50% Power generation from teammate Harley Quinn",
+                  "+100% Health from teammate Enchantress",
+                  "Immune to Critical Attacks",
+                  "+55% Critical Attack resistance for teammates",
+                  "-1 to Suicide Squad team's Power bar cost for Special Abilities"
+               ]
+            },
+            {
+               "name": "Psychoanalyze",
+               "description": "When hitting an opponent for the first time after tag-in, Harley randomly reduces one of their stats and steals part of it to share with her teammates. She can steal Critical Attack chance, Critical Attack damage, Fast Attack chance, Defense, or Block. Stolen stats can be stacked. Effects end if Harley is KO'd.",
+               "effects": [
+                  "-55% of opponent's random stat",
+                  "+30% of the same stat for Harley Quinn and teammates",
+                  "Triggers 8 times per battle",
+                  "Maximum 3 times per opponent"
+               ]
+            },
+            {
+               "name": "Twisted Love",
+               "description": "Teammate The Joker grants Harley increased Attack. If The Joker is on the opponent team, Harley gains Stun and DoT resistance buff, sharing part of DoT resistance with her team.",
+               "effects": [
+                  "+125% Attack from teammate Joker",
+                  "+60% Stun and DoT resistance from opponent Joker",
+                  "+50% DoT resistance for teammates from opponent Joker"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -5162,7 +5501,23 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/vixen.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Wolf Pack",
+               "description": "Vixen's entire team gains additional Attack from each Negative effect applied to their current opponent.",
+               "effects": ["+50% team Attack per Negative effect on the opponent", "Up to 4 stacks"]
+            },
+            {
+               "name": "Steel Claws",
+               "description": "Each successful Jump and Rush attack temporarily decreases opponent's Defense.",
+               "effects": ["-20% opponent's Defense for 14 seconds", "Up to 5 stacks"]
+            },
+            {
+               "name": "Chameleon",
+               "description": "Vixen mitigates all Class Advantages against her team. Vixen and her teammates additionally gain extra damage and receive reduced incoming damage against classes they have an advantage over.",
+               "effects": ["+30% class damage", "-22% incoming damage"]
+            }
+         ],
          "builds": [
             {
                "name": "Balanced Build (G60)",
@@ -5263,7 +5618,36 @@
          "rank": "Legendary",
          "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/zatanna.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "S'tahw ni eht cigam tah?",
+               "description": "Successful Specials used by Zatanna apply a random debuff to the active opponent. Starting debuff is random, but the order is always the same.",
+               "effects": [
+                  "65% chance to increase active opponent's cheapest Special power cost by 1 Power bar",
+                  "+8% Damage from Basic Attacks reflecting back for each opponent's absent Power bar",
+                  "-12% Critical Attack resistance for each accumulated opponent's Power bar",
+                  "-15% opponent's Defense on Power Drain",
+                  "-25% opponent's Power generation after accumulating 8 Power bars",
+                  "Max 3 stacks per each debuff"
+               ]
+            },
+            {
+               "name": "Ysae emoc, Ysae og",
+               "description": "Zatanna has a chance to steal Power bar after applying debuff from the \"S'tahw ni eht cigam tah?\" Every stolen Power bar increases teammates' damage.",
+               "effects": [
+                  "100% chance to steal 1 Power bar with applying debuff",
+                  "+85% team's damage for each stolen Power bar. Stacks up to 300%"
+               ]
+            },
+            {
+               "name": "Erif nrub",
+               "description": "All Justice League Dark Special Attacks against a burning opponent reduce their health by a percentage but can be affected by Blocking or Passives.",
+               "effects": [
+                  "6% opponent's current Health reduction on every successful Special Attack. Maximum 30% Health per opponent per battle",
+                  "6% opponent's current Health reduction on every successful Justice League Dark teammate Special Attack. Maximum 10% Health per opponent per battle"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",
