@@ -5770,6 +5770,50 @@
                }
             }
          ]
+      },
+      {
+         "name": "Unhinged Harley Quinn",
+         "abbreviations": ["uhq", "uhhq"],
+         "description": "",
+         "footnote": "",
+         "class": "Agility",
+         "rank": "Gold",
+         "team": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/unhinged_harley_quinn.jpeg",
+         "passives": [
+            {
+               "name": "Psychotic Charm",
+               "description": "When Harley KO's an opponent, that opponent fights for Harley's team. Occurs once per battle. May be ineffective in Challenge and Raid Boss battles.",
+               "effects": ["Opponent joins Harley's team with 25% Health"]
+            }
+         ],
+         "builds": [
+            {
+               "name": "Incomplete Damage Dealer Build (G60)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 60,
+               "gear": "2x CAC, 5x FAC, 5x ATK, 3x LAC",
+               "talents": "1x LAC, 1x CAC, 4x RES",
+               "stats": {
+                  "attack": 4445,
+                  "health": 18605,
+                  "defense": "21%",
+                  "blocking": "25%",
+                  "cad": "150%",
+                  "cac": "58%",
+                  "lac": "52%",
+                  "fac": "75%",
+                  "stun_resistance": "48%",
+                  "dot_resistance": "48%",
+                  "crit_resistance": "48%"
+               }
+            }
+         ]
       }
    ]
 }
