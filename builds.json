@@ -1188,6 +1188,60 @@
          ]
       },
       {
+         "name": "Classic Superman",
+         "abbreviations": ["csm"],
+         "description": "",
+         "footnote": "",
+         "class": "Might",
+         "rank": "Gold",
+         "team": "Classic Team",
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_superman.jpeg",
+         "passives": [
+            {
+               "name": "Titanic Strength",
+               "description": "Each use of Superman's Specials deal additional damage to tagged-out opponents and decreases the defense of the current opponent for the remainder of the battle.",
+               "effects": ["16% of Special Attack damage to tagged-out opponents", "-35% current opponent's Defense"]
+            },
+            {
+               "name": "Power of the Sun",
+               "description": "Active Classic teammate heals from Power Boost. Power Generation is not considered a Power Boost.",
+               "effects": ["+14% max Health healed for each Power Bar actively restored"]
+            },
+            {
+               "name": "Tough Skin",
+               "description": "All teammates are granted an increase to Defense.",
+               "effects": ["+40% Defense for team"]
+            }
+         ],
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70, 7⭐)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "9x ATK, 2x CAC, 1x CAD, 3x DEF",
+               "talents": "3x RES, 1x CAD, 2x AP; 7th talent: RES",
+               "stats": {
+                  "attack": 6342,
+                  "health": 29573,
+                  "defense": "75%",
+                  "blocking": "?",
+                  "cad": "202%",
+                  "cac": "59%",
+                  "lac": "1%",
+                  "fac": "1%",
+                  "stun_resistance": "66%",
+                  "dot_resistance": "56%",
+                  "crit_resistance": "66%"
+               }
+            }
+         ]
+      },
+      {
          "name": "Captain Cold",
          "abbreviations": ["cc"],
          "description": "",
@@ -5814,6 +5868,24 @@
                }
             }
          ]
+      },
+      {
+         "name": "Unbreakable Cyborg",
+         "abbreviations": ["ucb"],
+         "description": "We'll have a build available soon, but frankly, he ain't worth investing in.",
+         "footnote": "",
+         "class": "Tech",
+         "rank": "Gold",
+         "team": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/unbreakable_cyborg.jpeg",
+         "passives": [
+            {
+               "name": "Resurrection",
+               "description": "Cyborg's auxiliary systems boot up when he is about to be knocked out, restoring a portion of his Health. Occures once per battle.",
+               "effects": ["25% Health regenerated on revival"]
+            }
+         ],
+         "builds": []
       }
    ]
 }
