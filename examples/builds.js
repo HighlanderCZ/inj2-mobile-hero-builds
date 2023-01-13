@@ -141,16 +141,13 @@ export const getBuildStats = async () => {
       data = await fetchData();
       cachedResponse = data;
    } else {
-      console.log('get data from cache');
       data = cachedResponse;
    }
 
    const statsEmbed = new MessageEmbed();
 
    const sumHeroes = data.heroes.length;
-   const initialNumBuilds = 0;
-   const sumBuilds = data.heroes.reduce((accumulator, hero) => accumulator + hero.builds.length, initialNumBuilds);
-   console.log(`sumHeroes: ${sumHeroes}, sumBuilds: ${sumBuilds}`);
+   const sumBuilds = data.heroes.reduce((accumulator, hero) => accumulator + hero.builds.length, 0);
 
    statsEmbed.setTitle('Build statistics');
    statsEmbed.setColor(0x4f71ec);
