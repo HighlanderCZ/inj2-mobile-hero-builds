@@ -101,19 +101,24 @@ const createEmbeds = (hero) => {
    return embeds;
 };
 
+const fetchData = async () => {
+   const endpoint = 'https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json';
+   const response = await fetch(endpoint);
+
+   if (!response.ok) {
+      throw new Error(`An error has occured: ${response.status}`);
+   }
+
+   const data = await response.json();
+   return data;
+};
+
 export const getBuild = async (abbreviation) => {
    let data;
 
    if (!cachedResponse) {
       // Nothing in cache, let's fetch the data
-      const endpoint = 'https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json';
-      const response = await fetch(endpoint);
-
-      if (!response.ok) {
-         throw new Error(`An error has occured: ${response.status}`);
-      }
-
-      data = await response.json();
+      data = await fetchData();
       cachedResponse = data;
    } else {
       // Data had already been fetched before, use the saved response
@@ -127,4 +132,41 @@ export const getBuild = async (abbreviation) => {
    } else {
       throw new Error(`No builds exist for '${abbreviation}'.`);
    }
+};
+
+export const getBuildStats = async () => {
+   let data;
+
+   if (!cachedResponse) {
+      data = await fetchData();
+      cachedResponse = data;
+   } else {
+      console.log('get data from cache');
+      data = cachedResponse;
+   }
+
+   const statsEmbed = new MessageEmbed();
+
+   const sumHeroes = data.heroes.length;
+   const initialNumBuilds = 0;
+   const sumBuilds = data.heroes.reduce((accumulator, hero) => accumulator + hero.builds.length, initialNumBuilds);
+   console.log(`sumHeroes: ${sumHeroes}, sumBuilds: ${sumBuilds}`);
+
+   statsEmbed.setTitle('Build statistics');
+   statsEmbed.setColor(0x4f71ec);
+   statsEmbed.setDescription('Current status of builds database:');
+   statsEmbed.addFields(
+      {
+         name: 'Total heroes',
+         value: sumHeroes.toString(),
+         inline: true,
+      },
+      {
+         name: 'Total builds',
+         value: sumBuilds.toString(),
+         inline: true,
+      }
+   );
+
+   return statsEmbed;
 };
