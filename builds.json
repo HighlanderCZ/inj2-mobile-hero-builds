@@ -388,19 +388,30 @@
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ruler_of_kahndaq_black_adam.jpeg",
          "passives": [
             {
-               "name": "",
-               "description": "",
-               "effects": []
+               "name": "Courage of Mehen",
+               "description": "Black Adam drains part of the opponent's Power after tag-in. Also he has immunity to Power drain and Power steal, so when he is targeted by this type of Atttack, he drains the opponent's Power instead.",
+               "effects": [
+                  "Immune to Power drain and Power steal",
+                  "Drain 40% of opponent's current Power",
+                  "Drain 3.5 Power bars when targeted by a Power drain or Power steal attacks"
+               ]
             },
             {
-               "name": "",
-               "description": "",
-               "effects": []
+               "name": "Strength of Amon",
+               "description": "On tag-in Black Adam temporarily increases his damage for Basic Attacks and his Tag and Dash Attacks reduce opponent's Health by a percentage. Buff duration increases for each oopponent's empty Power bar.",
+               "effects": [
+                  "+230% Damage for Basic attacks",
+                  "3% opponent's current Health reduction on Tag and Dash Attacks. Maximum 40% Health per opponent per battle",
+                  "+1.5 seconds for each opponent's empty Power bar"
+               ]
             },
             {
-               "name": "",
-               "description": "",
-               "effects": []
+               "name": "Stamina of Shu",
+               "description": "Black Adam's Special attacks can become armor-piercing with a high Combo meter. Armor-piercing attacks dealt by Black Adam or Flawed Justice teammmates reduce the opponent's Power generation and Defense for a duration.",
+               "effects": [
+                  "Armor-pierce for Special attacks with Combo meter above 15",
+                  "-15% Power generation and Defense for 20 seconds. Stacks up to 5 times"
+               ]
             }
          ],
          "builds": [
