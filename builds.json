@@ -2100,7 +2100,30 @@
          "rank": "Gold",
          "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/elder_swamp_thing.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Disruptive Spores",
+               "description": "Successful Specials used by Elder Swamp Thing apply a Disruptive spore on the opponent for a short period of time, after which it explodes, dealing damage. Spore damage increases with each negative effect on the opponent and Specials performed by Justice League Dark teammates.",
+               "effects": [
+                  "+500% of Swamp Thing's Attack stat as spore damage",
+                  "+40% spore damage for each unique negative effect on the opponent and for successful Special performed by Justice League Dark teammates. Stacks up to 6 times",
+                  "20 seconds spore duration, when the maximum number of damage stacks is reached, duration is reduced to 5 seconds"
+               ]
+            },
+            {
+               "name": "Inner Growth",
+               "description": "Upon spore exploding, Elder Swamp Thing heals himself and his teammates based on the damage dealt.",
+               "effects": ["80% of spore damage converts to healing for Swamp Thing and his teammates"]
+            },
+            {
+               "name": "Green Resonance",
+               "description": "On tag-in, Elder Swamp Thing gives himself and Justice League Dark teammates a temporary damage boost and an Absorption shield.",
+               "effects": [
+                  "+100% Justice League Dark team's damage for 20 seconds",
+                  "Justice League Dark team Shield (35% of Elder Swamp Thing's max Health)"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",
@@ -2125,6 +2148,31 @@
                   "stun_resistance": "75%",
                   "dot_resistance": "75%",
                   "crit_resistance": "70%"
+               }
+            },
+            {
+               "name": "Damage Dealer Alternative Build (G70, 7⭐)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "80",
+               "gear_level": 70,
+               "gear": "6x ATK, 1x DEF, 2x FAC, 3x CAD, 3x CAC",
+               "talents": "3x RES, 1x AP, 1x DEF, 1x CAD; 7th talent: AP",
+               "stats": {
+                  "attack": 5248,
+                  "health": 39250,
+                  "defense": "73%",
+                  "blocking": "25%",
+                  "cad": "294%",
+                  "cac": "75%",
+                  "lac": "1%",
+                  "fac": "35%",
+                  "stun_resistance": "60%",
+                  "dot_resistance": "60%",
+                  "crit_resistance": "60%"
                }
             }
          ]
@@ -2689,7 +2737,23 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hush.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Tactical Analysis",
+               "description": "Hush is a skilled fighter, who can switch between two stances, using his Emergency Surgery ability. By using Perfect Shot and Bullet Storm he also temporarily applies stackable Nemesis mark on his opponent, which adjusts stats depending on a stance Hush is currently in. \nAssault stance: Hush's Attack, Critical Attack chance, Critical Attack damage, Fast Attack chance are increased against opponents with Nemesis mark. Defense, Blocking, Critical resistance and DoT resistance of such opponent are decreased. \nSecure stance: Hush's Defense, Blocking, Critical resistance, and DoT resistance are increased against opponents with Nemesis mark. Attack, Critical Attack chance, Critical Attack damage, Fast Attack of such opponent are decreased. \nHush always starts the match in Assault stance.",
+               "effects": ["-15% of opponent's stats", "Up to 4 stacks", "+10% of stats for Hush"]
+            },
+            {
+               "name": "Expert Marksman",
+               "description": "Upon activating Supermove, Hush applies Nemesis to each member of opposing team.",
+               "effects": ["3 Nemesis stacks upon Supermove activation", "5 seconds Nemesis"]
+            },
+            {
+               "name": "Misdirection",
+               "description": "Hush has a chance to reflect damage from Special he is currently blocking back to the opponent.",
+               "effects": ["60% chance to reflect 60% damage"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",
@@ -2727,7 +2791,16 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_aquaman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Primordial Power",
+               "description": "Aquaman's From the Deep Supermove revives one fallen teammate. All Justice League teammates gain Armor-pierce on Basic attacks.",
+               "effects": [
+                  "30% Health restored to KO'd hero",
+                  "100% chance to Armor-pierce on Basic, Tag, and Swipe attacks for Justice League team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -2862,7 +2935,17 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_cyborg.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Cybernetic Body",
+               "description": "Cyborg is immune to Stun and gains Power from Stuns instead. All Justice League teammates gain increased damage on Basic attacks.",
+               "effects": [
+                  "Immune to Stun",
+                  "+3 Power bars when targeted by Stun attack",
+                  "+300% Justice League team's damage for Basic, Tag, and Swipe attacks"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -2900,7 +2983,16 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_flash.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Hyperspeed Assault",
+               "description": "All teammates' Basic attacks can hit multiple times. Justice League teammates gain an ublockable Special ability, once per match.",
+               "effects": [
+                  "+1 Fast attack hit for team",
+                  "First Justice League team attack for any Special is unblockable"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -3020,7 +3112,18 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jon_stewart_green_lantern.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Reinforced Constructs",
+               "description": "All teammate Hazards deal increased damage. Teammates take less damage from Hazards and are immune to Hazard secondary effects (including Stun, Disabled, and hindrances to Power). All Green Lantern teammates gain increased Attack.",
+               "effects": [
+                  "+100% team's Hazard and Hazard DoT damage",
+                  "-50% Hazard and Hazard DoT incoming damage for team",
+                  "Team immune to Hazard secondary effects",
+                  "+20% attack for Green Lantern teammates"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
