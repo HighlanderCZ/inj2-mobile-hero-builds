@@ -3226,9 +3226,9 @@
                "effects": ["Supermove disables opponent's Supermove for 60 seconds", "Supermove drains 3 Power bars"]
             },
             {
-               "name": "Wolf Pack",
-               "description": "",
-               "effects": ["", ""]
+               "name": "Waters of Life",
+               "description": "Upon defeat, Aquaman uses all his remaining Power to revive himself. Aquaman revives with Health based on how much Power is available. If less than 1 bar of Power is available, this effect fails. Max once per battle.",
+               "effects": ["10% Health recovered per Power bar"]
             }
          ],
          "builds": [
