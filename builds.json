@@ -3287,7 +3287,23 @@
          "rank": "Gold",
          "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/last_laugh_joker.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Killing Joker",
+               "description": "When anyone is defeated on either team, The Joker gains an increase to damage for the remainder of the battle. When The Joker is defeated, a poison bomb detonates and stuns the opponent for a brief time.",
+               "effects": ["50% damage", "4 seconds Stun duration"]
+            },
+            {
+               "name": "Joker Venom",
+               "description": "Last Laugh The Joker and League of Anarchy teammates deal increased damage over time.",
+               "effects": ["150% Joker, League of Anarchy teammates' DoT"]
+            },
+            {
+               "name": "Caught You Off Guard",
+               "description": "When The Joker is active, any time an opponent tags in, they may be stunned",
+               "effects": ["50% chance to Stun", "2.5 seconds Stun"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -3493,7 +3509,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/master_thief_catwoman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Finders Keepers",
+               "description": "Carpe Diem. Catwoman seizes the day and receives more Credits from completing Operations. She also has an increased chance to gain gear.",
+               "effects": ["+12% bonus Credits in Operations", "+12% chance for Gear in Operations"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -3531,7 +3553,23 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_armored_supergirl.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Multiverse Power",
+               "description": "Supergirl's team starts battle with additional Power bars per Multiverse hero on either team.",
+               "effects": ["+1 starting Power bar per Multiverse teammates and Multiverse opponents"]
+            },
+            {
+               "name": "Fueled by Might",
+               "description": "Armored Supergirl's Power generation increases per Might class opponent",
+               "effects": ["+25% Power generation per Might opponent"]
+            },
+            {
+               "name": "Interruption",
+               "description": "On tag-in from Multiverse teammates, Supergirl lands an unblockable attack that can interrupt Specials. If she interrupts, she immediately gains Power bars.",
+               "effects": ["[25% of Supergirl's Attack stat] tag-in attack", "4 Power bars gained"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -3569,7 +3607,16 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_black_lightning.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Overload",
+               "description": "Teammates targeted with Power draine regenerate Health for each bar of Power drained. Power cost of opponent Abilities increases per use against Multiverse teammates.",
+               "effects": [
+                  "+5% Health regenerated per Power bar when Power is drained from the team",
+                  "+1 Power cost of opponent Abilities per use against Multiverse teammates"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -3632,7 +3679,23 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_batwoman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Tactical Strikes",
+               "description": "For each active buff from a Multiverse teammate, Kate's Special attack damage is increased, to a maximum of 150%.",
+               "effects": ["+30% Special attack damage per active Multiverse buff"]
+            },
+            {
+               "name": "Tactical Prep",
+               "description": "Batwoman extends and stacks the duration of all Multiverse buffs applied to her.",
+               "effects": ["15 seconds added to Multiverse buffs"]
+            },
+            {
+               "name": "Combat Focus",
+               "description": "Kate Kane gives her entire team a chance to keep their Combo hit count from resetting when hit.",
+               "effects": ["90% chance for team to ignore Combo hit count interruptions"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60, 7⭐)",
@@ -3670,7 +3733,18 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_captain_cold.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Cold Barrier",
+               "description": "At the battle start, Captain Cold buffs Multiverse teammates with a shield that reduces incoming Special, Basic, Swipe, and Tag attack damage. Captain Cold also gives all Multiverse teammates Armor-pierce chance resistance.",
+               "effects": [
+                  "+100% Armor-pierce chance resistance if this hero is in your roster",
+                  "35 seconds Shield that reduces incoming Special, Basic, Swipe, and Tag attack damage by 30% per Multiverse teammate",
+                  "Per use Special ability bonuses stack up to 5 times",
+                  "Immune to Freeze"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -3733,7 +3807,27 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_flash.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Multiverse Critical",
+               "description": "Multiverse teammates gain a bonus to Critical attack chance. All teammates are granted an increase to Critical attack damage.",
+               "effects": ["52% Multiverse Critical attack chance", "+45% team Critical attack damage"]
+            },
+            {
+               "name": "Multiverse Haste",
+               "description": "Barry Allen's connection to the Speedforce enables all Multiverse teammates to use Special attacks faster (does not stack with similar Passive abilities).",
+               "effects": [
+                  "-2 to Multiverse team's Power bar cost for Special 3",
+                  "-2 to Multiverse team's Power bar cost for Special 2",
+                  "-1 to Multiverse team's Power bar cost for Special 1"
+               ]
+            },
+            {
+               "name": "S.T.A.R. Labs",
+               "description": "Barry's contacts within S.T.A.R. Labs give him an advantage against Tech opponents. Barry can avoid Special attacks from Tech class opponents.",
+               "effects": ["3 Tech Specials ignored per battle"]
+            }
+         ],
          "builds": [
             {
                "name": "Combo Builder Build (G60)",
@@ -3771,7 +3865,26 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_green_arrow.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Multiverse Power Drain",
+               "description": "Multiverse teammates each gain a chance to Power drain on Special 1. Team's Power drains have a chance to steal Power from the opponent.",
+               "effects": [
+                  "90% chance for Special 1 to drain 2 Power bars for Multiverse teammates",
+                  "51% chance to transfer 50% of Power drained to reserves for team"
+               ]
+            },
+            {
+               "name": "Multiverse Incendiaries",
+               "description": "",
+               "effects": []
+            },
+            {
+               "name": "Endurance Training",
+               "description": "",
+               "effects": []
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -3834,7 +3947,16 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_supergirl.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Multiverse Tenacity",
+               "description": "Multiverse teammates receive reduced incoming damage when at low Health. All teammates are granted an increase to Defense.",
+               "effects": [
+                  "+15% Defense for team",
+                  "-50% incoming damage for Multiverse teammates when below 50% Health"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G70)",
@@ -3897,7 +4019,16 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_white_canary.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Multiverse Weapon Master",
+               "description": "All teammates gain an increase to the base effect of their Equipment gear (5th Gear slot). Upon use, Multiverse teammates' Special 1 has a chance to cost no Power.",
+               "effects": [
+                  "50% chance for Multiverse team Special 1 to cost no Power",
+                  "+30% base effect of team Equipment (5th Gear slot)"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -3979,7 +4110,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/nightwing.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Staff of Grayson",
+               "description": "Nightwing gains Power when he blocks attacks. When he uses any Special ability, his Basic and Swipe attacks are temporarily enhanced with various effects. Only 1 effect active at a time.",
+               "effects": ["Generate 0.3 Power on damage while blocking"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4183,7 +4320,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/supergirl.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Powered Heat Vision",
+               "description": "Critical hits on non-Ability attacks have the chance of allowing Kara to perform her Walking Laser Ability for 0 Power cost.",
+               "effects": ["30% chance for Special 1 to cost no Power on Basic and Swipe Critical attacks"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -4604,7 +4747,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/sonic_black_canary.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Sonic Attack",
+               "description": "Canary's Sonic Blast Special ability disables the opponent's block for a limited time.",
+               "effects": ["100% chance to disable the opponent's block for 4 seconds after performing Special 1"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -5493,7 +5642,7 @@
          "passives": [
             {
                "name": "Blur",
-               "description": "On tag-in, The Flash taps into the Speed Force and speed boosts his attacks. He also boosts his team's Fast Attack.",
+               "description": "On tag-in, The Flash taps into the Speedforce and speed boosts his attacks. He also boosts his team's Fast Attack.",
                "effects": [
                   "+0.5% Fast Attack chance for 5 seconds on tag-in (WTF?)",
                   "+20% Fast Attack chance for the team"
