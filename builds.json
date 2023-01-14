@@ -6138,7 +6138,33 @@
                "effects": ["25% Health regenerated on revival"]
             }
          ],
-         "builds": []
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G70, 7⭐)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": "?",
+               "gear_level": 70,
+               "gear": "7x ATK, 4x FAC, 2x DEF, 2x LAC",
+               "talents": "1x AP, 3x LAC, 1x DEF, 1x RES; 7th talent: AP",
+               "stats": {
+                  "attack": 4798,
+                  "health": 23847,
+                  "defense": "70%",
+                  "blocking": "25%",
+                  "cad": "150%",
+                  "cac": "25%",
+                  "lac": "59%",
+                  "fac": "69%",
+                  "stun_resistance": "22%",
+                  "dot_resistance": "12%",
+                  "crit_resistance": "12%"
+               }
+            }
+         ]
       }
    ]
 }
