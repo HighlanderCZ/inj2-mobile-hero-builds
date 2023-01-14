@@ -1036,7 +1036,33 @@
          "rank": "Legendary",
          "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batman_who_laughs.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "The Darkest Knight",
+               "description": "Each successful Special produced by the Batman Who Laughs produces Crisis energy. When the level of Crisis energy reaches its maximum, the Batman Who Laughs temporarily transforms into his ultimate form - The Darkest Knight. In this form, the Batman Who Laughs cannot perform Specials and is not affected by any timed buffs or debuffs, but his Attack is increased. Each 4th attack against an opponent reduces their Health by a percentage. Health reduction ignores Defense, but can be affected by Blocking or Passives.",
+               "effects": [
+                  "16 seconds in the Darkest Knight form",
+                  "+400% Attack",
+                  "2% opponent's current Health reduction on every 4th successful Basic or Swipe attack",
+                  "Maximum 40% Health per opponent per battle"
+               ]
+            },
+            {
+               "name": "Ultimate Despair",
+               "description": "The Batman Who Laughs can interrupt opponent's Specials by performing his own using Crisis energy instead of Power. This applies permanent Despair defuff on the opponent, reducing their damage. Only Specials of the same or higher rank can be used for interruption.",
+               "effects": [
+                  "-25% Damage under Despair debuff",
+                  "Up to 3 stacks",
+                  "Use Special for interruption using Crisis energy for 45% of original Power cost",
+                  "Crisis energy cost gets rounded, but cannot be lower than 1 bar"
+               ]
+            },
+            {
+               "name": "Master Manipulator",
+               "description": "Using Specials and Supermove with a high Combo meter grants the Batman Who Laughs extra Crisis energy.",
+               "effects": ["+150% Crisis energy", "Combo needs to be higher than 18 hits"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",
@@ -1191,7 +1217,29 @@
          "rank": "Gold",
          "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_batman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Batman, Inc.",
+               "description": "If Classic Batman is in your roster, all Batman and Classic heroes gain a bonus to their Attack and Health when they enter combat.",
+               "effects": [
+                  "+35% Attack for Batman and Classic teammates if this hero is in your roster",
+                  "+35% Health for Batman and Classic teammates if this hero is in your roster"
+               ]
+            },
+            {
+               "name": "Classically Trained",
+               "description": "If Classic Batman is in your roster, all Batman heroes gain a bonus to XP awarded from battle and when using XP capsules.",
+               "effects": ["+70% XP bonus", "+70% XP capsule bonus"]
+            },
+            {
+               "name": "Power Seize",
+               "description": "When an opponent misses an attack on Classic heroes due to being Blinded, the team gains Power. Additionally, Batman aids the Classic team by empowering their Rush Attack with Blind.",
+               "effects": [
+                  "1 Power bar gained",
+                  "55% chance to apply Blind for 8 seconds after using Rush attacks. 50% chance for opponents to miss under Blind"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -1352,7 +1400,19 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/cheetah.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Claws of Death",
+               "description": "After performing any of her Abilities, Cheetah gains armor-piercing on all attacks for a limited time.",
+               "effects": [
+                  "Abilities give armor-pierce on attacks",
+                  "Special 1: 4 seconds",
+                  "Special 2: 6 seconds",
+                  "Special 3: 8 seconds",
+                  "Supermove: 10 seconds"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -1440,7 +1500,30 @@
          "rank": "Gold",
          "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_wonder_woman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Strength of the Amazonian",
+               "description": "Wonder Woman and her teammates gain extra Critical Attack damage based on their current Defense. Can exceed cap.",
+               "effects": ["+2% Critical Attack damage for every 1% of Defense", "No more than 100% above cap"]
+            },
+            {
+               "name": "Wisdom of Athena",
+               "description": "Wonder Woman and her teammates gain extra Critical Attack chance against Blinded opponents. Can exceep cap. Deals extra damage against Blinded opponents.",
+               "effects": [
+                  "+50% Critical Attack chance against Blinded opponents",
+                  "No more than 23% above cap",
+                  "+200% Attack against Blinded opponents"
+               ]
+            },
+            {
+               "name": "Believe in Wonder",
+               "description": "If Classic Wonder Woman is in your roster, all Wonder Woman and Classic heroes gain extra chance to roll Rare and Epic talents, with chances doubled at max level.",
+               "effects": [
+                  "Increase the chance to roll Rare and Epic talents by +100% in slots 1 through 6",
+                  "Increase the chance to roll Legendary talents by +100% in slot 7"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -1503,7 +1586,13 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/doctor_fate.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Twist of Fate",
+               "description": "Doctor Fate's team's Abilities require less Power (does not stack with similar Passive abilities).",
+               "effects": ["-10% Defense for opposing team", "-2 to team's Power bar cost for Special abilities"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G70)",
@@ -1645,7 +1734,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/dark_supergirl.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Kryptonian Slam",
+               "description": "On tag-in, Supergirl lands an unblockable attack that deals damage and can interrupt Special abilities. If she interrupts a Special ability, she gains 100% damage and 100% Critical chance for 7 seconds.",
+               "effects": ["[80% of Attack stat] damage tag-in attack"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70)",
@@ -1708,7 +1803,23 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/deathstroke.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Expert Mercenary",
+               "description": "Every Special enhances Deathstroke's attacks with a temporary buff. The same type buffs stack up to 2 times.",
+               "effects": ["10 seconds duration"]
+            },
+            {
+               "name": "Steady Improvement",
+               "description": "Every successful Special permanently increases the duration of Expert Mercenary buffs. Duration can be increased by 100% during the battle.",
+               "effects": ["+20% buff duration increase"]
+            },
+            {
+               "name": "Weak Spots",
+               "description": "When Deathstroke Critically hits he gains Power.",
+               "effects": ["0.5 Power bars gained"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -1746,7 +1857,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/enraged_bane.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Antihero",
+               "description": "When hit by an Ability, Bane enrages becoming unblockable for a limited time.",
+               "effects": ["6 seconds unblockable duration"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -1784,7 +1901,17 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/emerald_green_lantern.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "For the Corps",
+               "description": "Green Lantern creates various constructs to help teammates on battle start and tag-in. Green Lantern buffs first with Stun, then randomly with Power bar gain, auto-Crit attack, or Stun.",
+               "effects": [
+                  "Hammer: 3 seconds Stun duration",
+                  "Lantern: 2 Power bars gained",
+                  "Sword: 100% Critical attack damage"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -1847,7 +1974,23 @@
          "rank": "Gold",
          "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/entangling_poison_ivy.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Entangling Vines",
+               "description": "Poison Ivy's Special abilities Bed of Thorns and Root Pound disable Evade, Ranged, Rush, and Jump attacks of the opponent for a limited time.",
+               "effects": ["6 seconds of movement disable and Swipe attacks disable"]
+            },
+            {
+               "name": "Toxins",
+               "description": "Until Poison Ivy is KO'd, Basic and Swipe attacks dealt by League of Anarchy teammates do additional damage as DoT.",
+               "effects": ["75% additional DoT on Basic and Swipe attacks"]
+            },
+            {
+               "name": "Regrowth",
+               "description": "While Poison Ivy is the active combatant, she heals herself and her League of Anarchy teammates for a percentage of DoT dealt.",
+               "effects": ["50% of DoT dealt heals"]
+            }
+         ],
          "builds": [
             {
                "name": "Balanced Healer Build (G70)",
@@ -1885,7 +2028,16 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/energized_starfire.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Energy Absorption",
+               "description": "Starfire regenerates a portion of her Health per bar of Power spent by her current opponent. Also, upon using her Starry Night Supermove, she heals her teammates.",
+               "effects": [
+                  "5% Health regenerated per Power bar",
+                  "5%-20% Health regenerated for team after performing Supermove"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -1986,7 +2138,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/flora_poison_ivy.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Poison Vines",
+               "description": "Ivy's Special abilities Vine Drill and Datura Hammer disable Evade, Ranged, Rush, and Jump attacks of the opponent while inflicting poison DoT for a limited time.",
+               "effects": ["6 seconds of movement disable, Swipe attacks disable, and DoT"]
+            }
+         ],
          "builds": [
             {
                "name": "Balanced Build (G60)",
@@ -2049,7 +2207,13 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/firestorm.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "DoT Resistance",
+               "description": "Firestorm and his teammates gain an increase to DoT resistance.",
+               "effects": ["+50% DoT resistance for team"]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -2141,7 +2305,26 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/collector_of_worlds_superman.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Supremacy of Reason",
+               "description": "Superman and his Legendary teammates have a chance not to reset their Combo counter with their Specials.",
+               "effects": ["60% chance not to reset Combo counter"]
+            },
+            {
+               "name": "Side Effects",
+               "description": "Superman heals when his teammates receive damage. He gains bonus damage each time they lose a certain percentage of their total Health, up to 4 times. This buff lasts for the entirety of the match.",
+               "effects": [
+                  "Heals for 50% of damage his teammates receive",
+                  "Gains +50% bonus damage each time teammates lose more than 50% of their total Health"
+               ]
+            },
+            {
+               "name": "Better You Than Me",
+               "description": "Superman spreads portion of the damage he receives between his teammates when his Health drops low.",
+               "effects": ["Spreads 50% damage he receives between his teammates when he has less than 60% Health"]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -2204,7 +2387,20 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/grid.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Circuit Breaker",
+               "description": "Grid has numerous advantages over Tech opponents, especially Cyborg.",
+               "effects": [
+                  "Immune to Power drain",
+                  "Immune to Stun from Tech opponents",
+                  "Disables all Cyborg opponent's Passives at battle start",
+                  "+25% Power generation per Tech opponent",
+                  "+300% damage for Special 1 and Special 2 against Cyborg opponents",
+                  "Losing more than 15% Health over 1 second from Basic and Swipe attacks a 200% current Health Shield for 10 seconds. 3 seconds cooldown"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -2242,7 +2438,16 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hellboy.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Box Full of Evil",
+               "description": "Incoming DoT will heal Hellboy instead of damaging him. Against Arcane class opponents, Hellboy gains boosts to damage and Defense.",
+               "effects": [
+                  "100% of DoT heals instead. Maximum of 3% Health per tick",
+                  "+25% damage and Defense against Arcane opponents"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G60)",
@@ -2437,7 +2642,16 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/horrific_scarecrow.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Fear Aura",
+               "description": "Scarecrow's Aura makes opponents panic. The opposing team has reduced Attack and opponents' Abilities require more Power.",
+               "effects": [
+                  "+2 to opposing team's Power bar cost for Special abilities",
+                  "-10% Attack for opposing team"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Tank Build (G60)",
@@ -3033,7 +3247,29 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mr_freeze.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Just-Ice",
+               "description": "Mr. Freeze's attacks deal extra damage against frozen characters. Each Power bar spent by his team additionally increases that damage.",
+               "effects": [
+                  "+200% damage against opponents under Freeze",
+                  "+40% extra damage per used Power bar. Stacks up to 30"
+               ]
+            },
+            {
+               "name": "Endless Winter",
+               "description": "Mr. Freeze and his Legendary teammates are able to hit a frozen opponent multiple times before then unfreeze.",
+               "effects": ["+9 additional hits on opponent without breaking Freeze status"]
+            },
+            {
+               "name": "Frostbite",
+               "description": "All unfrozen characters suffer from Frostbite, which lowers Power generation and Blocking effectiveness.",
+               "effects": [
+                  "17 seconds Frostbite",
+                  "Frostbite: Opponent's Power generation decreases by 50% and Blocking decreases by 25%"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Damage Dealer Build (G70, 7⭐)",
@@ -4154,7 +4390,36 @@
          "rank": "Legendary",
          "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/robin_king.jpeg",
-         "passives": [],
+         "passives": [
+            {
+               "name": "Victim",
+               "description": "Robin King's successful Specials apply Victim debuff on the opponent, disabling Critical attack immunity and Critical attack resistance. Successful Basic and Swipe attacks of Metal characters against opponents with Victim debuff produce Crisis energy.",
+               "effects": [
+                  "21 seconds of Victim debuff on successful Special",
+                  "Victim: Disable opponent's Critical attack immunity and Critical attack resistance",
+                  "+0.35 Crisis energy bar for each Metal character Basic and Swipe attack"
+               ]
+            },
+            {
+               "name": "Maniac Appetite",
+               "description": "Player's team successful Basic and Swipe attacks against the opponent with Victim debuff apply stack of Maniac Appetite, increasing team's Critical damage and Critical attack chance. Stack's count start to decrease after a short amount of time. Robin King gains additional stacks for each Metal teammate in the battle.",
+               "effects": [
+                  "10 seconds Maniac Appetite",
+                  "Maniac Appetite: +10% Critical damage and +2% Critical attack chance. Stacks up to 30",
+                  "No more than 200% above cap",
+                  "+1 additional stack for each Metal teammate"
+               ]
+            },
+            {
+               "name": "Fog of Carnage",
+               "description": "When the level of Crisis energy reaches its maximum, Robin King summons a fog of carnage, which block opponents' Specials and gives a chance for Metal teammates to deal unblockable attacks.",
+               "effects": [
+                  "Disable opponents' Specials and Supermove",
+                  "100% unblockable for Metal teammates Basic and Swipe attacks",
+                  "Duration 16 seconds"
+               ]
+            }
+         ],
          "builds": [
             {
                "name": "Hybrid Build (G70, 7⭐)",
@@ -6136,7 +6401,7 @@
       {
          "name": "Unbreakable Cyborg",
          "abbreviations": ["ucb"],
-         "description": "We'll have a build available soon, but frankly, he ain't worth investing in.",
+         "description": "",
          "footnote": "",
          "class": "Tech",
          "rank": "Gold",
