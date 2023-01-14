@@ -740,17 +740,23 @@
             {
                "name": "Crippling Blow",
                "description": "Batman Ninja teammates deal increased damage and temporarily lower opponent's damage and Defense on every 5th Basic and Swipe Attack.",
-               "effects": []
+               "effects": [
+                  "450% damage bonus on every 5th successful Basic or Swipe attack",
+                  "-30% damage and Defense for 14 seconds"
+               ]
             },
             {
                "name": "Dramatic Reversal",
                "description": "When at 30% Health, Gorilla Grodd temporarily boosts his Lethal Attack chance and heals himselft for percentage of Basic and Swipe damage dealt.",
-               "effects": []
+               "effects": [
+                  "+60% Lethal attack chance for 14 seconds",
+                  "25% of damage from Basic, Swipe, and Tag attacks heals for 14 seconds"
+               ]
             },
             {
                "name": "Master Plan",
                "description": "Whenever Gorilla Grodd, Batman Ninja teammates or Legendary allies land an unblocked Lethal Attack, they gain power.",
-               "effects": []
+               "effects": ["0.6 Power bars gained"]
             }
          ],
          "builds": [
@@ -3876,13 +3882,13 @@
             },
             {
                "name": "Multiverse Incendiaries",
-               "description": "",
-               "effects": []
+               "description": "Multiverse teammates gain a chance to apply powerful Damage over time on Special 3 for 7 seconds",
+               "effects": ["90% DoT chance", "40% DoT"]
             },
             {
                "name": "Endurance Training",
-               "description": "",
-               "effects": []
+               "description": "All teammates gain a Health bonus.",
+               "effects": ["+20% Health for team"]
             }
          ],
          "builds": [
