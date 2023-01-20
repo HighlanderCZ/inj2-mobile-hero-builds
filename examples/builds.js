@@ -62,8 +62,13 @@ const createEmbeds = (hero) => {
 
    hero.builds.forEach((build) => {
       const buildEmbed = new MessageEmbed();
+      let buildName = build.name;
 
-      buildEmbed.setTitle(build.name);
+      if (build.gear_level) {
+         buildName += ` (G${build.gear_level})`;
+      }
+
+      buildEmbed.setTitle(buildName);
       buildEmbed.setColor(heroColor);
 
       if (build.description && build.description.length > 0) {
