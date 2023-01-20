@@ -25,6 +25,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x ATK, 3x DEF, 2x CAD, 2x CAC",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -50,6 +51,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 1x CAC, 2x CAD",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -94,6 +96,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -145,6 +148,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "4x RES, 2x DEF (or 2x BE)",
                "stats": {
@@ -170,6 +174,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "11x ATK, 1x CAC, 3x CAD",
                "talents": "4x RES, 2x CAC",
                "stats": {
@@ -214,6 +219,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "14x HLTH, 1x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -239,6 +245,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -285,6 +292,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x HLTH, 2x DEF, 5x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -310,6 +318,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "4x FA, 1x DEF, 10x HLTH",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -359,6 +368,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "3x DEF, 2x CAD, 1x CAC, 9x ATK",
                "talents": "3x CAD, 1x CAC, 2x DEF",
                "stats": {
@@ -424,6 +434,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "6x ATK, 2x DEF, 4x FAC, 3x CAC",
                "talents": "5x CAD, 1x RES; 7th talent: RES",
                "stats": {
@@ -468,6 +479,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -493,6 +505,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "13x ATK, 2x CAD",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -537,6 +550,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "9x HLTH, 2x DEF, 4x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -580,6 +594,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -605,6 +620,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x ATK, 4x CAD, 3x LAC",
                "talents": "4x CAC, 1x CAD, 1x LAC",
                "stats": {
@@ -630,6 +646,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "6x CAD",
                "stats": {
@@ -684,6 +701,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "5x ATK, 4x FAC, 2x CAD, 1x CAC, 3x LAC",
                "talents": "3x CAD, 2x CAC, 1x LAC",
                "stats": {
@@ -709,6 +727,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 2x CAD, 1x CAC",
                "talents": "3x CAD, 2x CAC, 1x LAC",
                "stats": {
@@ -769,6 +788,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "5x ATK, 4x FAC, 3x LAC, 2x CAD, 1x CAC",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -794,6 +814,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "3x DEF, 3x RES",
                "stats": {
@@ -841,6 +862,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -885,6 +907,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "6x ATK, 4x FAC, 3x LAC, 2x CAD",
                "talents": "4x CAC, 2x CAD",
                "stats": {
@@ -936,6 +959,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x ATK, 2x LAC, 2x CAD, 2x CAC",
                "talents": "1x CAC, 3x CAD, 2x LAC",
                "stats": {
@@ -961,6 +985,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "6x ATK, 3x FAC, 2x CAC, 2x CAD, 2x LAC",
                "talents": "3x CAD, 2x LAC, 1x CAC",
                "stats": {
@@ -1015,6 +1040,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "11x HLTH, 1x LAC, 3x DEF",
                "talents": "4x RES, 2x LAC",
                "stats": {
@@ -1079,6 +1105,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "9x ATK, 2x DEF, 4x FAC",
                "talents": "2x AP, 3x CAD, 1x CAC; 7th talent: CAD",
                "stats": {
@@ -1104,6 +1131,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "7x ATK, 4x FAC, 2x CAD, 1x CAC, 1x DEF",
                "talents": "2x DEF, 2x CAD, 1x CAC, 1x RES; 7th talent: RES",
                "stats": {
@@ -1171,6 +1199,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "9x ATK, 2x DEF, 2x CAD, 2x CAC",
                "talents": "3x CAD, 1x CAC, 1x DEF, 1x RES; 7th talent: RES",
                "stats": {
@@ -1196,6 +1225,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "7x ATK, 3x LAC, 2x DEF, 2x CAD, 1x CAC",
                "talents": "3x CAD, 2x CAC, 1x LAC; 7th talent: LAC",
                "stats": {
@@ -1221,6 +1251,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "9x ATK, 2x CAC, 1x CAD, 1x FAC, 2x DEF",
                "talents": "4x RES, 1x CAD, 1x AP; 7th talent: LAC",
                "stats": {
@@ -1281,6 +1312,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1335,6 +1367,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "9x ATK, 2x CAC, 1x CAD, 3x DEF",
                "talents": "3x RES, 1x CAD, 2x AP; 7th talent: RES",
                "stats": {
@@ -1379,6 +1412,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1404,6 +1438,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 1x CAC, 2x CAD",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -1454,6 +1489,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1479,6 +1515,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "5x FAC, 1x DEF, 9x HLTH",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1504,6 +1541,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "4x FAC, 1x CAC, 2x CAD, 9x ATK",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -1565,6 +1603,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "10x ATK, 5x FAC",
                "talents": "6x CAD",
                "stats": {
@@ -1590,6 +1629,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "4x ATK, 5x FAC, 2x DEF, 2x CAD, 2x CAC",
                "talents": "2x CAD, 3x RES, 1x DEF",
                "stats": {
@@ -1634,6 +1674,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x HLTH, 2x DEF, 4x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1688,6 +1729,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -1713,6 +1755,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "3x DEF, 3x RES",
                "stats": {
@@ -1738,6 +1781,7 @@
                "footnote": "",
                "hero_level": 80,
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "3x DEF, 10x HLTH, 2x ATK",
                "talents": "1x HLTH, 2x RES, 3x AP; 7th talent: RES",
                "stats": {
@@ -1782,6 +1826,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 2x CAC, 1x CAD",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -1807,6 +1852,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "3x DEF, 3x RES",
                "stats": {
@@ -1861,6 +1907,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x ATK, 5x FAC, 2x CAD",
                "talents": "3x RES, 2x CAC, 1x ATK",
                "stats": {
@@ -1905,6 +1952,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1953,6 +2001,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -1978,6 +2027,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "11x ATK, 2x CAC, 2x CAD",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -2032,6 +2082,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "1x ATK, 4x FAC, 3x DEF, 3x CAD, 2x HLTH, 2x CAC",
                "talents": "4x AP, 2x CAD",
                "stats": {
@@ -2079,6 +2130,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -2104,6 +2156,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x ATK, 1x CAC, 2x CAD, 4x FAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -2165,6 +2218,7 @@
                "footnote": "",
                "hero_level": "~62",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "3x CAD, 1x CAC, 5x ATK, 4x FAC, 2x DEF",
                "talents": "3x CAC, 1x LAC, 2x RES; 7th talent: CAD",
                "stats": {
@@ -2190,6 +2244,7 @@
                "footnote": "",
                "hero_level": "80",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "6x ATK, 1x DEF, 2x FAC, 3x CAD, 3x CAC",
                "talents": "3x RES, 1x AP, 1x DEF, 1x CAD; 7th talent: AP",
                "stats": {
@@ -2234,6 +2289,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "10x ATK, 3x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -2259,6 +2315,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -2303,6 +2360,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -2357,6 +2415,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 3x CAC",
                "talents": "6x CAD",
                "stats": {
@@ -2414,6 +2473,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "2x CAD, 1x CAC, 12x ATK",
                "talents": "3x CAD, 2x CAC, 1x AP",
                "stats": {
@@ -2439,6 +2499,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -2490,6 +2551,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "3x RES, 2x DEF",
                "stats": {
@@ -2537,6 +2599,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "11x ATK, 2x CAD, 2x CAC",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -2562,6 +2625,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "9x HLTH, 1x DEF, 5x FAC",
                "talents": "3x RES, 3x DEF",
                "stats": {
@@ -2587,6 +2651,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 1x CAC, 3x CAD, 2x FAC, 1x DEF",
                "talents": "3x CAC, 1x CAD, 2x DEF",
                "stats": {
@@ -2644,6 +2709,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "6x ATK, 4x FAC, 4x CAD, 1x CAC",
                "talents": "4x AP, 2x CAC",
                "stats": {
@@ -2669,6 +2735,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "7x ATK, 3x FAC, 4x CAD, 1x CAC",
                "talents": "4x AP, 2x CAC",
                "stats": {
@@ -2694,6 +2761,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x CAD, 3x FAC",
                "talents": "3x AP, 3x CAC",
                "stats": {
@@ -2741,6 +2809,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -2795,6 +2864,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "8x ATK, 3x CAD, 4x FAC",
                "talents": "1x CAD, 3x CAC, 2x DEF; 7th talent open and not included",
                "stats": {
@@ -2842,6 +2912,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 2x CAD, 1x CAC, 4x FAC",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -2889,6 +2960,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "7x ATK, 5x FAC, 1x CAD, 2x CAC",
                "talents": "1x CAC, 5x CAD",
                "stats": {
@@ -2914,6 +2986,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "13x ATK, 2x CAD",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -2939,6 +3012,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "2x DEF, 4x RES",
                "stats": {
@@ -2987,6 +3061,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -3034,6 +3109,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -3091,6 +3167,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "11x HLTH, 4x FAC",
                "talents": "4x RES, 2x HLTH",
                "stats": {
@@ -3116,6 +3193,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -3165,6 +3243,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x HLTH, 2x DEF, 5x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -3208,6 +3287,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -3266,6 +3346,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC (or CAC and CAD), 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -3291,6 +3372,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -3345,6 +3427,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "5x ATK, 5x FAC, 3x CAD, 2x CAC",
                "talents": "4x AP, 1x CAC, 1x CAD",
                "stats": {
@@ -3370,6 +3453,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x ATK, 4x FAC, 1x CAD, 1x CAC",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -3430,6 +3514,7 @@
                "footnote": "",
                "hero_level": 80,
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "9x ATK, 1x DEF, 3x CAD, 2x CAC",
                "talents": "2x CAD, 2x CAC, 1x ATK, 1x RES; 7th talent: LAC",
                "stats": {
@@ -3488,6 +3573,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "6x ATK, 1x FAC, 2x CAC, 3x CAD, 3x DEF",
                "talents": "4x AP, 1x CAC, 1x CAD",
                "stats": {
@@ -3513,6 +3599,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "11x ATK, 1x CAC, 2x CAD, 1x FAC",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -3557,6 +3644,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -3611,6 +3699,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "3x RES, 3x DEF (or AP)",
                "stats": {
@@ -3658,6 +3747,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "5x CAD, 1x ATK",
                "stats": {
@@ -3683,6 +3773,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "6x ATK, 2x DEF, 7x HLTH",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -3737,6 +3828,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 7,
                "gear": "15x ATK",
                "talents": "5x CAD, 1x ATK; 7th talent: ATK",
                "stats": {
@@ -3786,6 +3878,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -3811,6 +3904,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "2x DEF, 4x CAD",
                "stats": {
@@ -3869,6 +3963,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "5x HLTH, 2x DEF, 4x FAC, 4x ATK",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -3926,6 +4021,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "4x CAD, 2x DEF",
                "stats": {
@@ -3951,6 +4047,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x HLTH",
                "stats": {
@@ -3998,6 +4095,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x HLTH",
                "stats": {
@@ -4023,6 +4121,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "4x CAD, 2x DEF",
                "stats": {
@@ -4070,6 +4169,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "15x ATK",
                "talents": "5x CAD, 1x ATK",
                "stats": {
@@ -4114,6 +4214,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "7x ATK, 5x FAC, 2x CAC, 1x CAD",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -4158,6 +4259,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4183,6 +4285,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "7x ATK, 4x FAC, 2x CAD, 2x CAC",
                "talents": "4x CAD, 2x CAC",
                "stats": {
@@ -4227,6 +4330,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 3x CAD",
                "talents": "4x CAC, 2x CAD",
                "stats": {
@@ -4252,6 +4356,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "3x DEF, 3x CAD, 3x ATK, 1x CAC, 5x FAC",
                "talents": "3x RES, 1x CAD, 2x CAC",
                "stats": {
@@ -4299,6 +4404,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4324,6 +4430,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "12x ATK, 3x CAD",
                "talents": "4x CAC, 2x CAD",
                "stats": {
@@ -4368,6 +4475,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4415,6 +4523,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x ATK, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4440,6 +4549,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 3x CAD",
                "talents": "4x CAC, 1x CAD, 1x ATK",
                "stats": {
@@ -4502,6 +4612,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 2x CAC, 1x CAD",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -4527,6 +4638,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x HLTH, 1x DEF, 5x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4571,6 +4683,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "9x HLTH, 2x DEF, 4x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4615,6 +4728,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4640,6 +4754,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "4x ATK, 2x HLTH, 2x CAC, 3x CAD, 4x FAC",
                "talents": "4x DEF, 2x RES",
                "stats": {
@@ -4707,6 +4822,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "10x ATK, 1x DEF, 2x CAD, 2x CAC",
                "talents": "3x CAD, 2x DEF, 1x RES; 7th talent: RES",
                "stats": {
@@ -4751,6 +4867,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 2x CAD, 1x CAC",
                "talents": "3x CAD, 3x CAC",
                "stats": {
@@ -4795,6 +4912,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4842,6 +4960,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "11x HLTH, 2x DEF, 2x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -4900,6 +5019,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x HLTH, 4x FAC, 2x DEF",
                "talents": "4x RES, 1x HLTH, 1x DEF",
                "stats": {
@@ -4944,6 +5064,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5004,6 +5125,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x ATK, 3x DEF, 2x CAD, 1x CAC",
                "talents": "2x CAC, 4x CAD",
                "stats": {
@@ -5029,6 +5151,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "3x DEF, 2x FAC, 5x ATK, 5x HLTH",
                "talents": "5x RES, 1x LAC; 7th talent: ATK",
                "stats": {
@@ -5054,6 +5177,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5115,6 +5239,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "9x ATK, 4x FAC, 2x CAD",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -5140,6 +5265,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "14x HLTH, 1x DEF",
                "talents": "3x DEF, 3x RES",
                "stats": {
@@ -5210,6 +5336,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "8x ATK, 4x FAC, 1x CAC, 2x CAD",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -5235,6 +5362,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "15x HLTH",
                "talents": "3x DEF, 3x RES",
                "stats": {
@@ -5282,6 +5410,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 2x CAC, 1x CAD",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -5326,6 +5455,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5373,6 +5503,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5398,6 +5529,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "13x ATK, 2x CAD",
                "talents": "2x CAC, 4x CAD",
                "stats": {
@@ -5442,6 +5574,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5486,6 +5619,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "13x ATK, 1x CAC, 1x CAD",
                "talents": "5x CAD, 1x CAC",
                "stats": {
@@ -5511,6 +5645,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "13x ATK, 1x CAC, 1x CAD",
                "talents": "5x CAD, 1x CAC; 7th talent: ATK",
                "stats": {
@@ -5555,6 +5690,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5599,6 +5735,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5643,6 +5780,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5690,6 +5828,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "10x HLTH, 2x DEF, 3x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5737,6 +5876,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5781,6 +5921,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "14x HLTH, 1x DEF",
                "talents": "3x RES, 3x DEF",
                "stats": {
@@ -5825,6 +5966,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5869,6 +6011,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5913,6 +6056,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "8x HLTH, 2x DEF, 5x FAC",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -5957,6 +6101,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6001,6 +6146,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6045,6 +6191,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6089,6 +6236,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6114,6 +6262,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "3x HLTH, 3x DEF, 6x ATK, 2x CAD, 1x CAC",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -6158,6 +6307,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6202,6 +6352,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6227,6 +6378,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "12x ATK, 1x CAC, 2x CAD",
                "talents": "3x CAC, 3x CAD",
                "stats": {
@@ -6271,6 +6423,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6315,6 +6468,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6369,6 +6523,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "4x ATK, 3x CAD, 4x FAC, 1x HLTH, 1x DEF, 2x CAC",
                "talents": "3x RES, 2x DEF, 1x CAC",
                "stats": {
@@ -6394,6 +6549,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "5x FAC, 8x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6438,6 +6594,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "13x HLTH, 2x DEF",
                "talents": "4x RES, 2x DEF",
                "stats": {
@@ -6505,6 +6662,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "4x FAC, 2x CAC, 4x CAD, 3x ATK, 2x DEF",
                "talents": "1x CAC, 2x AP, 1x LAC, 1x ATK, 1x DEF; 7th talent: ATK",
                "stats": {
@@ -6562,6 +6720,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "4x ATK, 5x FAC, 3x CAD, 3x CAC",
                "talents": "4x AP, 2x CAD",
                "stats": {
@@ -6619,6 +6778,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 6,
                "gear": "5x ATK, 2x FAC, 3x CAD, 3x CAC, 2x DEF",
                "talents": "4x AP, 1x CAD, 1x RES",
                "stats": {
@@ -6663,6 +6823,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 60,
+               "star_rating": 6,
                "gear": "2x CAC, 5x FAC, 5x ATK, 3x LAC",
                "talents": "1x LAC, 1x CAC, 4x RES",
                "stats": {
@@ -6707,6 +6868,7 @@
                "footnote": "",
                "hero_level": "?",
                "gear_level": 70,
+               "star_rating": 7,
                "gear": "7x ATK, 4x FAC, 2x DEF, 2x LAC",
                "talents": "1x AP, 3x LAC, 1x DEF, 1x RES; 7th talent: AP",
                "stats": {
