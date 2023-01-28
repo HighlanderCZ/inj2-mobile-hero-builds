@@ -5590,6 +5590,32 @@
                   "dot_resistance": "75%",
                   "crit_resistance": "70%"
                }
+            },
+            {
+               "name": "Damage Dealer Non-Crit Build (G60, 7⭐)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "https://inj2.striky.cz/chloe_happy_sticker_round.png",
+               "author_url": "https://discord.gg/xG7DPuUmTY",
+               "footnote": "",
+               "hero_level": "63",
+               "gear_level": 60,
+               "star_rating": 7,
+               "gear": "9x ATK, 5x FAC, 1x LAC",
+               "talents": "3x LAC, 2x AP, 1x RES; 7th talent: LAC",
+               "stats": {
+                  "attack": 5162,
+                  "health": 16902,
+                  "defense": "21%",
+                  "blocking": "25%",
+                  "cad": "150%",
+                  "cac": "22%",
+                  "lac": "52%",
+                  "fac": "75%",
+                  "stun_resistance": "12%",
+                  "dot_resistance": "12%",
+                  "crit_resistance": "17%"
+               }
             }
          ]
       },
