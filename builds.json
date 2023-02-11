@@ -6304,6 +6304,32 @@
                   "dot_resistance": "0%",
                   "crit_resistance": "0%"
                }
+            },
+            {
+               "name": "Damage Dealer Alternative Build (G60, 7⭐)",
+               "description": "",
+               "author": "Highlander",
+               "author_icon": "https://inj2.striky.cz/chloe_happy_sticker_round.png",
+               "author_url": "https://discord.gg/xG7DPuUmTY",
+               "footnote": "",
+               "hero_level": 70,
+               "gear_level": 60,
+               "star_rating": 7,
+               "gear": "6x ATK, 4x LAC, 5x FAC",
+               "talents": "3x RES, 1x CAC, 1x AP, 1x ATK; 7th talent: ATK",
+               "stats": {
+                  "attack": 5122,
+                  "health": 18648,
+                  "defense": "21%",
+                  "blocking": "25%",
+                  "cad": "160%",
+                  "cac": "34%",
+                  "lac": "60%",
+                  "fac": "75%",
+                  "stun_resistance": "60%",
+                  "dot_resistance": "60%",
+                  "crit_resistance": "60%"
+               }
             }
          ]
       },
