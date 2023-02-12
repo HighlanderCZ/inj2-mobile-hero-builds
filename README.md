@@ -4,6 +4,10 @@ An open source repository of all character builds for Injustice 2 Mobile. Free f
 
 Questions? Find me on Discord: [Highlander](https://discordapp.com/users/402577495515463680)
 
+## Roadmap
+
+-  have two viable builds for every hero at minimum
+
 ## Credits
 
 -  [Legion of Doom Discord](https://discord.gg/Je3Sx3x) and **ejd1013#9116**
