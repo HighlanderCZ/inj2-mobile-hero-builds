@@ -85,9 +85,15 @@ const createEmbeds = (hero) => {
       buildEmbed.addField('Talents', build.talents);
 
       const buildStats = build.stats;
+      const attack = !isNaN(buildStats.attack)
+         ? parseInt(buildStats.attack).toLocaleString('en-US')
+         : buildStats.attack;
+      const health = !isNaN(buildStats.health)
+         ? parseInt(buildStats.health).toLocaleString('en-US')
+         : buildStats.health;
       const stats = [
-         `Attack: ${buildStats.attack}`,
-         `Health: ${buildStats.health}`,
+         `Attack: ${attack}`,
+         `Health: ${health}`,
          `Defense: ${buildStats.defense}`,
          `Blocking: ${buildStats.blocking}`,
          `CAD: ${buildStats.cad}`,
@@ -139,8 +145,9 @@ export const getBuild = async (abbreviation) => {
    }
 };
 
-export const getBuildStats = async () => {
+export const getBuildDatabaseStats = async () => {
    let data;
+   const totalHeroesCount = 108; // This needs to be adjusted as new heroes are released
 
    if (!cachedResponse) {
       data = await fetchData();
@@ -153,6 +160,7 @@ export const getBuildStats = async () => {
 
    const sumHeroes = data.heroes.length;
    const sumBuilds = data.heroes.reduce((accumulator, hero) => accumulator + hero.builds.length, 0);
+   const sumHeroesMoreThanOneBuild = data.heroes.filter((hero) => hero.builds.length > 1).length;
 
    statsEmbed.setTitle('Build statistics');
    statsEmbed.setColor(0x4f71ec);
@@ -160,12 +168,17 @@ export const getBuildStats = async () => {
    statsEmbed.addFields(
       {
          name: 'Total heroes',
-         value: sumHeroes.toString(),
+         value: `${sumHeroes}/${totalHeroesCount}`,
          inline: true,
       },
       {
          name: 'Total builds',
          value: sumBuilds.toString(),
+         inline: true,
+      },
+      {
+         name: 'Heroes with more than 1 build',
+         value: `${sumHeroesMoreThanOneBuild}/${sumHeroes}`,
          inline: true,
       }
    );
