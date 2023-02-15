@@ -6315,10 +6315,10 @@
                "hero_level": 70,
                "gear_level": 60,
                "star_rating": 7,
-               "gear": "6x ATK, 4x LAC, 5x FAC",
-               "talents": "3x RES, 1x CAC, 1x AP, 1x ATK; 7th talent: ATK",
+               "gear": "8x ATK, 2x LAC, 5x FAC",
+               "talents": "3x RES, 1x CAC, 1x AP, 1x ATK; 7th talent: LAC",
                "stats": {
-                  "attack": 5122,
+                  "attack": 5511,
                   "health": 18648,
                   "defense": "21%",
                   "blocking": "25%",
