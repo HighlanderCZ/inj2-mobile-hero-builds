@@ -3,6 +3,7 @@
       {
          "name": "Atlantean Armor Aquaman",
          "abbreviations": ["aaa", "aaam"],
+         "tags": ["Aquaman", "Might", "Gold"],
          "description": "Atlantean Armor Aquaman heals his whole team upon using any of his abilites. The amount of HP restored is based on his Attack stat, therefore it's beneficial to build him as a damage dealer with high Attack.",
          "footnote": "",
          "class": "Might",
@@ -73,6 +74,7 @@
       {
          "name": "Ace Green Arrow",
          "abbreviations": ["aga"],
+         "tags": ["Green Arrow", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -118,6 +120,7 @@
       {
          "name": "Arkham Knight Batman",
          "abbreviations": ["akbm"],
+         "tags": ["Batman", "Agility", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -196,6 +199,7 @@
       {
          "name": "Armored Superman",
          "abbreviations": ["asm"],
+         "tags": ["Superman", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -267,6 +271,7 @@
       {
          "name": "Atrocitus",
          "abbreviations": ["atr", "atc"],
+         "tags": ["Atrocitus", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -340,6 +345,7 @@
       {
          "name": "Black Adam",
          "abbreviations": ["ba"],
+         "tags": ["Black Adam", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -390,6 +396,7 @@
       {
          "name": "Ruler of Kahndaq Black Adam",
          "abbreviations": ["rkba", "rokba"],
+         "tags": ["Flawed Justice", "Black Adam", "Arcane", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -456,6 +463,7 @@
       {
          "name": "Blue Beetle",
          "abbreviations": ["bb"],
+         "tags": ["Blue Beetle", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -527,6 +535,7 @@
       {
          "name": "Blademaster Robin",
          "abbreviations": ["bmr"],
+         "tags": ["Robin", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -572,6 +581,7 @@
       {
          "name": "Batman Ninja Batman",
          "abbreviations": ["bnbm"],
+         "tags": ["Batman Ninja", "Batman", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -668,6 +678,7 @@
       {
          "name": "Batman Ninja Catwoman",
          "abbreviations": ["bncw"],
+         "tags": ["Batman Ninja", "Catwoman", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -749,6 +760,7 @@
       {
          "name": "Batman Ninja Gorilla Grodd",
          "abbreviations": ["bngg"],
+         "tags": ["Batman Ninja", "Gorilla Grodd", "Might", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -836,6 +848,7 @@
       {
          "name": "Batman Ninja Harley Quinn",
          "abbreviations": ["bnhq"],
+         "tags": ["Batman Ninja", "Harley Quinn", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -884,6 +897,7 @@
       {
          "name": "Batman Ninja Lord Joker",
          "abbreviations": ["bnlj"],
+         "tags": ["Batman Ninja", "Lord Joker", "The Joker", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -929,6 +943,7 @@
       {
          "name": "Batman Ninja Robin",
          "abbreviations": ["bnr"],
+         "tags": ["Batman Ninja", "Robin", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -1007,6 +1022,7 @@
       {
          "name": "Brainiac",
          "abbreviations": ["brn", "bnc"],
+         "tags": ["Brainiac", "Tech", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -1062,6 +1078,7 @@
       {
          "name": "The Batman Who Laughs",
          "abbreviations": ["bwl", "bmwl"],
+         "tags": ["Metal", "Batman", "Metahuman", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -1153,6 +1170,7 @@
       {
          "name": "Batwoman The Drowned",
          "abbreviations": ["bwtd", "bwd"],
+         "tags": ["Metal", "Batwoman", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -1273,6 +1291,7 @@
       {
          "name": "Classic Batman",
          "abbreviations": ["cbm"],
+         "tags": ["Classic", "Batman", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -1334,6 +1353,7 @@
       {
          "name": "Classic Superman",
          "abbreviations": ["csm"],
+         "tags": ["Classic", "Superman", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -1389,6 +1409,7 @@
       {
          "name": "Captain Cold",
          "abbreviations": ["cc"],
+         "tags": ["Captain Cold", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -1460,6 +1481,7 @@
       {
          "name": "Cheetah",
          "abbreviations": ["cht", "chth"],
+         "tags": ["Cheetah", "Metahuman", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -1563,6 +1585,7 @@
       {
          "name": "Classic Wonder Woman",
          "abbreviations": ["cww"],
+         "tags": ["Classic", "Wonder Woman", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -1651,6 +1674,7 @@
       {
          "name": "Doctor Fate",
          "abbreviations": ["df"],
+         "tags": ["Doctor Fate", "Arcane", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -1696,6 +1720,7 @@
       {
          "name": "Darkseid",
          "abbreviations": ["ds"],
+         "tags": ["Darkseid", "Arcane", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -1803,6 +1828,7 @@
       {
          "name": "Dark Supergirl",
          "abbreviations": ["dsg"],
+         "tags": ["Supergirl", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -1874,6 +1900,7 @@
       {
          "name": "Deathstroke",
          "abbreviations": ["dsk"],
+         "tags": ["Deathstroke", "Agility", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -1929,6 +1956,7 @@
       {
          "name": "Enraged Bane",
          "abbreviations": ["ebn"],
+         "tags": ["Bane", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -1974,6 +2002,7 @@
       {
          "name": "Emerald Green Lantern",
          "abbreviations": ["egl"],
+         "tags": ["Green Lantern", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -2049,6 +2078,7 @@
       {
          "name": "Entangling Poison Ivy",
          "abbreviations": ["epi"],
+         "tags": ["League of Anarchy", "Poison Ivy", "Metahuman", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -2104,6 +2134,7 @@
       {
          "name": "Energized Starfire",
          "abbreviations": ["esf"],
+         "tags": ["Starfire", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -2178,6 +2209,7 @@
       {
          "name": "Elder Swamp Thing",
          "abbreviations": ["est"],
+         "tags": ["Dark Justice", "Swamp Thing", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -2266,6 +2298,7 @@
       {
          "name": "Flora Poison Ivy",
          "abbreviations": ["fpi"],
+         "tags": ["Poison Ivy", "Metahuman", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -2337,6 +2370,7 @@
       {
          "name": "Firestorm",
          "abbreviations": ["fs"],
+         "tags": ["Firestorm", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -2382,6 +2416,7 @@
       {
          "name": "Golden Armor Wonder Woman",
          "abbreviations": ["gaww"],
+         "tags": ["Wonder Woman", "Might", "Legendary", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -2437,6 +2472,7 @@
       {
          "name": "Collector of Worlds Superman",
          "abbreviations": ["cows", "cowsm"],
+         "tags": ["Superman", "Tech", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -2521,6 +2557,7 @@
       {
          "name": "Grid",
          "abbreviations": ["grd"],
+         "tags": ["Grid", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -2573,6 +2610,7 @@
       {
          "name": "Hellboy",
          "abbreviations": ["hb"],
+         "tags": ["Hellboy", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -2673,6 +2711,7 @@
       {
          "name": "Heartbreaker Harley Quinn",
          "abbreviations": ["hbhq"],
+         "tags": ["League of Anarchy", "Harley Quinn", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -2783,6 +2822,7 @@
       {
          "name": "Horrific Scarecrow",
          "abbreviations": ["hsc"],
+         "tags": ["Scarecrow", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -2831,6 +2871,7 @@
       {
          "name": "Hush",
          "abbreviations": ["hsh"],
+         "tags": ["Hush", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -2886,6 +2927,7 @@
       {
          "name": "Justice League Aquaman",
          "abbreviations": ["jlam"],
+         "tags": ["Justice League", "Aquaman", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -2934,6 +2976,7 @@
       {
          "name": "Justice League Batman",
          "abbreviations": ["jlbm"],
+         "tags": ["Justice League", "Batman", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -3034,6 +3077,7 @@
       {
          "name": "Justice League Cyborg",
          "abbreviations": ["jlc"],
+         "tags": ["Justice League", "Cyborg", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -3083,6 +3127,7 @@
       {
          "name": "Justice League The Flash",
          "abbreviations": ["jltf", "jlf"],
+         "tags": ["Justice League", "The Flash", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -3131,6 +3176,7 @@
       {
          "name": "Justice League Superman",
          "abbreviations": ["jlsm"],
+         "tags": ["Justice League", "Superman", "Might", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -3215,6 +3261,7 @@
       {
          "name": "John Stewart Green Lantern",
          "abbreviations": ["jsgl"],
+         "tags": ["Green Lantern", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -3265,6 +3312,7 @@
       {
          "name": "Knightmare Batman",
          "abbreviations": ["kbm", "kmbm"],
+         "tags": ["Batman", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -3309,6 +3357,7 @@
       {
          "name": "King of Atlantis Aquaman",
          "abbreviations": ["koaa", "koaam"],
+         "tags": ["Aquaman", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -3394,6 +3443,7 @@
       {
          "name": "Last Laugh The Joker",
          "abbreviations": ["llj", "lltj"],
+         "tags": ["League of Anarchy", "The Joker", "Agility", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -3475,6 +3525,7 @@
       {
          "name": "Mr. Freeze",
          "abbreviations": ["mrf"],
+         "tags": ["Mr. Freeze", "Tech", "League of Anarchy"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -3536,6 +3587,7 @@
       {
          "name": "Martian Manhunter",
          "abbreviations": ["mmh"],
+         "tags": ["Martian Manhunter", "Metahuman", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -3621,6 +3673,7 @@
       {
          "name": "Master Thief Catwoman",
          "abbreviations": ["mtcw"],
+         "tags": ["Catwoman", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -3666,6 +3719,7 @@
       {
          "name": "Multiverse Armored Supergirl",
          "abbreviations": ["mvasg"],
+         "tags": ["Multiverse", "Supergirl", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -3721,6 +3775,7 @@
       {
          "name": "Multiverse Black Lightning",
          "abbreviations": ["mvbl"],
+         "tags": ["Multiverse", "Black Lightning", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -3795,6 +3850,7 @@
       {
          "name": "Multiverse Batwoman",
          "abbreviations": ["mvbw"],
+         "tags": ["Multiverse", "Batwoman", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -3850,6 +3906,7 @@
       {
          "name": "Multiverse Captain Cold",
          "abbreviations": ["mvcc"],
+         "tags": ["Multiverse", "Captain Cold", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -3926,6 +3983,7 @@
       {
          "name": "Multiverse The Flash",
          "abbreviations": ["mvf", "mvtf"],
+         "tags": ["Multiverse", "The Flash", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -3985,6 +4043,7 @@
       {
          "name": "Multiverse Green Arrow",
          "abbreviations": ["mvga"],
+         "tags": ["Multiverse", "Green Arrow", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -4069,6 +4128,7 @@
       {
          "name": "Multiverse Supergirl",
          "abbreviations": ["mvsg"],
+         "tags": ["Multiverse", "Supergirl", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -4143,6 +4203,7 @@
       {
          "name": "Multiverse White Canary",
          "abbreviations": ["mvwc"],
+         "tags": ["Multiverse", "White Canary", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -4191,6 +4252,7 @@
       {
          "name": "Mythic Wonder Woman",
          "abbreviations": ["mww"],
+         "tags": ["Justice League", "Wonder Woman", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -4236,6 +4298,7 @@
       {
          "name": "Nightwing",
          "abbreviations": ["nw"],
+         "tags": ["Nightwing", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -4307,6 +4370,7 @@
       {
          "name": "Predator Batman",
          "abbreviations": ["pbm"],
+         "tags": ["Batman", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -4378,6 +4442,7 @@
       {
          "name": "Power Girl",
          "abbreviations": ["pg"],
+         "tags": ["Power Girl", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -4452,6 +4517,7 @@
       {
          "name": "Powered Supergirl",
          "abbreviations": ["psg"],
+         "tags": ["Supergirl", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -4497,6 +4563,7 @@
       {
          "name": "Raiden",
          "abbreviations": ["rdn"],
+         "tags": ["Raiden", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -4571,6 +4638,7 @@
       {
          "name": "Raven",
          "abbreviations": ["rvn"],
+         "tags": ["Raven", "Arcane", "Legendary", "Female"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -4660,6 +4728,7 @@
       {
          "name": "The Reverse Flash",
          "abbreviations": ["rf"],
+         "tags": ["The Reverse Flash", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -4705,6 +4774,7 @@
       {
          "name": "Red Hood",
          "abbreviations": ["rh"],
+         "tags": ["Red Hood", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -4776,6 +4846,7 @@
       {
          "name": "Robin King",
          "abbreviations": ["rk"],
+         "tags": ["Metal", "Robin", "Agility", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -4844,6 +4915,7 @@
       {
          "name": "Silver Banshee",
          "abbreviations": ["sb"],
+         "tags": ["Silver Banshee", "Arcane", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -4889,6 +4961,7 @@
       {
          "name": "Sonic Black Canary",
          "abbreviations": ["sbc"],
+         "tags": ["Black Canary", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -4934,6 +5007,7 @@
       {
          "name": "Speedforce The Flash",
          "abbreviations": ["sff", "sftf"],
+         "tags": ["The Flash", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -4982,6 +5056,7 @@
       {
          "name": "Shazam",
          "abbreviations": ["shz"],
+         "tags": ["Shazam", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -5041,6 +5116,7 @@
       {
          "name": "Soulstealer Doctor Fate",
          "abbreviations": ["ssdf"],
+         "tags": ["Doctor Fate", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -5086,6 +5162,7 @@
       {
          "name": "Suicide Squad Deadshot",
          "abbreviations": ["ssds", "ssdt"],
+         "tags": ["Suicide Squad", "Deadshot", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -5199,6 +5276,7 @@
       {
          "name": "Suicide Squad Enchantress",
          "abbreviations": ["sse"],
+         "tags": ["Suicide Squad", "Enchantress", "Arcane", "Legendary", "Female"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -5287,6 +5365,7 @@
       {
          "name": "Suicide Squad Harley Quinn",
          "abbreviations": ["sshq"],
+         "tags": ["Suicide Squad", "Harley Quinn", "Agility", "Legendary", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -5384,6 +5463,7 @@
       {
          "name": "Aquaman",
          "abbreviations": ["am"],
+         "tags": ["Aquaman", "Might", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -5432,6 +5512,7 @@
       {
          "name": "Amazon Wonder Woman",
          "abbreviations": ["aww"],
+         "tags": ["Wonder Woman", "Might", "Silver", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -5477,6 +5558,7 @@
       {
          "name": "Bane",
          "abbreviations": ["bn"],
+         "tags": ["Bane", "Might", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -5551,6 +5633,7 @@
       {
          "name": "Black Canary",
          "abbreviations": ["bc"],
+         "tags": ["Black Canary", "Agility", "Silver", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -5622,6 +5705,7 @@
       {
          "name": "Batman",
          "abbreviations": ["bm"],
+         "tags": ["Batman", "Tech", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -5693,6 +5777,7 @@
       {
          "name": "Cyborg",
          "abbreviations": ["cb"],
+         "tags": ["Cyborg", "Tech", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -5738,6 +5823,7 @@
       {
          "name": "Catwoman",
          "abbreviations": ["cw"],
+         "tags": ["Catwoman", "Agility", "Silver", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -5783,6 +5869,7 @@
       {
          "name": "Deadshot",
          "abbreviations": ["dst"],
+         "tags": ["Deadshot", "Tech", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -5828,6 +5915,7 @@
       {
          "name": "The Flash",
          "abbreviations": ["dst"],
+         "tags": ["The Flash", "Metahuman", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -5876,6 +5964,7 @@
       {
          "name": "Green Arrow",
          "abbreviations": ["ga"],
+         "tags": ["Green Arrow", "Tech", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -5924,6 +6013,7 @@
       {
          "name": "Gorilla Grodd",
          "abbreviations": ["gg"],
+         "tags": ["Gorilla Grodd", "Might", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -5969,6 +6059,7 @@
       {
          "name": "Green Lantern",
          "abbreviations": ["gl"],
+         "tags": ["Green Lantern", "Arcnae", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -6014,6 +6105,7 @@
       {
          "name": "Harley Quinn",
          "abbreviations": ["hq"],
+         "tags": ["Harley Quinn", "Agility", "Silver", "Female"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -6059,6 +6151,7 @@
       {
          "name": "Robin",
          "abbreviations": ["rbn"],
+         "tags": ["Robin", "Agility", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -6104,6 +6197,7 @@
       {
          "name": "Scarecrow",
          "abbreviations": ["sc"],
+         "tags": ["Scarecrow", "Arcane", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -6149,6 +6243,7 @@
       {
          "name": "Superman",
          "abbreviations": ["sm"],
+         "tags": ["Superman", "Might", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -6194,6 +6289,7 @@
       {
          "name": "Swamp Thing",
          "abbreviations": ["st"],
+         "tags": ["Swamp Thing", "Metahuman", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -6239,6 +6335,7 @@
       {
          "name": "The Joker",
          "abbreviations": ["jkr"],
+         "tags": ["The Joker", "Agility", "Silver"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -6324,7 +6421,7 @@
                   "blocking": "25%",
                   "cad": "160%",
                   "cac": "34%",
-                  "lac": "60%",
+                  "lac": "56%",
                   "fac": "75%",
                   "stun_resistance": "60%",
                   "dot_resistance": "60%",
@@ -6336,6 +6433,7 @@
       {
          "name": "Wonder Woman",
          "abbreviations": ["ww"],
+         "tags": ["Wonder Woman", "Might", "Silver", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -6381,6 +6479,7 @@
       {
          "name": "Primal Swamp Thing",
          "abbreviations": ["pst"],
+         "tags": ["Swamp Thing", "Metahuman", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -6452,6 +6551,7 @@
       {
          "name": "Sub-Zero",
          "abbreviations": ["sz"],
+         "tags": ["Sub-Zero", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -6497,6 +6597,7 @@
       {
          "name": "Telekinetic Gorilla Grodd",
          "abbreviations": ["tkgg"],
+         "tags": ["Gorilla Grodd", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -6542,6 +6643,7 @@
       {
          "name": "Vixen",
          "abbreviations": ["vxn"],
+         "tags": ["Vixen", "Metahuman", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Meta",
@@ -6623,6 +6725,7 @@
       {
          "name": "Warrior Queen Wonder Woman",
          "abbreviations": ["wqww"],
+         "tags": ["Wonder Woman", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -6668,6 +6771,7 @@
       {
          "name": "Zatanna",
          "abbreviations": ["ztn"],
+         "tags": ["Dark Justice", "Zatanna", "Arcane", "Legendary", "Female"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -6736,6 +6840,7 @@
       {
          "name": "Black Manta",
          "abbreviations": ["bmt"],
+         "tags": ["Black Manta", "Tech", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Tech",
@@ -6820,6 +6925,7 @@
       {
          "name": "Hawkman",
          "abbreviations": ["hwk"],
+         "tags": ["Flawed Justice", "Hawkman", "Might", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Might",
@@ -6878,6 +6984,7 @@
       {
          "name": "Unhinged Harley Quinn",
          "abbreviations": ["uhq", "uhhq"],
+         "tags": ["Harley Quinn", "Agility", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Agility",
@@ -6923,6 +7030,7 @@
       {
          "name": "Unbreakable Cyborg",
          "abbreviations": ["ucb"],
+         "tags": ["Cyborg", "Tech", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Tech",
