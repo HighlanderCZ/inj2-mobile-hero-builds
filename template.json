@@ -1,12 +1,13 @@
 {
    "name": "Template",
    "abbreviations": ["tpl", "tmpl"],
+   "tags": [],
    "description": "This is a template object.",
    "footnote": "",
    "class": "Class",
    "rank": "Rank",
-   "image": null,
    "team": null,
+   "image": null,
    "passives": [
       {
          "name": "Passive 1",
@@ -34,6 +35,7 @@
          "footnote": "",
          "hero_level": 1,
          "gear_level": 1,
+         "star_rating": 1,
          "gear": "15x ATK",
          "talents": "7x DEF",
          "stats": {
