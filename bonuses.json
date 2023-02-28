@@ -1,0 +1,194 @@
+{
+   "bonuses": {
+      "gear": {
+         "attack": {
+            "40": {
+               "common": 125,
+               "rare": 170
+            },
+            "60": {
+               "common": 185,
+               "rare": 150
+            },
+            "70": {
+               "common": 215,
+               "rare": 290
+            }
+         },
+         "health": {
+            "40": {
+               "common": 1300,
+               "rare": 1700
+            },
+            "60": {
+               "common": 1900,
+               "rare": 2500
+            },
+            "70": {
+               "common": 2200,
+               "rare": 2900
+            }
+         },
+         "defense": {
+            "40": {
+               "common": 6,
+               "rare": 11
+            },
+            "60": {
+               "common": 8,
+               "rare": 15
+            },
+            "70": {
+               "common": 9,
+               "rare": 17
+            }
+         },
+         "cad": {
+            "40": {
+               "common": 15,
+               "rare": 25
+            },
+            "60": {
+               "common": 21,
+               "rare": 35
+            },
+            "70": {
+               "common": 23,
+               "rare": 40
+            }
+         },
+         "cac": {
+            "40": {
+               "common": 6,
+               "rare": 11
+            },
+            "60": {
+               "common": 8,
+               "rare": 15
+            },
+            "70": {
+               "common": 9,
+               "rare": 17
+            }
+         },
+         "lac": {
+            "40": {
+               "common": 6,
+               "rare": 11
+            },
+            "60": {
+               "common": 8,
+               "rare": 15
+            },
+            "70": {
+               "common": 9,
+               "rare": 17
+            }
+         },
+         "fac": {
+            "40": {
+               "common": 6,
+               "rare": 11
+            },
+            "60": {
+               "common": 8,
+               "rare": 15
+            },
+            "70": {
+               "common": 9,
+               "rare": 17
+            }
+         },
+         "crit_res": {
+            "40": {
+               "common": 6,
+               "rare": 11
+            },
+            "60": {
+               "common": 8,
+               "rare": 15
+            },
+            "70": {
+               "common": 9,
+               "rare": 17
+            }
+         },
+         "stun_res": {
+            "40": {
+               "common": 6,
+               "rare": 11
+            },
+            "60": {
+               "common": 8,
+               "rare": 15
+            },
+            "70": {
+               "common": 9,
+               "rare": 17
+            }
+         }
+      },
+      "talents": {
+         "attack": {
+            "common": 1,
+            "rare": 2,
+            "epic": 4,
+            "legendary": 10
+         },
+         "health": {
+            "common": 1,
+            "rare": 2,
+            "epic": 4,
+            "legendary": 10
+         },
+         "defense": {
+            "common": 4,
+            "rare": 6,
+            "epic": 12,
+            "legendary": 25
+         },
+         "ap": {
+            "common": 8,
+            "rare": 12,
+            "epic": 24,
+            "legendary": 50
+         },
+         "be": {
+            "common": 4,
+            "rare": 6,
+            "epic": 12,
+            "legendary": 25
+         },
+         "cac": {
+            "common": 4,
+            "rare": 6,
+            "epic": 12,
+            "legendary": 25
+         },
+         "cad": {
+            "common": 8,
+            "rare": 12,
+            "epic": 24,
+            "legendary": 40
+         },
+         "xp": {
+            "common": 5,
+            "rare": 10,
+            "epic": 20,
+            "legendary": 50
+         },
+         "lac": {
+            "common": 4,
+            "rare": 6,
+            "epic": 12,
+            "legendary": 25
+         },
+         "res": {
+            "common": 8,
+            "rare": 12,
+            "epic": 20,
+            "legendary": 40
+         }
+      }
+   }
+}
