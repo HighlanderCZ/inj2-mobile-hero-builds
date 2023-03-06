@@ -6,7 +6,7 @@ Questions? Find me on Discord: [Highlander](https://discordapp.com/users/4025774
 
 ## Roadmap
 
--  have two viable builds for every hero at minimum
+-  Have two viable builds for every hero at minimum
 
 ## Credits
 

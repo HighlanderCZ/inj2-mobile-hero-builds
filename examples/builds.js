@@ -1,7 +1,10 @@
 import { MessageEmbed } from 'discord.js';
 import fetch from 'node-fetch';
 
-let cachedResponse;
+const buildData = {
+   cachedResponse: null,
+   totalHeroCount: 108,
+};
 
 const createEmbeds = (hero) => {
    const embeds = [];
@@ -125,15 +128,12 @@ const fetchData = async () => {
 };
 
 export const getBuild = async (abbreviation) => {
-   let data;
+   let data = buildData.cachedResponse;
 
-   if (!cachedResponse) {
+   if (!data) {
       // Nothing in cache, let's fetch the data
       data = await fetchData();
-      cachedResponse = data;
-   } else {
-      // Data had already been fetched before, use the saved response
-      data = cachedResponse;
+      buildData.cachedResponse = data;
    }
 
    const hero = data.heroes.find((hero) => hero.abbreviations.includes(abbreviation));
@@ -146,14 +146,11 @@ export const getBuild = async (abbreviation) => {
 };
 
 export const getBuildDatabaseStats = async () => {
-   let data;
-   const totalHeroesCount = 108; // This needs to be adjusted as new heroes are released
+   let data = buildData.cachedResponse;
 
-   if (!cachedResponse) {
+   if (!data) {
       data = await fetchData();
-      cachedResponse = data;
-   } else {
-      data = cachedResponse;
+      buildData.cachedResponse = data;
    }
 
    const statsEmbed = new MessageEmbed();
@@ -168,7 +165,7 @@ export const getBuildDatabaseStats = async () => {
    statsEmbed.addFields(
       {
          name: 'Total heroes',
-         value: `${sumHeroes}/${totalHeroesCount}`,
+         value: `${sumHeroes}/${buildData.totalHeroCount}`,
          inline: true,
       },
       {
