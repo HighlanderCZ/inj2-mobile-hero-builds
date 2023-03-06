@@ -3,7 +3,18 @@ import fetch from 'node-fetch';
 
 const buildData = {
    cachedResponse: null,
-   totalHeroCount: 108,
+   totalHeroCount: 108, // This value needs to be updated as new heroes are released
+   cacheTimeout: 60 * 60 * 1000, // One hour
+   lastFetchedTime: null,
+};
+
+const isDataStale = () => {
+   if (!(buildData.lastFetchedTime instanceof Date)) return false;
+
+   const now = new Date();
+
+   // Check if last fetch happened more than {buildData.cacheTimeout} ago
+   return buildData.lastFetchedTime.valueOf() + buildData.cacheTimeout < now.valueOf();
 };
 
 const createEmbeds = (hero) => {
@@ -120,20 +131,23 @@ const fetchData = async () => {
    const response = await fetch(endpoint);
 
    if (!response.ok) {
-      throw new Error(`An error has occured: ${response.status}`);
+      throw new Error(`An error has occured while fetch data from ${endpoint}: ${response.status}`);
    }
 
    const data = await response.json();
+
+   buildData.cachedResponse = data;
+   buildData.lastFetchedTime = new Date(); // Save current time for cache invalidation later
+
    return data;
 };
 
 export const getBuild = async (abbreviation) => {
    let data = buildData.cachedResponse;
 
-   if (!data) {
+   if (!data && !isDataStale()) {
       // Nothing in cache, let's fetch the data
       data = await fetchData();
-      buildData.cachedResponse = data;
    }
 
    const hero = data.heroes.find((hero) => hero.abbreviations.includes(abbreviation));
@@ -148,9 +162,8 @@ export const getBuild = async (abbreviation) => {
 export const getBuildDatabaseStats = async () => {
    let data = buildData.cachedResponse;
 
-   if (!data) {
+   if (!data && !isDataStale()) {
       data = await fetchData();
-      buildData.cachedResponse = data;
    }
 
    const statsEmbed = new MessageEmbed();
