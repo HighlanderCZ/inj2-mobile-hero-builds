@@ -1,5 +1,7 @@
 # Injustice 2 Mobile - Hero builds
 
+![](./repository-og-image.png)
+
 An open source repository of all character builds for Injustice 2 Mobile. Free for anyone to use as is for their Discord bots and web apps, or fork and modify as they see fit.
 
 Questions? Find me on Discord: [Highlander](https://discordapp.com/users/402577495515463680)

@@ -1,6 +1,19 @@
 {
    "heroes": [
       {
+         "name": "LEGENDARY SHAZAM PLACEHOLDER",
+         "abbreviations": [],
+         "tags": ["Shazam", "Arcane?", "Legendary"],
+         "description": "Newest cashgrab",
+         "footnote": "",
+         "class": "Arcane?",
+         "rank": "Legendary",
+         "team": null,
+         "image": null,
+         "passives": [],
+         "builds": []
+      },
+      {
          "name": "Atlantean Armor Aquaman",
          "abbreviations": ["aaa", "aaam"],
          "tags": ["Aquaman", "Might", "Gold"],

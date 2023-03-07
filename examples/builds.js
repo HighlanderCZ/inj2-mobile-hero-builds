@@ -73,19 +73,19 @@ const createEmbeds = (hero) => {
       });
    }
 
+   let footnoteText = 'All passive stats are at their max level unless explicitly stated otherwise';
+
    if (hero.footnote && hero.footnote.length > 0) {
-      heroEmbed.setFooter({ text: hero.footnote });
+      footnoteText += `\n${hero.footnote}`;
    }
+
+   heroEmbed.setFooter({ text: footnoteText });
 
    embeds.push(heroEmbed);
 
    hero.builds.forEach((build) => {
       const buildEmbed = new MessageEmbed();
       let buildName = build.name;
-
-      if (build.gear_level) {
-         buildName += ` (G${build.gear_level})`;
-      }
 
       buildEmbed.setTitle(buildName);
       buildEmbed.setColor(heroColor);
@@ -95,9 +95,19 @@ const createEmbeds = (hero) => {
       }
 
       if (build.author && build.author.length > 0) {
-         buildEmbed.setAuthor({
+         const author = {
             name: `Courtesy of ${build.author}`,
-         });
+         };
+
+         if (build.author_icon && build.author_icon.length > 0) {
+            author.iconURL = build.author_icon;
+         }
+
+         if (build.author_url && build.author_url.length > 0) {
+            author.url = build.author_url;
+         }
+
+         buildEmbed.setAuthor(author);
       }
 
       buildEmbed.addField('Gear', build.gear);
