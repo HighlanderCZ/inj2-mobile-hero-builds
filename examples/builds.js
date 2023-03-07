@@ -3,9 +3,9 @@ import fetch from 'node-fetch';
 
 const buildData = {
    cachedResponse: null,
+   lastFetchedTime: null,
    totalHeroCount: 108, // This value needs to be updated as new heroes are released
    cacheTimeout: 60 * 60 * 1000, // One hour
-   lastFetchedTime: null,
 };
 
 const isDataStale = () => {
@@ -47,21 +47,26 @@ const createEmbeds = (hero) => {
          name: 'Class',
          value: hero.class,
          inline: true,
+      },
+      {
+         name: 'Team',
+         value: hero.team ? hero.team : 'None',
+         inline: true,
       }
    );
 
-   if (hero.image) {
+   if (hero.image && hero.image.length > 0) {
       heroEmbed.setImage(hero.image);
    }
 
    if (hero.passives.length > 0) {
-      heroEmbed.addField('Passives', '\u200b');
+      heroEmbed.addField('\u200b', '**Passives**');
 
       hero.passives.forEach((passive) => {
-         let description = passive.description;
+         let description = `*${passive.description}*`;
 
          if (passive.effects && passive.effects.length > 0) {
-            description += `\n \u2022 ${passive.effects.join('\n \u2022 ')}`;
+            description += `\n \u2003\u2b25 ${passive.effects.join('\n \u2003\u2b25 ')}`;
          }
 
          heroEmbed.addField(passive.name, description);
@@ -131,7 +136,7 @@ const fetchData = async () => {
    const response = await fetch(endpoint);
 
    if (!response.ok) {
-      throw new Error(`An error has occured while fetch data from ${endpoint}: ${response.status}`);
+      throw new Error(`An error has occured while fetching data from ${endpoint}: ${response.status}`);
    }
 
    const data = await response.json();
