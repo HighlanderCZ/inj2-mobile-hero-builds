@@ -6,9 +6,14 @@
 
 ```javascript
 import { Client } from 'discord.js';
-import { getBuild } from './builds.js';
+import { getBuild, buildData, fetchData } from './builds.js';
 
 // Connect to the client and all that jazz
+
+// Initial fetch to reduce delay on command
+client.on('ready', () => {
+   fetchData(false);
+});
 
 // Listen for incoming messages
 client.on('messageCreate', (message) => {

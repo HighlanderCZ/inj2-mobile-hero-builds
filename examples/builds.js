@@ -1,7 +1,7 @@
 import { MessageEmbed } from 'discord.js';
 import fetch from 'node-fetch';
 
-const buildData = {
+export const buildData = {
    cachedResponse: null,
    lastFetchedTime: null,
    totalHeroCount: 108, // This value needs to be updated as new heroes are released
@@ -141,7 +141,7 @@ const createEmbeds = (hero) => {
    return embeds;
 };
 
-const fetchData = async () => {
+export const fetchData = async (doReturn = true) => {
    const endpoint = 'https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/builds.json';
    const response = await fetch(endpoint);
 
@@ -154,7 +154,7 @@ const fetchData = async () => {
    buildData.cachedResponse = data;
    buildData.lastFetchedTime = new Date(); // Save current time for cache invalidation later
 
-   return data;
+   if (doReturn) return data;
 };
 
 export const getBuild = async (abbreviation) => {
