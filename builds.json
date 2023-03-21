@@ -22,7 +22,7 @@
          "class": "Arcane",
          "rank": "Legendary",
          "team": null,
-         "image": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/fury_of_the_gods_shazam.webp",
          "passives": [
             {
                "name": "Overload",
