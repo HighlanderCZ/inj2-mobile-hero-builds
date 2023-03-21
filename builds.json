@@ -1,16 +1,33 @@
 {
    "heroes": [
       {
-         "name": "LEGENDARY SHAZAM PLACEHOLDER",
+         "name": "LEGENDARY JOHN CONSTANTINE PLACEHOLDER",
          "abbreviations": [],
-         "tags": ["Shazam", "Arcane?", "Legendary"],
-         "description": "Newest cashgrab",
+         "tags": ["Arcane?", "Legendary"],
+         "description": "",
          "footnote": "",
-         "class": "Arcane?",
+         "class": "Arcane",
+         "rank": "Legendary",
+         "team": "Justice League Dark",
+         "image": null,
+         "passives": [],
+         "builds": []
+      },
+      {
+         "name": "Fury of the Gods Shazam",
+         "abbreviations": ["fgshz", "fogs", "fogshz", "fgsz"],
+         "tags": ["Shazam", "Arcane", "Legendary"],
+         "description": "",
+         "footnote": "",
+         "class": "Arcane",
          "rank": "Legendary",
          "team": null,
          "image": null,
-         "passives": [],
+         "passives": [
+            { "name": "Overload", "description": "" },
+            { "name": "Static Electricity", "description": "" },
+            { "name": "Grounding", "description": "" }
+         ],
          "builds": []
       },
       {
