@@ -24,9 +24,29 @@
          "team": null,
          "image": null,
          "passives": [
-            { "name": "Overload", "description": "" },
-            { "name": "Static Electricity", "description": "" },
-            { "name": "Grounding", "description": "" }
+            {
+               "name": "Overload",
+               "description": "Shazam accumulates Overload for each received power bar. He also has a chance to recover power after using a Special Ability. The more Overloads accumulated, the less chance there is to restore power bars.",
+               "effects": [
+                  "+1 Overload stack for each Power Bar actively restored. Stacks up to 20.",
+                  "100% chance to recover Power on successful Special. -10% for each Overload."
+               ]
+            },
+            {
+               "name": "Static Electricity",
+               "description": "Spending Overload increases damage and power generation for Shazam.",
+               "effects": [
+                  "+25% Damage and +3% Power generation for every Overload stack spent by Special 3. Stacks up to 30."
+               ]
+            },
+            {
+               "name": "Grounding",
+               "description": "When blocking Specials or dispelling Negative effects, Shazam receives Overloads.",
+               "effects": [
+                  "60% chance to resist Negative effect and gain 4 Overloads",
+                  "100% chance to get 4 Overloads after blocking Special Ability"
+               ]
+            }
          ],
          "builds": []
       },
