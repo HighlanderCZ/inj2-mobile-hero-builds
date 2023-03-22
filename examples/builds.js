@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 export const buildData = {
    cachedResponse: null,
    lastFetchedTime: null,
-   totalHeroCount: 108, // This value needs to be updated as new heroes are released
+   totalHeroCount: 109, // This value needs to be updated as new heroes are released
    cacheTimeout: 60 * 60 * 1000, // One hour
 };
 
