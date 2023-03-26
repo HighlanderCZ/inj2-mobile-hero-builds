@@ -3,13 +3,13 @@
       {
          "name": "John Constantine",
          "abbreviations": ["jcnst"],
-         "tags": ["Arcane", "Legendary"],
+         "tags": ["Arcane", "Legendary", "Justice League Dark"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
          "team": "Justice League Dark",
-         "image": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/john_constantine.webp",
          "passives": [],
          "builds": [
             {
