@@ -1,9 +1,9 @@
 {
    "heroes": [
       {
-         "name": "LEGENDARY JOHN CONSTANTINE PLACEHOLDER",
-         "abbreviations": [],
-         "tags": ["Arcane?", "Legendary"],
+         "name": "John Constantine",
+         "abbreviations": ["jcnst"],
+         "tags": ["Arcane", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -11,7 +11,34 @@
          "team": "Justice League Dark",
          "image": null,
          "passives": [],
-         "builds": []
+         "builds": [
+            {
+               "name": "My name is John Constantine",
+               "description": "Successful Specials used by John mark the opponent with the Hell Mark. This debuff turns all healing into a DoT and prevents resurrection. Justice League Dark deals increased damage to the marked opponent and some additional damage evenly distributed to the tagged out opponents.",
+               "effects": [
+                  "Inflicts Hell Mark on Successful Specials and Supermove",
+                  "Mark transforms heal to DoT and prevents resurrections",
+                  "+160% Damage for Justice League Dark teammates Specials against opponent under the Hell Mark and 80% Damage spreads between opponent's teammates"
+               ]
+            },
+            {
+               "name": "Flammeum Pugni",
+               "description": "John's fury incinerates opponents under Hell Mark. The higher the combo score, the higher the chance to apply Burn on the opponent. He deals more damage to wounded opponents, further boosted by Justice League Dark.",
+               "effects": [
+                  "70% chance to inflict Burn for 15 seconds on opponent with Hell Mark for each 10 combo meter",
+                  "+80% Basic Attack damage for each absent 5% Health of opponent under the Burn",
+                  "+40% Basic Attack damage for each Justice League Dark teammate"
+               ]
+            },
+            {
+               "name": "Antiqua Scientia",
+               "description": "Constantine and his team start the fight prepared and always one step ahead of their opponents. Constantine's magic allows his team to gain energy faster if they get a combo. For Justice League Dark, at the battle start and on each tag-in Constantine adds bonus hits to the combo meter.",
+               "effects": [
+                  "+5% Power generation for each Combo Meter for the team",
+                  "7 Bonus hits to the Combo Meter on Justice League Dark characters tag-in"
+               ]
+            }
+         ]
       },
       {
          "name": "Fury of the Gods Shazam",
