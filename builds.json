@@ -2,7 +2,7 @@
    "heroes": [
       {
          "name": "John Constantine",
-         "abbreviations": ["jcnst"],
+         "abbreviations": ["jcnst", "cnst", "cnstn", "constantine"],
          "tags": ["Arcane", "Legendary", "Justice League Dark"],
          "description": "",
          "footnote": "",
@@ -10,8 +10,7 @@
          "rank": "Legendary",
          "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/john_constantine.webp",
-         "passives": [],
-         "builds": [
+         "passives": [
             {
                "name": "My name is John Constantine",
                "description": "Successful Specials used by John mark the opponent with the Hell Mark. This debuff turns all healing into a DoT and prevents resurrection. Justice League Dark deals increased damage to the marked opponent and some additional damage evenly distributed to the tagged out opponents.",
@@ -38,7 +37,8 @@
                   "7 Bonus hits to the Combo Meter on Justice League Dark characters tag-in"
                ]
             }
-         ]
+         ],
+         "builds": []
       },
       {
          "name": "Fury of the Gods Shazam",
