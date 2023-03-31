@@ -10,6 +10,7 @@
          "rank": "Legendary",
          "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/john_constantine.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "My name is John Constantine",
@@ -50,6 +51,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/fury_of_the_gods_shazam.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Overload",
@@ -87,6 +89,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/atlantean_armor_aquaman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "The Waterbearer",
@@ -158,6 +161,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ace_green_arrow.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Power Lock Arrow",
@@ -204,6 +208,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/arkham_knight_batman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "WayneTech",
@@ -283,6 +288,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/armored_superman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Kryptonian Armor",
@@ -355,6 +361,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/atrocitus.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Dex-Starr",
@@ -429,6 +436,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_adam.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Power of Aton",
@@ -480,6 +488,7 @@
          "rank": "Legendary",
          "team": "Flawed Justice",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ruler_of_kahndaq_black_adam.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Courage of Mehen",
@@ -547,6 +556,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/blue_beetle.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Power Blades",
@@ -619,6 +629,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/blademaster_robin.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Perfect Son",
@@ -665,6 +676,7 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_batman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Aikido",
@@ -762,6 +774,7 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_catwoman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Blinding Strikes",
@@ -844,6 +857,7 @@
          "rank": "Legendary",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_gorilla_grodd.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Crippling Blow",
@@ -932,6 +946,7 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_harley_quinn.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Ninja Sidekick",
@@ -981,6 +996,7 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_lord_joker.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Eternal Foe",
@@ -1027,6 +1043,7 @@
          "rank": "Gold",
          "team": "Batman Ninja",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bn_robin.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Combo Kid",
@@ -1106,6 +1123,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/brainiac.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Force Field",
@@ -1162,6 +1180,7 @@
          "rank": "Legendary",
          "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batman_who_laughs.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "The Darkest Knight",
@@ -1254,6 +1273,7 @@
          "rank": "Gold",
          "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batwoman_the_drowned.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Dead Water Infection",
@@ -1375,6 +1395,7 @@
          "rank": "Gold",
          "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_batman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Batman, Inc.",
@@ -1437,6 +1458,7 @@
          "rank": "Gold",
          "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_superman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Titanic Strength",
@@ -1493,6 +1515,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/captain_cold.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Absolute Zero",
@@ -1565,6 +1588,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/cheetah.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Claws of Death",
@@ -1669,6 +1693,7 @@
          "rank": "Gold",
          "team": "Classic Team",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/classic_wonder_woman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Strength of the Amazonian",
@@ -1758,6 +1783,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/doctor_fate.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Twist of Fate",
@@ -1804,6 +1830,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/darkseid.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Parademons",
@@ -1912,6 +1939,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/dark_supergirl.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Kryptonian Slam",
@@ -1984,6 +2012,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/deathstroke.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Expert Mercenary",
@@ -2040,6 +2069,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/enraged_bane.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Antihero",
@@ -2086,6 +2116,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/emerald_green_lantern.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "For the Corps",
@@ -2162,6 +2193,7 @@
          "rank": "Gold",
          "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/entangling_poison_ivy.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Entangling Vines",
@@ -2218,6 +2250,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/energized_starfire.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Energy Absorption",
@@ -2293,6 +2326,7 @@
          "rank": "Gold",
          "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/elder_swamp_thing.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Disruptive Spores",
@@ -2382,6 +2416,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/flora_poison_ivy.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Poison Vines",
@@ -2454,6 +2489,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/firestorm.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "DoT Resistance",
@@ -2500,6 +2536,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/golden_armor_wonder_woman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Athena's Power",
@@ -2556,6 +2593,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/collector_of_worlds_superman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Supremacy of Reason",
@@ -2641,6 +2679,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/grid.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Circuit Breaker",
@@ -2694,6 +2733,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hellboy.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Box Full of Evil",
@@ -2795,6 +2835,7 @@
          "rank": "Gold",
          "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/heartbreaker_harley_quinn.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "It's Not Me, It's You",
@@ -2906,6 +2947,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/horrific_scarecrow.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Fear Aura",
@@ -2955,6 +2997,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hush.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Tactical Analysis",
@@ -3037,6 +3080,7 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_aquaman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Primordial Power",
@@ -3086,6 +3130,7 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_batman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Tactial Batsuit",
@@ -3187,6 +3232,7 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_cyborg.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Cybernetic Body",
@@ -3237,6 +3283,7 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_flash.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Hyperspeed Assault",
@@ -3286,6 +3333,7 @@
          "rank": "Legendary",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/jl_superman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Batman versus Superman",
@@ -3371,6 +3419,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/john_stewart_green_lantern.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Reinforced Constructs",
@@ -3422,6 +3471,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/knightmare_batman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Reinforced Constructs",
@@ -3467,6 +3517,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/king_of_atlantis_aquaman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Building Tsunami",
@@ -3553,6 +3604,7 @@
          "rank": "Gold",
          "team": "League of Anarchy",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/last_laugh_joker.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Killing Joker",
@@ -3635,6 +3687,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mr_freeze.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Just-Ice",
@@ -3697,6 +3750,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/martian_manhunter.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Martian Arts",
@@ -3783,6 +3837,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/master_thief_catwoman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Finders Keepers",
@@ -3829,6 +3884,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_armored_supergirl.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Multiverse Power",
@@ -3885,6 +3941,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_black_lightning.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Overload",
@@ -3960,6 +4017,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_batwoman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Tactical Strikes",
@@ -4016,6 +4074,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_captain_cold.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Cold Barrier",
@@ -4093,6 +4152,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_flash.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Multiverse Critical",
@@ -4153,6 +4213,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_green_arrow.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Multiverse Power Drain",
@@ -4238,6 +4299,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_supergirl.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Multiverse Tenacity",
@@ -4313,6 +4375,7 @@
          "rank": "Gold",
          "team": "Multiverse",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mv_white_canary.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Multiverse Weapon Master",
@@ -4362,6 +4425,7 @@
          "rank": "Gold",
          "team": "Justice League",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/mythic_wonder_woman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "God Killer Sword",
@@ -4408,6 +4472,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/nightwing.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Staff of Grayson",
@@ -4480,6 +4545,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/predator_batman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Batwing Airstrike",
@@ -4552,6 +4618,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/power_girl.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Solar Energy Absorption",
@@ -4627,6 +4694,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/supergirl.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Powered Heat Vision",
@@ -4673,6 +4741,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/raiden.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Chain Lightning",
@@ -4748,6 +4817,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/raven.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Darkness Fall",
@@ -4838,6 +4908,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/reverse_flash.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Reverse Time",
@@ -4884,6 +4955,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/red_hood.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Time Extension",
@@ -4956,6 +5028,7 @@
          "rank": "Legendary",
          "team": "Dark Metal",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/robin_king.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Victim",
@@ -5025,6 +5098,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/silver_banshee.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Torment's Grasp",
@@ -5071,6 +5145,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/sonic_black_canary.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Sonic Attack",
@@ -5117,6 +5192,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/speedforce_flash.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Lightning Reflexes",
@@ -5166,6 +5242,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/shazam.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Courage of Achilles",
@@ -5226,6 +5303,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/soulstealer_doctor_fate.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Reversal of Fate",
@@ -5272,6 +5350,7 @@
          "rank": "Gold",
          "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_deadshot.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Sniper",
@@ -5386,6 +5465,7 @@
          "rank": "Legendary",
          "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_enchantress.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Mortal Host",
@@ -5475,6 +5555,7 @@
          "rank": "Legendary",
          "team": "Suicide Squad",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/ss_harley_quinn.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "The Suicide Squad",
@@ -5573,6 +5654,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/aquaman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Super Friends",
@@ -5622,6 +5704,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/amazon_wonder_woman.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Amazon Royalty",
@@ -5668,6 +5751,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/bane.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Ultimate Brawler",
@@ -5743,6 +5827,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_canary.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Fast Strikes",
@@ -5815,6 +5900,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/batman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Ambush",
@@ -5887,6 +5973,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/cyborg.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Regeneration",
@@ -5933,6 +6020,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/catwoman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Cat Burglar",
@@ -5979,6 +6067,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/deadshot.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Sharpshooter",
@@ -6025,6 +6114,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/flash.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Blur",
@@ -6074,6 +6164,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/green_arrow.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Exploding Arrows",
@@ -6123,6 +6214,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/gorilla_grodd.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Berserk",
@@ -6169,6 +6261,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/green_lantern.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Green Barrier",
@@ -6215,6 +6308,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/harley_quinn.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Hyenas",
@@ -6261,6 +6355,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/robin.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Combo Master",
@@ -6307,6 +6402,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/scarecrow.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Hook and Chain",
@@ -6353,6 +6449,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/superman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Invulnerable",
@@ -6399,6 +6496,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/swamp_thing.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Wild Growth",
@@ -6445,6 +6543,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/joker.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Joke's on You",
@@ -6543,6 +6642,7 @@
          "rank": "Silver",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/wonder_woman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Amazon",
@@ -6589,6 +6689,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/primal_swamp_thing.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Force of Nature",
@@ -6661,6 +6762,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/subzero.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Klone Kombatant",
@@ -6707,6 +6809,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/telekinetic_gorilla_grodd.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Telekinesis",
@@ -6753,6 +6856,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/vixen.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Wolf Pack",
@@ -6835,6 +6939,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/warrior_queen_wonder_woman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Amazon Warriors",
@@ -6881,6 +6986,7 @@
          "rank": "Legendary",
          "team": "Justice League Dark",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/zatanna.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "S'tahw ni eht cigam tah?",
@@ -6950,6 +7056,7 @@
          "rank": "Legendary",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/black_manta.webp",
+         "portrait_change": false,
          "passives": [
             {
                "name": "Open Wounds",
@@ -7035,6 +7142,7 @@
          "rank": "Gold",
          "team": "Flawed Justice",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/hawkman.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Tactician",
@@ -7094,6 +7202,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/unhinged_harley_quinn.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Psychotic Charm",
@@ -7140,6 +7249,7 @@
          "rank": "Gold",
          "team": null,
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/unbreakable_cyborg.webp",
+         "portrait_change": true,
          "passives": [
             {
                "name": "Resurrection",
