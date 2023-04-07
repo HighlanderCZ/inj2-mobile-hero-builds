@@ -77,7 +77,34 @@
                ]
             }
          ],
-         "builds": []
+         "builds": [
+            {
+               "name": "Damage Dealer Build (G80, 7⭐)",
+               "description": "",
+               "author": "",
+               "author_icon": "",
+               "author_url": "",
+               "footnote": "",
+               "hero_level": 80,
+               "gear_level": 80,
+               "star_rating": 7,
+               "gear": "15x ATK, 2x CAD, 1x LAC, 2x FAC",
+               "talents": "3x DEF, 3x CAC; 7th talent: AP",
+               "stats": {
+                  "attack": 10703,
+                  "health": 29486,
+                  "defense": "73%",
+                  "blocking": "25%",
+                  "cad": "260%",
+                  "cac": "75%",
+                  "lac": "27.8%",
+                  "fac": "47.8%",
+                  "stun_resistance": "0%",
+                  "dot_resistance": "0%",
+                  "crit_resistance": "0%"
+               }
+            }
+         ]
       },
       {
          "name": "Atlantean Armor Aquaman",
