@@ -8,6 +8,7 @@
    "rank": "Rank",
    "team": null,
    "image": null,
+   "portrait_change": true,
    "passives": [
       {
          "name": "Passive 1",

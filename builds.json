@@ -2,7 +2,7 @@
    "heroes": [
       {
          "name": "John Constantine",
-         "abbreviations": ["jcnst", "cnst", "cnstn", "constantine"],
+         "abbreviations": ["jc", "jcnst", "cnst", "cnstn", "constantine"],
          "tags": ["Arcane", "Legendary", "Justice League Dark"],
          "description": "",
          "footnote": "",
