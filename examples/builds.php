@@ -22,9 +22,7 @@ if (isset($_GET["abbreviation"])) {
       $response = json_decode($curl_result, true);
 
       if (isset($response["heroes"])) {
-         $heroes = $response["heroes"];
-
-         $heroes = array_filter($heroes, function ($hero) use ($abbreviation) {
+         $heroes = array_filter($response["heroes"], function ($hero) use ($abbreviation) {
             return in_array($abbreviation, $hero["abbreviations"]);
          });
 
