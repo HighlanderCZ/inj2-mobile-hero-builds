@@ -8,7 +8,13 @@
 import { Client } from 'discord.js';
 import { getBuild, buildData, fetchData } from './builds.js';
 
-// Connect to the client and all that jazz
+// Create a new Client instance
+const client = new Client({
+   intents: ['GUILDS', 'GUILD_MESSAGES'],
+});
+
+// Provide your own Discord bot token
+const BOT_TOKEN = 'token123';
 
 // Initial fetch to reduce delay on command
 client.on('ready', () => {
@@ -44,4 +50,6 @@ client.on('messageCreate', (message) => {
       }
    }
 });
+
+client.login(BOT_TOKEN);
 ```
