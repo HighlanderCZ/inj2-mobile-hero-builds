@@ -42,6 +42,36 @@
          "builds": []
       },
       {
+         "name": "Girl of Steel Supergirl",
+         "abbreviations": ["gssg", "gossg"],
+         "tags": ["Might", "Gold", "Female"],
+         "description": "",
+         "footnote": "",
+         "class": "Might",
+         "rank": "Gold",
+         "team": null,
+         "image": null,
+         "portrait_change": true,
+         "passives": [
+            {
+               "name": "Energy",
+               "description": "Supergirl accumulates Solar Energy from any power spent by her team or drained, stolen by the opponents, and also heals herself and her teammates.",
+               "effects": []
+            },
+            {
+               "name": "Solar Might",
+               "description": "Supergirl enhances Abilities with Solar Energy equal to base Power costs. These Specials apply burn and blind on opponents. Each spent Solar Energy increases Supergirl's and her teammates' damage",
+               "effects": []
+            },
+            {
+               "name": "Kryptonian Defender",
+               "description": "When Supergirl gains a particular amount of Solar Energy, she creates the Solar Shield, which protects her and her teammates from Negative effects. Each dispelled or prevented Negative effect destroys a stack of the Solar Shield.",
+               "effects": []
+            }
+         ],
+         "builds": []
+      },
+      {
          "name": "Fury of the Gods Shazam",
          "abbreviations": ["fgshz", "fogs", "fogshz", "fgsz"],
          "tags": ["Shazam", "Arcane", "Legendary"],
