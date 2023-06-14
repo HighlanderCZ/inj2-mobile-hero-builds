@@ -56,17 +56,23 @@
             {
                "name": "Energy",
                "description": "Supergirl accumulates Solar Energy from any power spent by her team or drained, stolen by the opponents, and also heals herself and her teammates.",
-               "effects": []
+               "effects": [
+                  "+2.5 Solar Energy each time Power spent by teammates or drained by the opponents. Stacks up to 10",
+                  "5% of the maximum Health heal for Supergirl and her teammates"
+               ]
             },
             {
                "name": "Solar Might",
-               "description": "Supergirl enhances Abilities with Solar Energy equal to base Power costs. These Specials apply burn and blind on opponents. Each spent Solar Energy increases Supergirl's and her teammates' damage",
-               "effects": []
+               "description": "Supergirl enhances Abilities with Solar Energy equal to base Power costs. These Specials apply Burn and Blind on opponents. Each spent Solar Energy increases Supergirl's and her teammates' damage",
+               "effects": [
+                  "+30% team's Damage per each Solar Energy spent. Stacks up to 400%",
+                  "Solar Energy enhanced Abilities apply Burn and Blind on the opponent for 12 seconds"
+               ]
             },
             {
                "name": "Kryptonian Defender",
                "description": "When Supergirl gains a particular amount of Solar Energy, she creates the Solar Shield, which protects her and her teammates from Negative effects. Each dispelled or prevented Negative effect destroys a stack of the Solar Shield.",
-               "effects": []
+               "effects": ["1 Solar Shield for each 3 gained Solar Energy stacks. Stacks up to 10"]
             }
          ],
          "builds": []
