@@ -3,18 +3,7 @@ import fetch from 'node-fetch';
 
 export const buildData = {
    cachedResponse: null,
-   lastFetchedTime: null,
-   totalHeroCount: 110, // This value needs to be updated as new heroes are released
-   cacheTimeout: 60 * 60 * 1000, // One hour
-};
-
-const isDataStale = () => {
-   if (!(buildData.lastFetchedTime instanceof Date)) return false;
-
-   const now = new Date();
-
-   // Check if last fetch happened more than {buildData.cacheTimeout} ago
-   return buildData.lastFetchedTime.valueOf() + buildData.cacheTimeout < now.valueOf();
+   totalHeroCount: 111, // This value needs to be updated as new heroes are released
 };
 
 const createEmbeds = (hero) => {
@@ -152,7 +141,6 @@ export const fetchData = async (doReturn = true) => {
    const data = await response.json();
 
    buildData.cachedResponse = data;
-   buildData.lastFetchedTime = new Date(); // Save current time for cache invalidation later
 
    if (doReturn) return data;
 };
@@ -160,7 +148,7 @@ export const fetchData = async (doReturn = true) => {
 export const getBuild = async (abbreviation) => {
    let data = buildData.cachedResponse;
 
-   if (!data && !isDataStale()) {
+   if (!data) {
       // Nothing in cache, let's fetch the data
       data = await fetchData();
    }
@@ -177,7 +165,7 @@ export const getBuild = async (abbreviation) => {
 export const getBuildDatabaseStats = async () => {
    let data = buildData.cachedResponse;
 
-   if (!data && !isDataStale()) {
+   if (!data) {
       data = await fetchData();
    }
 
