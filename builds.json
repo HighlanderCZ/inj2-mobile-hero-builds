@@ -44,13 +44,13 @@
       {
          "name": "Girl of Steel Supergirl",
          "abbreviations": ["gssg", "gossg"],
-         "tags": ["Might", "Gold", "Female"],
+         "tags": ["Supergirl", "Might", "Gold", "Female"],
          "description": "",
          "footnote": "",
          "class": "Might",
          "rank": "Gold",
          "team": null,
-         "image": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/girl_of_steel_supergirl.webp",
          "portrait_change": true,
          "passives": [
             {
