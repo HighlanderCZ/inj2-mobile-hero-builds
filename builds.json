@@ -1,6 +1,20 @@
 {
    "heroes": [
       {
+         "name": "Scarab's Chosen Blue Beetle",
+         "abbreviations": ["scbb"],
+         "tags": ["Blue Beetle", "Tech", "Legendary"],
+         "description": "",
+         "footnote": "",
+         "class": "Tech",
+         "rank": "Legendary",
+         "team": null,
+         "image": null,
+         "portrait_change": true,
+         "passives": [],
+         "builds": []
+      },
+      {
          "name": "John Constantine",
          "abbreviations": ["jc", "jcnst", "cnst", "cnstn", "constantine"],
          "tags": ["Arcane", "Legendary", "Justice League Dark"],
