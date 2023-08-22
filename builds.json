@@ -9,7 +9,7 @@
          "class": "Tech",
          "rank": "Legendary",
          "team": null,
-         "image": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/scarabs_chosen_blue_beetle.webp",
          "portrait_change": true,
          "passives": [],
          "builds": []
