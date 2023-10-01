@@ -1,6 +1,20 @@
 {
    "heroes": [
       {
+         "name": "Scorpion",
+         "abbreviations": ["scn"],
+         "tags": ["Mortal Kombat", "Scorpion", "Arcane", "Legendary"],
+         "description": "",
+         "footnote": "",
+         "class": "Arcane",
+         "rank": "Legendary",
+         "team": "Mortal Kombat",
+         "image": null,
+         "portrait_change": true,
+         "passives": [],
+         "builds": []
+      },
+      {
          "name": "Scarab's Chosen Blue Beetle",
          "abbreviations": ["scbb"],
          "tags": ["Blue Beetle", "Tech", "Legendary"],
@@ -4816,17 +4830,32 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
-         "team": null,
+         "team": "Mortal Kombat",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/raiden.webp",
          "portrait_change": true,
          "passives": [
             {
-               "name": "Chain Lightning",
-               "description": "Team starts with additional power per Arcane teammate. Elder Shock Special Ability will strike tagged-out opponents, dealing variable amounts of damage.",
+               "name": "Power Lord",
+               "description": "Raiden's successful Basic and Swipe attacks steal his opponent's Power depending on the current combo meter",
                "effects": [
-                  "Elder Shock Special Damage jumps to tagged-out opponents: 5,144 Damage on 1st strike, 6,547 Damage on 2nd strike (unclear where the game is pulling those numbers from)",
-                  "+1.2 starting Power bars per Arcane teammates"
+                  "Steals 0.5 Power Bars for 10 Combo Meter hits",
+                  "Steals 1 Power Bar for 30 Combo Meter hits",
+                  "Steals 1.5 Power Bars for 50 Combo Meter hits"
                ]
+            },
+            {
+               "name": "Chain Lightning",
+               "description": "Starts the battle with additional Power per Arcane teammate. Raiden's third Special, Elder Shock, strikes Tagged-out opponents, striking multiple times depending on the opposing team's empty Power.",
+               "effects": [
+                  "Elder Shock affects Tagged-out opponents and deals 50% hero's Attack stat as Damage",
+                  "Additional Strike for opponent's each 2 empty Power bars",
+                  "+1.2 starting Power Bars per Arcane teammate"
+               ]
+            },
+            {
+               "name": "Flawless Victory",
+               "description": "Raiden gives additional Damage buff for Mortal Kombat team depending on opponent's empty Power bars.",
+               "effects": ["Mortal Kombat team additional 60% Damage buff for each opponent's empty Power bar"]
             }
          ],
          "builds": [
@@ -6837,14 +6866,35 @@
          "footnote": "",
          "class": "Arcane",
          "rank": "Gold",
-         "team": null,
+         "team": "Mortal Kombat",
          "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/subzero.webp",
          "portrait_change": true,
          "passives": [
             {
                "name": "Klone Kombatant",
-               "description": "Upon the use of Sub-Zero's Special 3, Klone Toss, a clone of his current opponent is created to fight for him in battle, that has no Supermove or Passives. May be ineffective in Raid Boss battles.",
-               "effects": ["30% Ice clone Health", "90% Ice clone Attack"]
+               "description": "After using Sub-Zero's Special 3, Klone Toss, a Klone of the current opponent tags in, replacing Sub-Zero to fight for him. It has no Passives or Supermove. Klone's successful Basic and Swipe attacks add additional combo hits, but it takes damage on each attack.",
+               "effects": [
+                  "+10 Combo Meter hits for Klone per each Basic and Swipe attack",
+                  "Klone's attacks do not dispel Freeze",
+                  "Klone loses 10% HP for each attack",
+                  "Combo Meter does not interrupt after Klone's defeat or tag-out"
+               ]
+            },
+            {
+               "name": "Let It Go",
+               "description": "When Sub-Zero's Klone is defeated or tags out, it applies Cooled to the opponent, which disables Basic and Swipe attacks.",
+               "effects": [
+                  "25 seconds of Cooled on Klone defeat or tag-out",
+                  "Cooled: disable opponent's Basic and Swipe attacks"
+               ]
+            },
+            {
+               "name": "Hard as Ice",
+               "description": "Mortal Kombat team Swipe attacks against Cooled opponent's apply Frozen Armor buff, which prevents losing Combo Meter by combo interruptions. Using a Special dispels Frozen Armor.",
+               "effects": [
+                  "Apply Frozen Armor for each 2 Swipe attacks to Cooled opponent",
+                  "5 Combo Meter interruptions can be absorbed"
+               ]
             }
          ],
          "builds": [
