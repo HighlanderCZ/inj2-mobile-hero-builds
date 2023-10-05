@@ -2,14 +2,14 @@
    "heroes": [
       {
          "name": "Scorpion",
-         "abbreviations": ["scn"],
+         "abbreviations": ["scp", "scn"],
          "tags": ["Mortal Kombat", "Scorpion", "Arcane", "Legendary"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
          "rank": "Legendary",
          "team": "Mortal Kombat",
-         "image": null,
+         "image": "https://raw.githubusercontent.com/HighlanderCZ/inj2-mobile-hero-builds/main/assets/images/scorpion.webp",
          "portrait_change": true,
          "passives": [],
          "builds": []
@@ -4825,7 +4825,7 @@
       {
          "name": "Raiden",
          "abbreviations": ["rdn"],
-         "tags": ["Raiden", "Arcane", "Gold"],
+         "tags": ["Mortal Kombat", "Raiden", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
@@ -6861,7 +6861,7 @@
       {
          "name": "Sub-Zero",
          "abbreviations": ["sz"],
-         "tags": ["Sub-Zero", "Arcane", "Gold"],
+         "tags": ["Mortal Kombat", "Sub-Zero", "Arcane", "Gold"],
          "description": "",
          "footnote": "",
          "class": "Arcane",
